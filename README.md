@@ -37,7 +37,7 @@
 |---|---|---|---|---|
 |**2023-09-26**|**Attention Satisfies: A Constraint-Satisfaction Lens on Factual Errors of Language Models**|Mert Yuksekgonul et.al.|[2309.15098](http://arxiv.org/abs/2309.15098)|null|
 |**2023-09-26**|**VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning**|Han Lin et.al.|[2309.15091](http://arxiv.org/abs/2309.15091)|null|
-|**2023-09-26**|**RankVicuna: Zero-Shot Listwise Document Reranking with Open-Source Large Language Models**|Ronak Pradeep et.al.|[2309.15088](http://arxiv.org/abs/2309.15088)|null|
+|**2023-09-26**|**RankVicuna: Zero-Shot Listwise Document Reranking with Open-Source Large Language Models**|Ronak Pradeep et.al.|[2309.15088](http://arxiv.org/abs/2309.15088)|**[link](https://github.com/castorini/rank_llm)**|
 |**2023-09-26**|**Language-EXtended Indoor SLAM (LEXIS): A Versatile System for Real-time Visual Scene Understanding**|Christina Kassab et.al.|[2309.15065](http://arxiv.org/abs/2309.15065)|null|
 |**2023-09-26**|**When Prolog meets generative models: a new approach for managing knowledge and planning in robotic applications**|Enrico Saccon et.al.|[2309.15049](http://arxiv.org/abs/2309.15049)|null|
 |**2023-09-26**|**Large Language Model Alignment: A Survey**|Tianhao Shen et.al.|[2309.15025](http://arxiv.org/abs/2309.15025)|null|
