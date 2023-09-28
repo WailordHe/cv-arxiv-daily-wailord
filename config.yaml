@@ -24,7 +24,7 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "Computer Vision":
         filters: ["Masked Image Modeling", "MAE", 
-                  "Backbone", "Retentive Network"]
+                  "Backbone", "Retentive Network","CLIP","MLLM","large"]
     "LLM":
         filters: ["Large Language Models", "GPT", 
-                  "Architecture", "Recurrent", "Retnet","SSM"]
+                  "Architecture", "Recurrent", "Retnet","SSM","linear Transformer","RNN","Linear Attention","Transformer","Long Sequence"]
