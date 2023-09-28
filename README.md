@@ -1,4 +1,8 @@
-forked from Vincentqyw/cv-arxiv-daily
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+
 ## Updated on 2023.09.28
 > Usage instructions: [here](./docs/README.md#usage)
 
@@ -14,6 +18,7 @@ forked from Vincentqyw/cv-arxiv-daily
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-26**|**M $^{3}$ 3D: Learning 3D priors using Multi-Modal Masked Autoencoders for 2D image and video understanding**|Muhammad Abdullah Jamal et.al.|[2309.15313](http://arxiv.org/abs/2309.15313)|null|
 |**2023-09-25**|**Masked Image Residual Learning for Scaling Deeper Vision Transformers**|Guoxi Huang et.al.|[2309.14136](http://arxiv.org/abs/2309.14136)|null|
 |**2023-09-20**|**RMT: Retentive Networks Meet Vision Transformers**|Qihang Fan et.al.|[2309.11523](http://arxiv.org/abs/2309.11523)|null|
 |**2023-09-18**|**Heterogeneous Generative Knowledge Distillation with Masked Image Modeling**|Ziming Wang et.al.|[2309.09571](http://arxiv.org/abs/2309.09571)|null|
@@ -31,6 +36,16 @@ forked from Vincentqyw/cv-arxiv-daily
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-09-27**|**Lyra: Orchestrating Dual Correction in Automated Theorem Proving**|Chuanyang Zheng et.al.|[2309.15806](http://arxiv.org/abs/2309.15806)|**[link](https://github.com/chuanyang-zheng/lyra-theorem-prover)**|
+|**2023-09-27**|**Large Language Model Routing with Benchmark Datasets**|Tal Shnitzer et.al.|[2309.15789](http://arxiv.org/abs/2309.15789)|null|
+|**2023-09-27**|**One For All: Video Conversation is Feasible Without Video Instruction Tuning**|Ruyang Liu et.al.|[2309.15785](http://arxiv.org/abs/2309.15785)|null|
+|**2023-09-27**|**MindGPT: Interpreting What You See with Non-invasive Brain Recordings**|Jiaxuan Chen et.al.|[2309.15729](http://arxiv.org/abs/2309.15729)|null|
+|**2023-09-27**|**ChatGPT-BCI: Word-Level Neural State Classification Using GPT, EEG, and Eye-Tracking Biomarkers in Semantic Inference Reading Comprehension**|Yuhong Zhang et.al.|[2309.15714](http://arxiv.org/abs/2309.15714)|null|
+|**2023-09-27**|**HyPoradise: An Open Baseline for Generative Speech Recognition with Large Language Models**|Chen Chen et.al.|[2309.15701](http://arxiv.org/abs/2309.15701)|null|
+|**2023-09-27**|**Conversational Feedback in Scripted versus Spontaneous Dialogues: A Comparative Analysis**|Ildikó Pilán et.al.|[2309.15656](http://arxiv.org/abs/2309.15656)|null|
+|**2023-09-27**|**Generative Speech Recognition Error Correction with Large Language Models**|Chao-Han Huck Yang et.al.|[2309.15649](http://arxiv.org/abs/2309.15649)|null|
+|**2023-09-27**|**NLPBench: Evaluating Large Language Models on Solving NLP Problems**|Linxin Song et.al.|[2309.15630](http://arxiv.org/abs/2309.15630)|**[link](https://github.com/linxins97/nlpbench)**|
+|**2023-09-27**|**From Misuse to Mastery: Enhancing Code Generation with Knowledge-Driven AI Chaining**|Xiaoxue Ren et.al.|[2309.15606](http://arxiv.org/abs/2309.15606)|null|
 |**2023-09-26**|**Attention Satisfies: A Constraint-Satisfaction Lens on Factual Errors of Language Models**|Mert Yuksekgonul et.al.|[2309.15098](http://arxiv.org/abs/2309.15098)|null|
 |**2023-09-26**|**VideoDirectorGPT: Consistent Multi-scene Video Generation via LLM-Guided Planning**|Han Lin et.al.|[2309.15091](http://arxiv.org/abs/2309.15091)|null|
 |**2023-09-26**|**RankVicuna: Zero-Shot Listwise Document Reranking with Open-Source Large Language Models**|Ronak Pradeep et.al.|[2309.15088](http://arxiv.org/abs/2309.15088)|**[link](https://github.com/castorini/rank_llm)**|
