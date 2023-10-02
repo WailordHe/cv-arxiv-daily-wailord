@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.01
+## Updated on 2023.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -30,7 +30,7 @@
 |**2023-09-09**|**BiLMa: Bidirectional Local-Matching for Text-based Person Re-identification**|Takuro Fujii et.al.|[2309.04675](http://arxiv.org/abs/2309.04675)|null|
 |**2023-09-08**|**AMLP:Adaptive Masking Lesion Patches for Self-supervised Medical Image Segmentation**|Xiangtao Wang et.al.|[2309.04312](http://arxiv.org/abs/2309.04312)|null|
 
-<p align=right>(<a href=#updated-on-20231001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231002>back to top</a>)</p>
 
 ## LLM
 
@@ -44,7 +44,7 @@
 |**2023-09-28**|**A Benchmark for Learning to Translate a New Language from One Grammar Book**|Garrett Tanzer et.al.|[2309.16575](http://arxiv.org/abs/2309.16575)|null|
 |**2023-09-28**|**Augmenting LLMs with Knowledge: A survey on hallucination prevention**|Konstantinos Andriopoulos et.al.|[2309.16459](http://arxiv.org/abs/2309.16459)|null|
 |**2023-09-28**|**Neuro Symbolic Reasoning for Planning: Counterexample Guided Inductive Synthesis using Large Language Models and Satisfiability Solving**|Sumit Kumar Jha et.al.|[2309.16436](http://arxiv.org/abs/2309.16436)|null|
-|**2023-09-28**|**AutoCLIP: Auto-tuning Zero-Shot Classifiers for Vision-Language Models**|Jan Hendrik Metzen et.al.|[2309.16414](http://arxiv.org/abs/2309.16414)|null|
+|**2023-09-29**|**AutoCLIP: Auto-tuning Zero-Shot Classifiers for Vision-Language Models**|Jan Hendrik Metzen et.al.|[2309.16414](http://arxiv.org/abs/2309.16414)|null|
 |**2023-09-28**|**RLLTE: Long-Term Evolution Project of Reinforcement Learning**|Mingqi Yuan et.al.|[2309.16382](http://arxiv.org/abs/2309.16382)|null|
 |**2023-09-27**|**Lyra: Orchestrating Dual Correction in Automated Theorem Proving**|Chuanyang Zheng et.al.|[2309.15806](http://arxiv.org/abs/2309.15806)|**[link](https://github.com/chuanyang-zheng/lyra-theorem-prover)**|
 |**2023-09-27**|**Large Language Model Routing with Benchmark Datasets**|Tal Shnitzer et.al.|[2309.15789](http://arxiv.org/abs/2309.15789)|null|
@@ -67,7 +67,7 @@
 |**2023-09-26**|**Fine-tuning and aligning question answering models for complex information extraction tasks**|Matthias Engelbach et.al.|[2309.14805](http://arxiv.org/abs/2309.14805)|null|
 |**2023-09-26**|**Exploring Small Language Models with Prompt-Learning Paradigm for Efficient Domain-Specific Text Classification**|Hengyu Luo et.al.|[2309.14779](http://arxiv.org/abs/2309.14779)|null|
 
-<p align=right>(<a href=#updated-on-20231001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231002>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
