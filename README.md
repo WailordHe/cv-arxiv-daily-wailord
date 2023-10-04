@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-02**|**Self-distilled Masked Attention guided masked image modeling with noise Regularized Teacher (SMART) for medical image analysis**|Jue Jiang et.al.|[2310.01209](http://arxiv.org/abs/2310.01209)|null|
 |**2023-09-29**|**Information Flow in Self-Supervised Learning**|Zhiquan Tan et.al.|[2309.17281](http://arxiv.org/abs/2309.17281)|**[link](https://github.com/yifanzhang-pro/m-mae)**|
 |**2023-09-26**|**M $^{3}$ 3D: Learning 3D priors using Multi-Modal Masked Autoencoders for 2D image and video understanding**|Muhammad Abdullah Jamal et.al.|[2309.15313](http://arxiv.org/abs/2309.15313)|null|
 |**2023-09-25**|**Masked Image Residual Learning for Scaling Deeper Vision Transformers**|Guoxi Huang et.al.|[2309.14136](http://arxiv.org/abs/2309.14136)|null|
@@ -37,6 +38,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-03**|**Generalizable Long-Horizon Manipulations with Large Language Models**|Haoyu Zhou et.al.|[2310.02264](http://arxiv.org/abs/2310.02264)|null|
+|**2023-10-03**|**Contrastive Post-training Large Language Models on Data Curriculum**|Canwen Xu et.al.|[2310.02263](http://arxiv.org/abs/2310.02263)|null|
+|**2023-10-03**|**A Neural Scaling Law from Lottery Ticket Ensembling**|Ziming Liu et.al.|[2310.02258](http://arxiv.org/abs/2310.02258)|null|
+|**2023-10-03**|**MathVista: Evaluating Mathematical Reasoning of Foundation Models in Visual Contexts**|Pan Lu et.al.|[2310.02255](http://arxiv.org/abs/2310.02255)|null|
+|**2023-10-03**|**MiniGPT-5: Interleaved Vision-and-Language Generation via Generative Vokens**|Kaizhi Zheng et.al.|[2310.02239](http://arxiv.org/abs/2310.02239)|**[link](https://github.com/eric-ai-lab/minigpt-5)**|
+|**2023-10-03**|**Who's Harry Potter? Approximate Unlearning in LLMs**|Ronen Eldan et.al.|[2310.02238](http://arxiv.org/abs/2310.02238)|null|
+|**2023-10-03**|**Extraction of Medication and Temporal Relation from Clinical Text by Harnessing Different Deep Learning Models**|Hangyu Tu et.al.|[2310.02229](http://arxiv.org/abs/2310.02229)|null|
+|**2023-10-03**|**Language Models Represent Space and Time**|Wes Gurnee et.al.|[2310.02207](http://arxiv.org/abs/2310.02207)|**[link](https://github.com/wesg52/world-models)**|
+|**2023-10-03**|**Ask Again, Then Fail: Large Language Models' Vacillations in Judgement**|Qiming Xie et.al.|[2310.02174](http://arxiv.org/abs/2310.02174)|null|
+|**2023-10-03**|**Lyfe Agents: Generative agents for low-cost real-time social interactions**|Zhao Kaiya et.al.|[2310.02172](http://arxiv.org/abs/2310.02172)|null|
 |**2023-09-29**|**Efficient Streaming Language Models with Attention Sinks**|Guangxuan Xiao et.al.|[2309.17453](http://arxiv.org/abs/2309.17453)|**[link](https://github.com/mit-han-lab/streaming-llm)**|
 |**2023-09-29**|**ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving**|Zhibin Gou et.al.|[2309.17452](http://arxiv.org/abs/2309.17452)|**[link](https://github.com/microsoft/tora)**|
 |**2023-09-29**|**A Large Language Model Approach to Educational Survey Feedback Analysis**|Michael J. Parker et.al.|[2309.17447](http://arxiv.org/abs/2309.17447)|null|
