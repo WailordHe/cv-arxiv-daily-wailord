@@ -35,7 +35,7 @@ layout: default
 |**2023-10-05**|**HeaP: Hierarchical Policies for Web Actions using LLMs**|Paloma Sodhi et.al.|[2310.03720](http://arxiv.org/abs/2310.03720)|null|
 |**2023-10-05**|**A Long Way to Go: Investigating Length Correlations in RLHF**|Prasann Singhal et.al.|[2310.03716](http://arxiv.org/abs/2310.03716)|**[link](https://github.com/prasanns/rlhf-length-biases)**|
 |**2023-10-05**|**Agent Instructs Large Language Models to be General Zero-Shot Reasoners**|Nicholas Crispino et.al.|[2310.03710](http://arxiv.org/abs/2310.03710)|**[link](https://github.com/wang-research-lab/agentinstruct)**|
-|**2023-10-05**|**Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!**|Xiangyu Qi et.al.|[2310.03693](http://arxiv.org/abs/2310.03693)|null|
+|**2023-10-05**|**Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!**|Xiangyu Qi et.al.|[2310.03693](http://arxiv.org/abs/2310.03693)|**[link](https://github.com/llm-tuning-safety/llms-finetuning-safety)**|
 |**2023-10-05**|**DirectGPT: A Direct Manipulation Interface to Interact with Large Language Models**|Damien Masson et.al.|[2310.03691](http://arxiv.org/abs/2310.03691)|null|
 |**2023-10-05**|**SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks**|Alexander Robey et.al.|[2310.03684](http://arxiv.org/abs/2310.03684)|null|
 |**2023-10-05**|**GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction**|Oscar Sainz et.al.|[2310.03668](http://arxiv.org/abs/2310.03668)|**[link](https://github.com/hitz-zentroa/gollie)**|
