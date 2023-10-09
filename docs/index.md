@@ -14,10 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**Self-Supervised Neuron Segmentation with Multi-Agent Reinforcement Learning**|Yinda Chen et.al.|[2310.04148](http://arxiv.org/abs/2310.04148)|**[link](https://github.com/ydchen0806/dbmim)**|
 |**2023-10-02**|**Self-distilled Masked Attention guided masked image modeling with noise Regularized Teacher (SMART) for medical image analysis**|Jue Jiang et.al.|[2310.01209](http://arxiv.org/abs/2310.01209)|null|
 |**2023-09-29**|**Information Flow in Self-Supervised Learning**|Zhiquan Tan et.al.|[2309.17281](http://arxiv.org/abs/2309.17281)|**[link](https://github.com/yifanzhang-pro/m-mae)**|
 |**2023-09-26**|**M $^{3}$ 3D: Learning 3D priors using Multi-Modal Masked Autoencoders for 2D image and video understanding**|Muhammad Abdullah Jamal et.al.|[2309.15313](http://arxiv.org/abs/2309.15313)|null|
-|**2023-09-25**|**Masked Image Residual Learning for Scaling Deeper Vision Transformers**|Guoxi Huang et.al.|[2309.14136](http://arxiv.org/abs/2309.14136)|null|
+|**2023-09-25**|**Masked Image Residual Learning for Scaling Deeper Vision Transformers**|Guoxi Huang et.al.|[2309.14136](http://arxiv.org/abs/2309.14136)|**[link](https://github.com/russellllaputa/MIRL)**|
 |**2023-09-20**|**RMT: Retentive Networks Meet Vision Transformers**|Qihang Fan et.al.|[2309.11523](http://arxiv.org/abs/2309.11523)|null|
 |**2023-09-18**|**Heterogeneous Generative Knowledge Distillation with Masked Image Modeling**|Ziming Wang et.al.|[2309.09571](http://arxiv.org/abs/2309.09571)|null|
 |**2023-09-18**|**FactoFormer: Factorized Hyperspectral Transformers with Self-Supervised Pre-Training**|Shaheer Mohamed et.al.|[2309.09431](http://arxiv.org/abs/2309.09431)|**[link](https://github.com/csiro-robotics/factoformer)**|
@@ -32,6 +33,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-06**|**BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity**|Andrew F. Luo et.al.|[2310.04420](http://arxiv.org/abs/2310.04420)|null|
+|**2023-10-06**|**Why Do We Need Weight Decay in Modern Deep Learning?**|Maksym Andriushchenko et.al.|[2310.04415](http://arxiv.org/abs/2310.04415)|**[link](https://github.com/tml-epfl/why-weight-decay)**|
+|**2023-10-06**|**Policy-Gradient Training of Language Models for Ranking**|Ge Gao et.al.|[2310.04407](http://arxiv.org/abs/2310.04407)|null|
+|**2023-10-06**|**Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models**|Andy Zhou et.al.|[2310.04406](http://arxiv.org/abs/2310.04406)|**[link](https://github.com/andyz245/LanguageAgentTreeSearch)**|
+|**2023-10-06**|**Confronting Reward Model Overoptimization with Constrained RLHF**|Ted Moskovitz et.al.|[2310.04373](http://arxiv.org/abs/2310.04373)|null|
+|**2023-10-06**|**Amortizing intractable inference in large language models**|Edward J. Hu et.al.|[2310.04363](http://arxiv.org/abs/2310.04363)|null|
+|**2023-10-06**|**A Language-Agent Approach to Formal Theorem-Proving**|Amitayush Thakur et.al.|[2310.04353](http://arxiv.org/abs/2310.04353)|null|
+|**2023-10-06**|**Coding by Design: GPT-4 empowers Agile Model Driven Development**|Ahmed R. Sadik et.al.|[2310.04304](http://arxiv.org/abs/2310.04304)|null|
+|**2023-10-06**|**Identifying Representations for Intervention Extrapolation**|Sorawit Saengkyongam et.al.|[2310.04295](http://arxiv.org/abs/2310.04295)|null|
+|**2023-10-06**|**From task structures to world models: What do LLMs know?**|Ilker Yildirim et.al.|[2310.04276](http://arxiv.org/abs/2310.04276)|null|
 |**2023-10-05**|**HeaP: Hierarchical Policies for Web Actions using LLMs**|Paloma Sodhi et.al.|[2310.03720](http://arxiv.org/abs/2310.03720)|null|
 |**2023-10-05**|**A Long Way to Go: Investigating Length Correlations in RLHF**|Prasann Singhal et.al.|[2310.03716](http://arxiv.org/abs/2310.03716)|**[link](https://github.com/prasanns/rlhf-length-biases)**|
 |**2023-10-05**|**Agent Instructs Large Language Models to be General Zero-Shot Reasoners**|Nicholas Crispino et.al.|[2310.03710](http://arxiv.org/abs/2310.03710)|**[link](https://github.com/wang-research-lab/agentinstruct)**|
