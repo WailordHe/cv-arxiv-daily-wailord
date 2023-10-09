@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.08
+## Updated on 2023.10.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -38,7 +38,7 @@ layout: default
 |**2023-10-05**|**Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!**|Xiangyu Qi et.al.|[2310.03693](http://arxiv.org/abs/2310.03693)|**[link](https://github.com/llm-tuning-safety/llms-finetuning-safety)**|
 |**2023-10-05**|**DirectGPT: A Direct Manipulation Interface to Interact with Large Language Models**|Damien Masson et.al.|[2310.03691](http://arxiv.org/abs/2310.03691)|null|
 |**2023-10-05**|**SmoothLLM: Defending Large Language Models Against Jailbreaking Attacks**|Alexander Robey et.al.|[2310.03684](http://arxiv.org/abs/2310.03684)|null|
-|**2023-10-05**|**GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction**|Oscar Sainz et.al.|[2310.03668](http://arxiv.org/abs/2310.03668)|**[link](https://github.com/hitz-zentroa/gollie)**|
+|**2023-10-06**|**GoLLIE: Annotation Guidelines improve Zero-Shot Information-Extraction**|Oscar Sainz et.al.|[2310.03668](http://arxiv.org/abs/2310.03668)|**[link](https://github.com/hitz-zentroa/gollie)**|
 |**2023-10-05**|**MapperGPT: Large Language Models for Linking and Mapping Entities**|Nicolas Matentzoglu et.al.|[2310.03666](http://arxiv.org/abs/2310.03666)|null|
 |**2023-10-05**|**Balancing Autonomy and Alignment: A Multi-Dimensional Taxonomy for Autonomous LLM-powered Multi-Agent Architectures**|Thorsten Händler et.al.|[2310.03659](http://arxiv.org/abs/2310.03659)|null|
 |**2023-10-05**|**Adversarial Machine Learning for Social Good: Reframing the Adversary as an Ally**|Shawqi Al-Maliki et.al.|[2310.03614](http://arxiv.org/abs/2310.03614)|null|
