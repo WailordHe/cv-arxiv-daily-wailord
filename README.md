@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**RetSeg: Retention-based Colorectal Polyps Segmentation Network**|Khaled ELKarazle et.al.|[2310.05446](http://arxiv.org/abs/2310.05446)|null|
 |**2023-10-06**|**Self-Supervised Neuron Segmentation with Multi-Agent Reinforcement Learning**|Yinda Chen et.al.|[2310.04148](http://arxiv.org/abs/2310.04148)|**[link](https://github.com/ydchen0806/dbmim)**|
 |**2023-10-02**|**Self-distilled Masked Attention guided masked image modeling with noise Regularized Teacher (SMART) for medical image analysis**|Jue Jiang et.al.|[2310.01209](http://arxiv.org/abs/2310.01209)|null|
 |**2023-09-29**|**Information Flow in Self-Supervised Learning**|Zhiquan Tan et.al.|[2309.17281](http://arxiv.org/abs/2309.17281)|**[link](https://github.com/yifanzhang-pro/m-mae)**|
@@ -39,6 +40,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-09**|**A Meta-Learning Perspective on Transformers for Causal Language Modeling**|Xinbo Wu et.al.|[2310.05884](http://arxiv.org/abs/2310.05884)|null|
+|**2023-10-09**|**ViCor: Bridging Visual Understanding and Commonsense Reasoning with Large Language Models**|Kaiwen Zhou et.al.|[2310.05872](http://arxiv.org/abs/2310.05872)|null|
+|**2023-10-09**|**HyperAttention: Long-context Attention in Near-Linear Time**|Insu Han et.al.|[2310.05869](http://arxiv.org/abs/2310.05869)|null|
+|**2023-10-09**|**Generative quantum machine learning via denoising diffusion probabilistic models**|Bingzhi Zhang et.al.|[2310.05866](http://arxiv.org/abs/2310.05866)|null|
+|**2023-10-09**|**Fine-grained Audio-Visual Joint Representations for Multimodal Large Language Models**|Guangzhi Sun et.al.|[2310.05863](http://arxiv.org/abs/2310.05863)|**[link](https://github.com/briansidp/audiovisualllm)**|
+|**2023-10-09**|**Rephrase, Augment, Reason: Visual Grounding of Questions for Vision-Language Models**|Archiki Prasad et.al.|[2310.05861](http://arxiv.org/abs/2310.05861)|null|
+|**2023-10-09**|**Improving Summarization with Human Edits**|Zonghai Yao et.al.|[2310.05857](http://arxiv.org/abs/2310.05857)|null|
+|**2023-10-09**|**"Mango Mango, How to Let The Lettuce Dry Without A Spinner?'': Exploring User Perceptions of Using An LLM-Based Conversational Assistant Toward Cooking Partner**|Szeyi Chan et.al.|[2310.05853](http://arxiv.org/abs/2310.05853)|null|
+|**2023-10-09**|**GraphLLM: Boosting Graph Reasoning Ability of Large Language Model**|Ziwei Chai et.al.|[2310.05845](http://arxiv.org/abs/2310.05845)|**[link](https://github.com/mistyreed63849/graph-llm)**|
+|**2023-10-09**|**A Bias-Variance-Covariance Decomposition of Kernel Scores for Generative Models**|Sebastian G. Gruber et.al.|[2310.05833](http://arxiv.org/abs/2310.05833)|null|
 |**2023-10-06**|**BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity**|Andrew F. Luo et.al.|[2310.04420](http://arxiv.org/abs/2310.04420)|null|
 |**2023-10-06**|**Why Do We Need Weight Decay in Modern Deep Learning?**|Maksym Andriushchenko et.al.|[2310.04415](http://arxiv.org/abs/2310.04415)|**[link](https://github.com/tml-epfl/why-weight-decay)**|
 |**2023-10-06**|**Policy-Gradient Training of Language Models for Ranking**|Ge Gao et.al.|[2310.04407](http://arxiv.org/abs/2310.04407)|null|
