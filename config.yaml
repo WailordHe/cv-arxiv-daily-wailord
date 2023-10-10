@@ -27,6 +27,7 @@ keywords:
                   "Backbone", "Retentive Network","CLIP","MLLM","large"]
     "LLM":
         filters: ["Large Language Models", "GPT", 
-                  "Architecture", "Recurrent", "Retnet","SSM","linear Transformer","RNN","Linear Attention","Transformer","Long Sequence",
-                  "SSM", "s4", "h3", "hippo"
+                  "Architecture", "Recurrent", "Retnet","linear Transformer","RNN","Linear Attention","Transformer","Long Sequence",
+                  "SSM", "s4", "h3", "hippo",
+                  "LLM", "RWKV",
                   ]
