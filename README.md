@@ -40,6 +40,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-10**|**LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression**|Huiqiang Jiang et.al.|[2310.06839](http://arxiv.org/abs/2310.06839)|null|
+|**2023-10-10**|**Generating and Evaluating Tests for K-12 Students with Language Model Simulations: A Case Study on Sentence Reading Efficiency**|Eric Zelikman et.al.|[2310.06837](http://arxiv.org/abs/2310.06837)|null|
+|**2023-10-10**|**Teaching Language Models to Hallucinate Less with Synthetic Tasks**|Erik Jones et.al.|[2310.06827](http://arxiv.org/abs/2310.06827)|null|
+|**2023-10-10**|**The Geometry of Truth: Emergent Linear Structure in Large Language Model Representations of True/False Datasets**|Samuel Marks et.al.|[2310.06824](http://arxiv.org/abs/2310.06824)|null|
+|**2023-10-10**|**OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text**|Keiran Paster et.al.|[2310.06786](http://arxiv.org/abs/2310.06786)|null|
+|**2023-10-10**|**TRACE: A Comprehensive Benchmark for Continual Learning in Large Language Models**|Xiao Wang et.al.|[2310.06762](http://arxiv.org/abs/2310.06762)|**[link](https://github.com/beyonderxx/trace)**|
+|**2023-10-10**|**Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning**|Mengzhou Xia et.al.|[2310.06694](http://arxiv.org/abs/2310.06694)|null|
+|**2023-10-10**|**Meta-CoT: Generalizable Chain-of-Thought Prompting in Mixed-task Scenarios with Large Language Models**|Anni Zou et.al.|[2310.06692](http://arxiv.org/abs/2310.06692)|**[link](https://github.com/anni-zou/meta-cot)**|
+|**2023-10-10**|**Benchmarking and Explaining Large Language Model-based Code Generation: A Causality-Centric Approach**|Zhenlan Ji et.al.|[2310.06680](http://arxiv.org/abs/2310.06680)|null|
+|**2023-10-10**|**SEER: A Knapsack approach to Exemplar Selection for In-Context HybridQA**|Jonathan Tonglet et.al.|[2310.06675](http://arxiv.org/abs/2310.06675)|null|
 |**2023-10-09**|**A Meta-Learning Perspective on Transformers for Causal Language Modeling**|Xinbo Wu et.al.|[2310.05884](http://arxiv.org/abs/2310.05884)|null|
 |**2023-10-09**|**ViCor: Bridging Visual Understanding and Commonsense Reasoning with Large Language Models**|Kaiwen Zhou et.al.|[2310.05872](http://arxiv.org/abs/2310.05872)|null|
 |**2023-10-09**|**HyperAttention: Long-context Attention in Near-Linear Time**|Insu Han et.al.|[2310.05869](http://arxiv.org/abs/2310.05869)|null|
