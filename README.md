@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.11
+## Updated on 2023.10.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -34,7 +34,7 @@
 |**2023-09-09**|**BiLMa: Bidirectional Local-Matching for Text-based Person Re-identification**|Takuro Fujii et.al.|[2309.04675](http://arxiv.org/abs/2309.04675)|null|
 |**2023-09-08**|**AMLP:Adaptive Masking Lesion Patches for Self-supervised Medical Image Segmentation**|Xiangtao Wang et.al.|[2309.04312](http://arxiv.org/abs/2309.04312)|null|
 
-<p align=right>(<a href=#updated-on-20231011>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231012>back to top</a>)</p>
 
 ## LLM
 
@@ -47,7 +47,7 @@
 |**2023-10-10**|**OpenWebMath: An Open Dataset of High-Quality Mathematical Web Text**|Keiran Paster et.al.|[2310.06786](http://arxiv.org/abs/2310.06786)|null|
 |**2023-10-10**|**TRACE: A Comprehensive Benchmark for Continual Learning in Large Language Models**|Xiao Wang et.al.|[2310.06762](http://arxiv.org/abs/2310.06762)|**[link](https://github.com/beyonderxx/trace)**|
 |**2023-10-10**|**Sheared LLaMA: Accelerating Language Model Pre-training via Structured Pruning**|Mengzhou Xia et.al.|[2310.06694](http://arxiv.org/abs/2310.06694)|null|
-|**2023-10-10**|**Meta-CoT: Generalizable Chain-of-Thought Prompting in Mixed-task Scenarios with Large Language Models**|Anni Zou et.al.|[2310.06692](http://arxiv.org/abs/2310.06692)|**[link](https://github.com/anni-zou/meta-cot)**|
+|**2023-10-11**|**Meta-CoT: Generalizable Chain-of-Thought Prompting in Mixed-task Scenarios with Large Language Models**|Anni Zou et.al.|[2310.06692](http://arxiv.org/abs/2310.06692)|**[link](https://github.com/anni-zou/meta-cot)**|
 |**2023-10-10**|**Benchmarking and Explaining Large Language Model-based Code Generation: A Causality-Centric Approach**|Zhenlan Ji et.al.|[2310.06680](http://arxiv.org/abs/2310.06680)|null|
 |**2023-10-10**|**SEER: A Knapsack approach to Exemplar Selection for In-Context HybridQA**|Jonathan Tonglet et.al.|[2310.06675](http://arxiv.org/abs/2310.06675)|null|
 |**2023-10-09**|**A Meta-Learning Perspective on Transformers for Causal Language Modeling**|Xinbo Wu et.al.|[2310.05884](http://arxiv.org/abs/2310.05884)|null|
@@ -141,7 +141,7 @@
 |**2023-09-26**|**Fine-tuning and aligning question answering models for complex information extraction tasks**|Matthias Engelbach et.al.|[2309.14805](http://arxiv.org/abs/2309.14805)|null|
 |**2023-09-26**|**Exploring Small Language Models with Prompt-Learning Paradigm for Efficient Domain-Specific Text Classification**|Hengyu Luo et.al.|[2309.14779](http://arxiv.org/abs/2309.14779)|null|
 
-<p align=right>(<a href=#updated-on-20231011>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231012>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
