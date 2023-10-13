@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.12
+## Updated on 2023.10.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -22,7 +22,7 @@ layout: default
 |**2023-09-29**|**Information Flow in Self-Supervised Learning**|Zhiquan Tan et.al.|[2309.17281](http://arxiv.org/abs/2309.17281)|**[link](https://github.com/yifanzhang-pro/m-mae)**|
 |**2023-09-26**|**M $^{3}$ 3D: Learning 3D priors using Multi-Modal Masked Autoencoders for 2D image and video understanding**|Muhammad Abdullah Jamal et.al.|[2309.15313](http://arxiv.org/abs/2309.15313)|null|
 |**2023-10-08**|**Masked Image Residual Learning for Scaling Deeper Vision Transformers**|Guoxi Huang et.al.|[2309.14136](http://arxiv.org/abs/2309.14136)|**[link](https://github.com/russellllaputa/MIRL)**|
-|**2023-09-20**|**RMT: Retentive Networks Meet Vision Transformers**|Qihang Fan et.al.|[2309.11523](http://arxiv.org/abs/2309.11523)|null|
+|**2023-10-11**|**RMT: Retentive Networks Meet Vision Transformers**|Qihang Fan et.al.|[2309.11523](http://arxiv.org/abs/2309.11523)|null|
 |**2023-09-18**|**Heterogeneous Generative Knowledge Distillation with Masked Image Modeling**|Ziming Wang et.al.|[2309.09571](http://arxiv.org/abs/2309.09571)|null|
 |**2023-09-18**|**FactoFormer: Factorized Hyperspectral Transformers with Self-Supervised Pre-Training**|Shaheer Mohamed et.al.|[2309.09431](http://arxiv.org/abs/2309.09431)|**[link](https://github.com/csiro-robotics/factoformer)**|
 |**2023-09-16**|**RingMo-lite: A Remote Sensing Multi-task Lightweight Network with CNN-Transformer Hybrid Framework**|Yuelei Wang et.al.|[2309.09003](http://arxiv.org/abs/2309.09003)|null|
@@ -44,7 +44,7 @@ layout: default
 |**2023-10-11**|**Composite Backdoor Attacks Against Large Language Models**|Hai Huang et.al.|[2310.07676](http://arxiv.org/abs/2310.07676)|null|
 |**2023-10-11**|**Mini-DALLE3: Interactive Text to Image by Prompting Large Language Models**|Lai Zeqiang et.al.|[2310.07653](http://arxiv.org/abs/2310.07653)|**[link](https://github.com/Zeqiang-Lai/MiniDALLE-3)**|
 |**2023-10-11**|**Evaluating Large Language Models at Evaluating Instruction Following**|Zhiyuan Zeng et.al.|[2310.07641](http://arxiv.org/abs/2310.07641)|null|
-|**2023-10-11**|**OpsEval: A Comprehensive Task-Oriented AIOps Benchmark for Large Language Models**|Yuhe Liu et.al.|[2310.07637](http://arxiv.org/abs/2310.07637)|null|
+|**2023-10-12**|**OpsEval: A Comprehensive Task-Oriented AIOps Benchmark for Large Language Models**|Yuhe Liu et.al.|[2310.07637](http://arxiv.org/abs/2310.07637)|null|
 |**2023-10-11**|**The Past, Present and Better Future of Feedback Learning in Large Language Models for Subjective Human Preferences and Values**|Hannah Rose Kirk et.al.|[2310.07629](http://arxiv.org/abs/2310.07629)|null|
 |**2023-10-10**|**LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression**|Huiqiang Jiang et.al.|[2310.06839](http://arxiv.org/abs/2310.06839)|null|
 |**2023-10-10**|**Generating and Evaluating Tests for K-12 Students with Language Model Simulations: A Case Study on Sentence Reading Efficiency**|Eric Zelikman et.al.|[2310.06837](http://arxiv.org/abs/2310.06837)|null|
