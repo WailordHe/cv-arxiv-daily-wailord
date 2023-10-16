@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.15
+## Updated on 2023.10.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -36,12 +36,22 @@
 |**2023-09-09**|**BiLMa: Bidirectional Local-Matching for Text-based Person Re-identification**|Takuro Fujii et.al.|[2309.04675](http://arxiv.org/abs/2309.04675)|null|
 |**2023-09-08**|**AMLP:Adaptive Masking Lesion Patches for Self-supervised Medical Image Segmentation**|Xiangtao Wang et.al.|[2309.04312](http://arxiv.org/abs/2309.04312)|null|
 
-<p align=right>(<a href=#updated-on-20231015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231016>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-12**|**Tree-Planner: Efficient Close-loop Task Planning with Large Language Models**|Mengkang Hu et.al.|[2310.08582](http://arxiv.org/abs/2310.08582)|null|
+|**2023-10-12**|**MemGPT: Towards LLMs as Operating Systems**|Charles Packer et.al.|[2310.08560](http://arxiv.org/abs/2310.08560)|null|
+|**2023-10-12**|**Do pretrained Transformers Really Learn In-context by Gradient Descent?**|Lingfeng Shen et.al.|[2310.08540](http://arxiv.org/abs/2310.08540)|null|
+|**2023-10-12**|**LLM-augmented Preference Learning from Natural Language**|Inwon Kang et.al.|[2310.08523](http://arxiv.org/abs/2310.08523)|null|
+|**2023-10-12**|**HoneyBee: Progressive Instruction Finetuning of Large Language Models for Materials Science**|Yu Song et.al.|[2310.08511](http://arxiv.org/abs/2310.08511)|**[link](https://github.com/BangLab-UdeM-Mila/NLP4MatSci-HoneyBee)**|
+|**2023-10-12**|**Prometheus: Inducing Fine-grained Evaluation Capability in Language Models**|Seungone Kim et.al.|[2310.08491](http://arxiv.org/abs/2310.08491)|null|
+|**2023-10-12**|**GraphextQA: A Benchmark for Evaluating Graph-Enhanced Large Language Models**|Yuanchun Shen et.al.|[2310.08487](http://arxiv.org/abs/2310.08487)|**[link](https://github.com/happen2me/cross-gnn)**|
+|**2023-10-13**|**Can We Edit Multimodal Large Language Models?**|Siyuan Cheng et.al.|[2310.08475](http://arxiv.org/abs/2310.08475)|**[link](https://github.com/zjunlp/easyedit)**|
+|**2023-10-12**|**DistillSpec: Improving Speculative Decoding via Knowledge Distillation**|Yongchao Zhou et.al.|[2310.08461](http://arxiv.org/abs/2310.08461)|null|
+|**2023-10-12**|**Towards Robust Multi-Modal Reasoning via Model Selection**|Xiangyan Liu et.al.|[2310.08446](http://arxiv.org/abs/2310.08446)|null|
 |**2023-10-11**|**InstructRetro: Instruction Tuning post Retrieval-Augmented Pretraining**|Boxin Wang et.al.|[2310.07713](http://arxiv.org/abs/2310.07713)|null|
 |**2023-10-11**|**Found in the Middle: Permutation Self-Consistency Improves Listwise Ranking in Large Language Models**|Raphael Tang et.al.|[2310.07712](http://arxiv.org/abs/2310.07712)|**[link](https://github.com/castorini/perm-sc)**|
 |**2023-10-11**|**DiPmark: A Stealthy, Efficient and Resilient Watermark for Large Language Models**|Yihan Wu et.al.|[2310.07710](http://arxiv.org/abs/2310.07710)|null|
@@ -153,7 +163,7 @@
 |**2023-09-26**|**Fine-tuning and aligning question answering models for complex information extraction tasks**|Matthias Engelbach et.al.|[2309.14805](http://arxiv.org/abs/2309.14805)|null|
 |**2023-09-26**|**Exploring Small Language Models with Prompt-Learning Paradigm for Efficient Domain-Specific Text Classification**|Hengyu Luo et.al.|[2309.14779](http://arxiv.org/abs/2309.14779)|null|
 
-<p align=right>(<a href=#updated-on-20231015>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231016>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
