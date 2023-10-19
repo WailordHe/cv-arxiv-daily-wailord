@@ -36,6 +36,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-18**|**Pseudointelligence: A Unifying Framework for Language Model Evaluation**|Shikhar Murty et.al.|[2310.12135](http://arxiv.org/abs/2310.12135)|null|
+|**2023-10-18**|**Monarch Mixer: A Simple Sub-Quadratic GEMM-Based Architecture**|Daniel Y. Fu et.al.|[2310.12109](http://arxiv.org/abs/2310.12109)|null|
+|**2023-10-18**|**Non-Intrusive Adaptation: Input-Centric Parameter-efficient Fine-Tuning for Versatile Multimodal Modeling**|Yaqing Wang et.al.|[2310.12100](http://arxiv.org/abs/2310.12100)|null|
+|**2023-10-18**|**Unveiling the Siren's Song: Towards Reliable Fact-Conflicting Hallucination Detection**|Xiang Chen et.al.|[2310.12086](http://arxiv.org/abs/2310.12086)|**[link](https://github.com/zjunlp/factchd)**|
+|**2023-10-18**|**On the Benefit of Generative Foundation Models for Human Activity Recognition**|Zikang Leng et.al.|[2310.12085](http://arxiv.org/abs/2310.12085)|null|
+|**2023-10-18**|**SPEED: Speculative Pipelined Execution for Efficient Decoding**|Coleman Hooper et.al.|[2310.12072](http://arxiv.org/abs/2310.12072)|null|
+|**2023-10-18**|**Evaluating the Symbol Binding Ability of Large Language Models for Multiple-Choice Questions in Vietnamese General Education**|Duc-Vu Nguyen et.al.|[2310.12059](http://arxiv.org/abs/2310.12059)|null|
+|**2023-10-18**|**Concept-Guided Chain-of-Thought Prompting for Pairwise Comparison Scaling of Texts with Large Language Models**|Patrick Y. Wu et.al.|[2310.12049](http://arxiv.org/abs/2310.12049)|null|
+|**2023-10-18**|**LoHoRavens: A Long-Horizon Language-Conditioned Benchmark for Robotic Tabletop Manipulation**|Shengqiang Zhang et.al.|[2310.12020](http://arxiv.org/abs/2310.12020)|null|
+|**2023-10-18**|**Fast Multipole Attention: A Divide-and-Conquer Attention Mechanism for Long Sequences**|Yanming Kang et.al.|[2310.11960](http://arxiv.org/abs/2310.11960)|null|
 |**2023-10-17**|**VeRA: Vector-based Random Matrix Adaptation**|Dawid Jan Kopiczko et.al.|[2310.11454](http://arxiv.org/abs/2310.11454)|null|
 |**2023-10-17**|**BitNet: Scaling 1-bit Transformers for Large Language Models**|Hongyu Wang et.al.|[2310.11453](http://arxiv.org/abs/2310.11453)|null|
 |**2023-10-17**|**Seeking Neural Nuggets: Knowledge Transfer in Large Language Models from a Parametric Perspective**|Ming Zhong et.al.|[2310.11451](http://arxiv.org/abs/2310.11451)|null|
