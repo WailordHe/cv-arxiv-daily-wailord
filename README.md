@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.18
+## Updated on 2023.10.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -36,12 +36,22 @@
 |**2023-09-09**|**BiLMa: Bidirectional Local-Matching for Text-based Person Re-identification**|Takuro Fujii et.al.|[2309.04675](http://arxiv.org/abs/2309.04675)|null|
 |**2023-09-08**|**AMLP:Adaptive Masking Lesion Patches for Self-supervised Medical Image Segmentation**|Xiangtao Wang et.al.|[2309.04312](http://arxiv.org/abs/2309.04312)|null|
 
-<p align=right>(<a href=#updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231019>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-17**|**VeRA: Vector-based Random Matrix Adaptation**|Dawid Jan Kopiczko et.al.|[2310.11454](http://arxiv.org/abs/2310.11454)|null|
+|**2023-10-17**|**BitNet: Scaling 1-bit Transformers for Large Language Models**|Hongyu Wang et.al.|[2310.11453](http://arxiv.org/abs/2310.11453)|null|
+|**2023-10-17**|**Seeking Neural Nuggets: Knowledge Transfer in Large Language Models from a Parametric Perspective**|Ming Zhong et.al.|[2310.11451](http://arxiv.org/abs/2310.11451)|null|
+|**2023-10-18**|**EvalCrafter: Benchmarking and Evaluating Large Video Generation Models**|Yaofang Liu et.al.|[2310.11440](http://arxiv.org/abs/2310.11440)|null|
+|**2023-10-17**|**An Empirical Study of Translation Hypothesis Ensembling with Large Language Models**|António Farinhas et.al.|[2310.11430](http://arxiv.org/abs/2310.11430)|**[link](https://github.com/deep-spin/translation-hypothesis-ensembling)**|
+|**2023-10-17**|**Neural Attention: Enhancing QKV Calculation in Self-Attention Mechanism with Neural Networks**|Muhan Zhang et.al.|[2310.11398](http://arxiv.org/abs/2310.11398)|**[link](https://github.com/ocislyjrti/neuralattention)**|
+|**2023-10-17**|**Last One Standing: A Comparative Analysis of Security and Privacy of Soft Prompt Tuning, LoRA, and In-Context Learning**|Rui Wen et.al.|[2310.11397](http://arxiv.org/abs/2310.11397)|null|
+|**2023-10-17**|**Towards Automatic Satellite Images Captions Generation Using Large Language Models**|Yingxu He et.al.|[2310.11392](http://arxiv.org/abs/2310.11392)|null|
+|**2023-10-17**|**DialogueLLM: Context and Emotion Knowledge-Tuned LLaMA Models for Emotion Recognition in Conversations**|Yazhou Zhang et.al.|[2310.11374](http://arxiv.org/abs/2310.11374)|null|
+|**2023-10-17**|**Quantifying Language Models' Sensitivity to Spurious Features in Prompt Design or: How I learned to start worrying about prompt formatting**|Melanie Sclar et.al.|[2310.11324](http://arxiv.org/abs/2310.11324)|null|
 |**2023-10-13**|**Vision-by-Language for Training-Free Compositional Image Retrieval**|Shyamgopal Karthik et.al.|[2310.09291](http://arxiv.org/abs/2310.09291)|null|
 |**2023-10-13**|**User Inference Attacks on Large Language Models**|Nikhil Kandpal et.al.|[2310.09266](http://arxiv.org/abs/2310.09266)|null|
 |**2023-10-13**|**PromptRE: Weakly-Supervised Document-Level Relation Extraction via Prompting-Based Data Programming**|Chufan Gao et.al.|[2310.09265](http://arxiv.org/abs/2310.09265)|null|
@@ -173,7 +183,7 @@
 |**2023-09-26**|**Fine-tuning and aligning question answering models for complex information extraction tasks**|Matthias Engelbach et.al.|[2309.14805](http://arxiv.org/abs/2309.14805)|null|
 |**2023-09-26**|**Exploring Small Language Models with Prompt-Learning Paradigm for Efficient Domain-Specific Text Classification**|Hengyu Luo et.al.|[2309.14779](http://arxiv.org/abs/2309.14779)|null|
 
-<p align=right>(<a href=#updated-on-20231018>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231019>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
