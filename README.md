@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-19**|**Minimalist and High-Performance Semantic Segmentation with Plain Vision Transformers**|Yuanduo Hong et.al.|[2310.12755](http://arxiv.org/abs/2310.12755)|null|
+|**2023-10-19**|**Minimalist and High-Performance Semantic Segmentation with Plain Vision Transformers**|Yuanduo Hong et.al.|[2310.12755](http://arxiv.org/abs/2310.12755)|**[link](https://github.com/ydhonghit/plainseg)**|
 |**2023-10-11**|**Heuristic Vision Pre-Training with Self-Supervised and Supervised Multi-Task Learning**|Zhiming Qian et.al.|[2310.07510](http://arxiv.org/abs/2310.07510)|null|
 |**2023-10-10**|**Pre-Trained Masked Image Model for Mobile Robot Navigation**|Vishnu Dutt Sharma et.al.|[2310.07021](http://arxiv.org/abs/2310.07021)|null|
 |**2023-10-14**|**RetSeg: Retention-based Colorectal Polyps Segmentation Network**|Khaled ELKarazle et.al.|[2310.05446](http://arxiv.org/abs/2310.05446)|null|
