@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Longer-range Contextualized Masked Autoencoder**|Taekyung Kim et.al.|[2310.13593](http://arxiv.org/abs/2310.13593)|null|
 |**2023-10-19**|**Minimalist and High-Performance Semantic Segmentation with Plain Vision Transformers**|Yuanduo Hong et.al.|[2310.12755](http://arxiv.org/abs/2310.12755)|**[link](https://github.com/ydhonghit/plainseg)**|
 |**2023-10-11**|**Heuristic Vision Pre-Training with Self-Supervised and Supervised Multi-Task Learning**|Zhiming Qian et.al.|[2310.07510](http://arxiv.org/abs/2310.07510)|null|
 |**2023-10-10**|**Pre-Trained Masked Image Model for Mobile Robot Navigation**|Vishnu Dutt Sharma et.al.|[2310.07021](http://arxiv.org/abs/2310.07021)|null|
@@ -37,6 +38,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-20**|**Improving Long-form Speech Translation through Segmentation with Large Language Models and Finite State Decoding Constraints**|Arya D. McCarthy et.al.|[2310.13678](http://arxiv.org/abs/2310.13678)|null|
+|**2023-10-20**|**StereoMap: Quantifying the Awareness of Human-like Stereotypes in Large Language Models**|Sullam Jeoung et.al.|[2310.13673](http://arxiv.org/abs/2310.13673)|**[link](https://github.com/sullamij/stereomap)**|
+|**2023-10-20**|**Let's Synthesize Step by Step: Iterative Dataset Synthesis with Large Language Models by Extrapolating Errors from Small Models**|Ruida Wang et.al.|[2310.13671](http://arxiv.org/abs/2310.13671)|**[link](https://github.com/rickyskywalker/synthesis_step-by-step_official)**|
+|**2023-10-20**|**BotChat: Evaluating LLMs' Capabilities of Having Multi-Turn Dialogues**|Haodong Duan et.al.|[2310.13650](http://arxiv.org/abs/2310.13650)|**[link](https://github.com/open-compass/botchat)**|
+|**2023-10-20**|**Contrastive Prefence Learning: Learning from Human Feedback without RL**|Joey Hejna et.al.|[2310.13639](http://arxiv.org/abs/2310.13639)|**[link](https://github.com/jhejna/cpl)**|
+|**2023-10-20**|**Three Questions Concerning the Use of Large Language Models to Facilitate Mathematics Learning**|An-Zi Yen et.al.|[2310.13615](http://arxiv.org/abs/2310.13615)|null|
+|**2023-10-20**|**MarineGPT: Unlocking Secrets of Ocean to the Public**|Ziqiang Zheng et.al.|[2310.13596](http://arxiv.org/abs/2310.13596)|**[link](https://github.com/hkust-vgd/marinegpt)**|
+|**2023-10-20**|**Entangled Preferences: The History and Risks of Reinforcement Learning and Human Feedback**|Nathan Lambert et.al.|[2310.13595](http://arxiv.org/abs/2310.13595)|null|
+|**2023-10-20**|**Why Can Large Language Models Generate Correct Chain-of-Thoughts?**|Rasul Tutunov et.al.|[2310.13571](http://arxiv.org/abs/2310.13571)|null|
+|**2023-10-20**|**Cache & Distil: Optimising API Calls to Large Language Models**|Guillem Ramírez et.al.|[2310.13561](http://arxiv.org/abs/2310.13561)|null|
 |**2023-10-19**|**Frozen Transformers in Language Models Are Effective Visual Encoder Layers**|Ziqi Pang et.al.|[2310.12973](http://arxiv.org/abs/2310.12973)|**[link](https://github.com/ziqipang/lm4visualencoding)**|
 |**2023-10-19**|**CLAIR: Evaluating Image Captions with Large Language Models**|David Chan et.al.|[2310.12971](http://arxiv.org/abs/2310.12971)|null|
 |**2023-10-19**|**AutoMix: Automatically Mixing Language Models**|Aman Madaan et.al.|[2310.12963](http://arxiv.org/abs/2310.12963)|**[link](https://github.com/automix-llm/automix)**|
