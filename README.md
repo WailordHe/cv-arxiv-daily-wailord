@@ -44,6 +44,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-23**|**Large Language Models are Visual Reasoning Coordinators**|Liangyu Chen et.al.|[2310.15166](http://arxiv.org/abs/2310.15166)|**[link](https://github.com/cliangyu/cola)**|
+|**2023-10-23**|**LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers**|Theo X. Olausson et.al.|[2310.15164](http://arxiv.org/abs/2310.15164)|**[link](https://github.com/benlipkin/linc)**|
+|**2023-10-23**|**Linear Representations of Sentiment in Large Language Models**|Curt Tigges et.al.|[2310.15154](http://arxiv.org/abs/2310.15154)|null|
+|**2023-10-23**|**S3Eval: A Synthetic, Scalable, Systematic Evaluation Suite for Large Language Models**|Fangyu Lei et.al.|[2310.15147](http://arxiv.org/abs/2310.15147)|**[link](https://github.com/lfy79001/sqleval)**|
+|**2023-10-23**|**SpecTr: Fast Speculative Decoding via Optimal Transport**|Ziteng Sun et.al.|[2310.15141](http://arxiv.org/abs/2310.15141)|null|
+|**2023-10-23**|**AutoDAN: Automatic and Interpretable Adversarial Attacks on Large Language Models**|Sicheng Zhu et.al.|[2310.15140](http://arxiv.org/abs/2310.15140)|null|
+|**2023-10-23**|**Quantifying the Dialect Gap and its Correlates Across Languages**|Anjali Kantharuban et.al.|[2310.15135](http://arxiv.org/abs/2310.15135)|null|
+|**2023-10-23**|**Open-Ended Instructable Embodied Agents with Memory-Augmented Large Language Models**|Gabriel Sarch et.al.|[2310.15127](http://arxiv.org/abs/2310.15127)|null|
+|**2023-10-23**|**Branch-Solve-Merge Improves Large Language Model Evaluation and Generation**|Swarnadeep Saha et.al.|[2310.15123](http://arxiv.org/abs/2310.15123)|null|
+|**2023-10-23**|**Causal Inference Using LLM-Guided Discovery**|Aniket Vashishtha et.al.|[2310.15117](http://arxiv.org/abs/2310.15117)|null|
 |**2023-10-20**|**Improving Long-form Speech Translation through Segmentation with Large Language Models and Finite State Decoding Constraints**|Arya D. McCarthy et.al.|[2310.13678](http://arxiv.org/abs/2310.13678)|null|
 |**2023-10-20**|**StereoMap: Quantifying the Awareness of Human-like Stereotypes in Large Language Models**|Sullam Jeoung et.al.|[2310.13673](http://arxiv.org/abs/2310.13673)|**[link](https://github.com/sullamij/stereomap)**|
 |**2023-10-20**|**Let's Synthesize Step by Step: Iterative Dataset Synthesis with Large Language Models by Extrapolating Errors from Small Models**|Ruida Wang et.al.|[2310.13671](http://arxiv.org/abs/2310.13671)|**[link](https://github.com/rickyskywalker/synthesis_step-by-step_official)**|
