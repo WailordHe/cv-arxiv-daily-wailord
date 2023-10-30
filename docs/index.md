@@ -38,6 +38,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-10-27**|**FP8-LM: Training FP8 Large Language Models**|Houwen Peng et.al.|[2310.18313](http://arxiv.org/abs/2310.18313)|**[link](https://github.com/azure/ms-amp)**|
+|**2023-10-27**|**Image Clustering Conditioned on Text Criteria**|Sehyun Kwon et.al.|[2310.18297](http://arxiv.org/abs/2310.18297)|**[link](https://github.com/sehyunkwon/ictc)**|
+|**2023-10-27**|**ArcheType: A Novel Framework for Open-Source Column Type Annotation using Large Language Models**|Benjamin Feuer et.al.|[2310.18208](http://arxiv.org/abs/2310.18208)|**[link](https://github.com/penfever/archetype)**|
+|**2023-10-27**|**Lost in Translation, Found in Spans: Identifying Claims in Multilingual Social Media**|Shubham Mittal et.al.|[2310.18205](http://arxiv.org/abs/2310.18205)|null|
+|**2023-10-27**|**Personas as a Way to Model Truthfulness in Language Models**|Nitish Joishi et.al.|[2310.18168](http://arxiv.org/abs/2310.18168)|null|
+|**2023-10-27**|**MPrompt: Exploring Multi-level Prompt Tuning for Machine Reading Comprehension**|Guoxin Chen et.al.|[2310.18167](http://arxiv.org/abs/2310.18167)|null|
+|**2023-10-27**|**Disentangled Representation Learning with Large Language Models for Text-Attributed Graphs**|Yijian Qin et.al.|[2310.18152](http://arxiv.org/abs/2310.18152)|null|
+|**2023-10-27**|**DELPHI: Data for Evaluating LLMs' Performance in Handling Controversial Issues**|David Q. Sun et.al.|[2310.18130](http://arxiv.org/abs/2310.18130)|**[link](https://github.com/zidixiu/delphi)**|
+|**2023-10-27**|**Ask more, know better: Reinforce-Learned Prompt Questions for Decision Making with Large Language Models**|Xue Yan et.al.|[2310.18127](http://arxiv.org/abs/2310.18127)|null|
+|**2023-10-27**|**Knowledge Corpus Error in Question Answering**|Yejoon Lee et.al.|[2310.18076](http://arxiv.org/abs/2310.18076)|**[link](https://github.com/xfactlab/emnlp2023-knowledge-corpus-error)**|
 |**2023-10-26**|**In-Context Learning Dynamics with Random Binary Sequences**|Eric J. Bigelow et.al.|[2310.17639](http://arxiv.org/abs/2310.17639)|null|
 |**2023-10-26**|**JudgeLM: Fine-tuned Large Language Models are Scalable Judges**|Lianghui Zhu et.al.|[2310.17631](http://arxiv.org/abs/2310.17631)|**[link](https://github.com/baaivision/judgelm)**|
 |**2023-10-26**|**InstOptima: Evolutionary Multi-objective Instruction Optimization via Large Language Model-based Instruction Operators**|Heng Yang et.al.|[2310.17630](http://arxiv.org/abs/2310.17630)|null|
