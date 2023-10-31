@@ -18,6 +18,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-29**|**BirdSAT: Cross-View Contrastive Masked Autoencoders for Bird Species Classification and Mapping**|Srikumar Sastry et.al.|[2310.19168](http://arxiv.org/abs/2310.19168)|**[link](https://github.com/mvrl/birdsat)**|
+|**2023-10-29**|**Adversarial Examples Are Not Real Features**|Ang Li et.al.|[2310.18936](http://arxiv.org/abs/2310.18936)|**[link](https://github.com/pku-ml/advnotrealfeatures)**|
+|**2023-10-28**|**Pre-training with Random Orthogonal Projection Image Modeling**|Maryam Haghighat et.al.|[2310.18737](http://arxiv.org/abs/2310.18737)|null|
+|**2023-10-28**|**Feature Guided Masked Autoencoder for Self-supervised Learning in Remote Sensing**|Yi Wang et.al.|[2310.18653](http://arxiv.org/abs/2310.18653)|**[link](https://github.com/zhu-xlab/fgmae)**|
 |**2023-10-20**|**Longer-range Contextualized Masked Autoencoder**|Taekyung Kim et.al.|[2310.13593](http://arxiv.org/abs/2310.13593)|null|
 |**2023-10-19**|**Minimalist and High-Performance Semantic Segmentation with Plain Vision Transformers**|Yuanduo Hong et.al.|[2310.12755](http://arxiv.org/abs/2310.12755)|**[link](https://github.com/ydhonghit/plainseg)**|
 |**2023-10-11**|**Heuristic Vision Pre-Training with Self-Supervised and Supervised Multi-Task Learning**|Zhiming Qian et.al.|[2310.07510](http://arxiv.org/abs/2310.07510)|null|
@@ -44,6 +48,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-10-30**|**M4LE: A Multi-Ability Multi-Range Multi-Task Multi-Domain Long-Context Evaluation Benchmark for Large Language Models**|Wai-Chung Kwan et.al.|[2310.19240](http://arxiv.org/abs/2310.19240)|null|
+|**2023-10-30**|**Building Real-World Meeting Summarization Systems using Large Language Models: A Practical Perspective**|Md Tahmid Rahman Laskar et.al.|[2310.19233](http://arxiv.org/abs/2310.19233)|null|
+|**2023-10-30**|**EHRTutor: Enhancing Patient Understanding of Discharge Instructions**|Zihao Zhang et.al.|[2310.19212](http://arxiv.org/abs/2310.19212)|null|
+|**2023-10-30**|**Leveraging generative artificial intelligence to simulate student learning behavior**|Songlin Xu et.al.|[2310.19206](http://arxiv.org/abs/2310.19206)|null|
+|**2023-10-29**|**From Chatbots to PhishBots? -- Preventing Phishing scams created using ChatGPT, Google Bard and Claude**|Sayak Saha Roy et.al.|[2310.19181](http://arxiv.org/abs/2310.19181)|null|
+|**2023-10-29**|**Atom: Low-bit Quantization for Efficient and Accurate LLM Serving**|Yilong Zhao et.al.|[2310.19102](http://arxiv.org/abs/2310.19102)|null|
+|**2023-10-29**|**Roles of Scaling and Instruction Tuning in Language Perception: Model vs. Human Attention**|Changjiang Gao et.al.|[2310.19084](http://arxiv.org/abs/2310.19084)|**[link](https://github.com/RiverGao/human)**|
+|**2023-10-29**|**Reward Finetuning for Faster and More Accurate Unsupervised Object Discovery**|Katie Z Luo et.al.|[2310.19080](http://arxiv.org/abs/2310.19080)|null|
+|**2023-10-29**|**Myriad: Large Multimodal Model by Applying Vision Experts for Industrial Anomaly Detection**|Yuanze Li et.al.|[2310.19070](http://arxiv.org/abs/2310.19070)|null|
+|**2023-10-29**|**Multimodal ChatGPT for Medical Applications: an Experimental Study of GPT-4V**|Zhiling Yan et.al.|[2310.19061](http://arxiv.org/abs/2310.19061)|**[link](https://github.com/zhilingyan/gpt4v-medical-report)**|
 |**2023-10-27**|**FP8-LM: Training FP8 Large Language Models**|Houwen Peng et.al.|[2310.18313](http://arxiv.org/abs/2310.18313)|**[link](https://github.com/azure/ms-amp)**|
 |**2023-10-27**|**Image Clustering Conditioned on Text Criteria**|Sehyun Kwon et.al.|[2310.18297](http://arxiv.org/abs/2310.18297)|**[link](https://github.com/sehyunkwon/ictc)**|
 |**2023-10-27**|**ArcheType: A Novel Framework for Open-Source Column Type Annotation using Large Language Models**|Benjamin Feuer et.al.|[2310.18208](http://arxiv.org/abs/2310.18208)|**[link](https://github.com/penfever/archetype)**|
