@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.10.31
+## Updated on 2023.11.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -22,7 +22,7 @@ layout: default
 |**2023-10-19**|**Minimalist and High-Performance Semantic Segmentation with Plain Vision Transformers**|Yuanduo Hong et.al.|[2310.12755](http://arxiv.org/abs/2310.12755)|**[link](https://github.com/ydhonghit/plainseg)**|
 |**2023-10-11**|**Heuristic Vision Pre-Training with Self-Supervised and Supervised Multi-Task Learning**|Zhiming Qian et.al.|[2310.07510](http://arxiv.org/abs/2310.07510)|null|
 |**2023-10-10**|**Pre-Trained Masked Image Model for Mobile Robot Navigation**|Vishnu Dutt Sharma et.al.|[2310.07021](http://arxiv.org/abs/2310.07021)|null|
-|**2023-10-14**|**RetSeg: Retention-based Colorectal Polyps Segmentation Network**|Khaled ELKarazle et.al.|[2310.05446](http://arxiv.org/abs/2310.05446)|null|
+|**2023-10-31**|**RetSeg: Retention-based Colorectal Polyps Segmentation Network**|Khaled ELKarazle et.al.|[2310.05446](http://arxiv.org/abs/2310.05446)|null|
 |**2023-10-06**|**Self-Supervised Neuron Segmentation with Multi-Agent Reinforcement Learning**|Yinda Chen et.al.|[2310.04148](http://arxiv.org/abs/2310.04148)|**[link](https://github.com/ydchen0806/dbmim)**|
 |**2023-10-02**|**Self-distilled Masked Attention guided masked image modeling with noise Regularized Teacher (SMART) for medical image analysis**|Jue Jiang et.al.|[2310.01209](http://arxiv.org/abs/2310.01209)|null|
 |**2023-10-15**|**Information Flow in Self-Supervised Learning**|Zhiquan Tan et.al.|[2309.17281](http://arxiv.org/abs/2309.17281)|**[link](https://github.com/yifanzhang-pro/m-mae)**|
