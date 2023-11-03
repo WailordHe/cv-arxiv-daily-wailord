@@ -44,6 +44,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-02**|**TopicGPT: A Prompt-based Topic Modeling Framework**|Chau Minh Pham et.al.|[2311.01449](http://arxiv.org/abs/2311.01449)|**[link](https://github.com/chtmp223/topicgpt)**|
+|**2023-11-02**|**Deep Double Descent for Time Series Forecasting: Avoiding Undertrained Models**|Valentino Assandri et.al.|[2311.01442](http://arxiv.org/abs/2311.01442)|null|
+|**2023-11-02**|**REAL: Resilience and Adaptation using Large Language Models on Autonomous Aerial Robots**|Andrea Tagliabue et.al.|[2311.01403](http://arxiv.org/abs/2311.01403)|null|
+|**2023-11-02**|**Collaborative Large Language Model for Recommender Systems**|Yaochen Zhu et.al.|[2311.01343](http://arxiv.org/abs/2311.01343)|**[link](https://github.com/yaochenzhu/llm4rec)**|
+|**2023-11-02**|**The Effect of Scaling, Retrieval Augmentation and Form on the Factual Consistency of Language Models**|Lovisa Hagström et.al.|[2311.01307](http://arxiv.org/abs/2311.01307)|null|
+|**2023-11-02**|**AWEQ: Post-Training Quantization with Activation-Weight Equalization for Large Language Models**|Baisong Li et.al.|[2311.01305](http://arxiv.org/abs/2311.01305)|null|
+|**2023-11-02**|**FlashDecoding++: Faster Large Language Model Inference on GPUs**|Ke Hong et.al.|[2311.01282](http://arxiv.org/abs/2311.01282)|null|
+|**2023-11-02**|**Let's Discover More API Relations: A Large Language Model-based AI Chain for Unsupervised API Relation Inference**|Qing Huang et.al.|[2311.01266](http://arxiv.org/abs/2311.01266)|null|
+|**2023-11-02**|**Expressive TTS Driven by Natural Language Prompts Using Few Human Annotations**|Hanglei Zhang et.al.|[2311.01260](http://arxiv.org/abs/2311.01260)|null|
+|**2023-11-02**|**An energy-based comparative analysis of common approaches to text classification in the Legal domain**|Sinan Gultekin et.al.|[2311.01256](http://arxiv.org/abs/2311.01256)|null|
 |**2023-11-01**|**Unleashing the Creative Mind: Language Model As Hierarchical Policy For Improved Exploration on Challenging Problem Solving**|Zhan Ling et.al.|[2311.00694](http://arxiv.org/abs/2311.00694)|**[link](https://github.com/lz1oceani/llm-as-hierarchical-policy)**|
 |**2023-11-01**|**Improving Interpersonal Communication by Simulating Audiences with Language Models**|Ryan Liu et.al.|[2311.00687](http://arxiv.org/abs/2311.00687)|**[link](https://github.com/theryanl/egs)**|
 |**2023-11-01**|**Little Giants: Exploring the Potential of Small LLMs as Evaluation Metrics in Summarization in the Eval4NLP 2023 Shared Task**|Neema Kotonya et.al.|[2311.00686](http://arxiv.org/abs/2311.00686)|null|
