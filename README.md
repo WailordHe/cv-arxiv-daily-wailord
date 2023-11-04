@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.03
+## Updated on 2023.11.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695](http://arxiv.org/abs/2310.20695)|null|
+|**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695](http://arxiv.org/abs/2310.20695)|**[link](https://github.com/junkunyuan/hap)**|
 |**2023-10-30**|**ViR: Vision Retention Networks**|Ali Hatamizadeh et.al.|[2310.19731](http://arxiv.org/abs/2310.19731)|null|
 |**2023-10-29**|**BirdSAT: Cross-View Contrastive Masked Autoencoders for Bird Species Classification and Mapping**|Srikumar Sastry et.al.|[2310.19168](http://arxiv.org/abs/2310.19168)|**[link](https://github.com/mvrl/birdsat)**|
 |**2023-10-29**|**Adversarial Examples Are Not Real Features**|Ang Li et.al.|[2310.18936](http://arxiv.org/abs/2310.18936)|**[link](https://github.com/pku-ml/advnotrealfeatures)**|
@@ -44,7 +44,7 @@
 |**2023-09-09**|**BiLMa: Bidirectional Local-Matching for Text-based Person Re-identification**|Takuro Fujii et.al.|[2309.04675](http://arxiv.org/abs/2309.04675)|null|
 |**2023-09-08**|**AMLP:Adaptive Masking Lesion Patches for Self-supervised Medical Image Segmentation**|Xiangtao Wang et.al.|[2309.04312](http://arxiv.org/abs/2309.04312)|null|
 
-<p align=right>(<a href=#updated-on-20231103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231104>back to top</a>)</p>
 
 ## LLM
 
@@ -311,7 +311,7 @@
 |**2023-09-26**|**Fine-tuning and aligning question answering models for complex information extraction tasks**|Matthias Engelbach et.al.|[2309.14805](http://arxiv.org/abs/2309.14805)|null|
 |**2023-09-26**|**Exploring Small Language Models with Prompt-Learning Paradigm for Efficient Domain-Specific Text Classification**|Hengyu Luo et.al.|[2309.14779](http://arxiv.org/abs/2309.14779)|null|
 
-<p align=right>(<a href=#updated-on-20231103>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231104>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

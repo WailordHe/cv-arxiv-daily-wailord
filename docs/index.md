@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.03
+## Updated on 2023.11.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695](http://arxiv.org/abs/2310.20695)|null|
+|**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695](http://arxiv.org/abs/2310.20695)|**[link](https://github.com/junkunyuan/hap)**|
 |**2023-10-30**|**ViR: Vision Retention Networks**|Ali Hatamizadeh et.al.|[2310.19731](http://arxiv.org/abs/2310.19731)|null|
 |**2023-10-29**|**BirdSAT: Cross-View Contrastive Masked Autoencoders for Bird Species Classification and Mapping**|Srikumar Sastry et.al.|[2310.19168](http://arxiv.org/abs/2310.19168)|**[link](https://github.com/mvrl/birdsat)**|
 |**2023-10-29**|**Adversarial Examples Are Not Real Features**|Ang Li et.al.|[2310.18936](http://arxiv.org/abs/2310.18936)|**[link](https://github.com/pku-ml/advnotrealfeatures)**|
