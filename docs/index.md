@@ -44,6 +44,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-03**|**Post Turing: Mapping the landscape of LLM Evaluation**|Alexey Tikhonov et.al.|[2311.02049](http://arxiv.org/abs/2311.02049)|null|
+|**2023-11-03**|**Conditions on Preference Relations that Guarantee the Existence of Optimal Policies**|Jonathan Colaco Carr et.al.|[2311.01990](http://arxiv.org/abs/2311.01990)|null|
+|**2023-11-03**|**Don't Make Your LLM an Evaluation Benchmark Cheater**|Kun Zhou et.al.|[2311.01964](http://arxiv.org/abs/2311.01964)|null|
+|**2023-11-03**|**Hint-enhanced In-Context Learning wakes Large Language Models up for knowledge-intensive tasks**|Yifan Wang et.al.|[2311.01949](http://arxiv.org/abs/2311.01949)|null|
+|**2023-11-03**|**Supermind Ideator: Exploring generative AI to support creative problem-solving**|Steven R. Rick et.al.|[2311.01937](http://arxiv.org/abs/2311.01937)|null|
+|**2023-11-03**|**GateLoop: Fully Data-Controlled Linear Recurrence for Sequence Modeling**|Tobias Katsch et.al.|[2311.01927](http://arxiv.org/abs/2311.01927)|null|
+|**2023-11-03**|**ChartGPT: Leveraging LLMs to Generate Charts from Abstract Natural Language**|Yuan Tian et.al.|[2311.01920](http://arxiv.org/abs/2311.01920)|null|
+|**2023-11-03**|**Large Language Models Illuminate a Progressive Pathway to Artificial Healthcare Assistant: A Review**|Mingze Yuan et.al.|[2311.01918](http://arxiv.org/abs/2311.01918)|**[link](https://github.com/mingze-yuan/awesome-llm-healthcare)**|
+|**2023-11-03**|**LLM-driven Multimodal Target Volume Contouring in Radiation Oncology**|Yujin Oh et.al.|[2311.01908](http://arxiv.org/abs/2311.01908)|null|
+|**2023-11-03**|**Indicative Summarization of Long Discussions**|Shahbaz Syed et.al.|[2311.01882](http://arxiv.org/abs/2311.01882)|**[link](https://github.com/webis-de/emnlp-23)**|
 |**2023-11-02**|**TopicGPT: A Prompt-based Topic Modeling Framework**|Chau Minh Pham et.al.|[2311.01449](http://arxiv.org/abs/2311.01449)|**[link](https://github.com/chtmp223/topicgpt)**|
 |**2023-11-02**|**Deep Double Descent for Time Series Forecasting: Avoiding Undertrained Models**|Valentino Assandri et.al.|[2311.01442](http://arxiv.org/abs/2311.01442)|null|
 |**2023-11-02**|**REAL: Resilience and Adaptation using Large Language Models on Autonomous Aerial Robots**|Andrea Tagliabue et.al.|[2311.01403](http://arxiv.org/abs/2311.01403)|null|
