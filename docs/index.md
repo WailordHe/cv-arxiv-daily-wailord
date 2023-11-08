@@ -44,6 +44,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-07**|**Rephrase and Respond: Let Large Language Models Ask Better Questions for Themselves**|Yihe Deng et.al.|[2311.04205](http://arxiv.org/abs/2311.04205)|null|
+|**2023-11-07**|**Enhancing LLM Intelligence with ARM-RAG: Auxiliary Rationale Memory for Retrieval Augmented Generation**|Eric Melz et.al.|[2311.04177](http://arxiv.org/abs/2311.04177)|null|
+|**2023-11-07**|**Perturbed examples reveal invariances shared by language models**|Ruchit Rawal et.al.|[2311.04166](http://arxiv.org/abs/2311.04166)|null|
+|**2023-11-07**|**Black-Box Prompt Optimization: Aligning Large Language Models without Model Training**|Jiale Cheng et.al.|[2311.04155](http://arxiv.org/abs/2311.04155)|**[link](https://github.com/thu-coai/bpo)**|
+|**2023-11-07**|**Unveiling Safety Vulnerabilities of Large Language Models**|George Kour et.al.|[2311.04124](http://arxiv.org/abs/2311.04124)|null|
+|**2023-11-07**|**Do LLMs exhibit human-like response biases? A case study in survey design**|Lindia Tjuatja et.al.|[2311.04076](http://arxiv.org/abs/2311.04076)|**[link](https://github.com/lindiatjuatja/biasmonkey)**|
+|**2023-11-07**|**Beyond Imitation: Leveraging Fine-grained Quality Signals for Alignment**|Geyang Guo et.al.|[2311.04072](http://arxiv.org/abs/2311.04072)|null|
+|**2023-11-07**|**Extracting human interpretable structure-property relationships in chemistry using XAI and large language models**|Geemi P. Wellawatte et.al.|[2311.04047](http://arxiv.org/abs/2311.04047)|null|
+|**2023-11-07**|**Reinforcement Learning Fine-tuning of Language Models is Biased Towards More Extractable Features**|Diogo Cruz et.al.|[2311.04046](http://arxiv.org/abs/2311.04046)|null|
+|**2023-11-07**|**Aspects of human memory and Large Language Models**|Romuald A. Janik et.al.|[2311.03839](http://arxiv.org/abs/2311.03839)|**[link](https://github.com/rmldj/memory-llm-paper)**|
 |**2023-11-06**|**GLaMM: Pixel Grounding Large Multimodal Model**|Hanoona Rasheed et.al.|[2311.03356](http://arxiv.org/abs/2311.03356)|null|
 |**2023-11-06**|**CoVLM: Composing Visual Entities and Relationships in Large Language Models Via Communicative Decoding**|Junyan Li et.al.|[2311.03354](http://arxiv.org/abs/2311.03354)|null|
 |**2023-11-06**|**Scalable and Transferable Black-Box Jailbreaks for Language Models via Persona Modulation**|Rusheb Shah et.al.|[2311.03348](http://arxiv.org/abs/2311.03348)|null|
