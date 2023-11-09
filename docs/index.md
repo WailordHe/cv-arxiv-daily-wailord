@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.08
+## Updated on 2023.11.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -47,7 +47,7 @@ layout: default
 |**2023-11-07**|**Rephrase and Respond: Let Large Language Models Ask Better Questions for Themselves**|Yihe Deng et.al.|[2311.04205](http://arxiv.org/abs/2311.04205)|null|
 |**2023-11-07**|**Enhancing LLM Intelligence with ARM-RAG: Auxiliary Rationale Memory for Retrieval Augmented Generation**|Eric Melz et.al.|[2311.04177](http://arxiv.org/abs/2311.04177)|null|
 |**2023-11-07**|**Perturbed examples reveal invariances shared by language models**|Ruchit Rawal et.al.|[2311.04166](http://arxiv.org/abs/2311.04166)|null|
-|**2023-11-07**|**Black-Box Prompt Optimization: Aligning Large Language Models without Model Training**|Jiale Cheng et.al.|[2311.04155](http://arxiv.org/abs/2311.04155)|**[link](https://github.com/thu-coai/bpo)**|
+|**2023-11-08**|**Black-Box Prompt Optimization: Aligning Large Language Models without Model Training**|Jiale Cheng et.al.|[2311.04155](http://arxiv.org/abs/2311.04155)|**[link](https://github.com/thu-coai/bpo)**|
 |**2023-11-07**|**Unveiling Safety Vulnerabilities of Large Language Models**|George Kour et.al.|[2311.04124](http://arxiv.org/abs/2311.04124)|null|
 |**2023-11-07**|**Do LLMs exhibit human-like response biases? A case study in survey design**|Lindia Tjuatja et.al.|[2311.04076](http://arxiv.org/abs/2311.04076)|**[link](https://github.com/lindiatjuatja/biasmonkey)**|
 |**2023-11-07**|**Beyond Imitation: Leveraging Fine-grained Quality Signals for Alignment**|Geyang Guo et.al.|[2311.04072](http://arxiv.org/abs/2311.04072)|null|
