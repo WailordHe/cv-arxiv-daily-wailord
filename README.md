@@ -52,6 +52,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-09**|**Efficient Parallelization Layouts for Large-Scale Distributed Model Training**|Johannes Hagemann et.al.|[2311.05610](http://arxiv.org/abs/2311.05610)|**[link](https://github.com/aleph-alpha/neurips-want-submission-efficient-parallelization-layouts)**|
+|**2023-11-09**|**FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts**|Yichen Gong et.al.|[2311.05608](http://arxiv.org/abs/2311.05608)|**[link](https://github.com/thuccslab/figstep)**|
+|**2023-11-09**|**Accuracy of a Vision-Language Model on Challenging Medical Cases**|Thomas Buckley et.al.|[2311.05591](http://arxiv.org/abs/2311.05591)|**[link](https://github.com/2v/gpt4v-image-challenge)**|
+|**2023-11-09**|**Conversational AI Threads for Visualizing Multidimensional Datasets**|Matt-Heun Hong et.al.|[2311.05590](http://arxiv.org/abs/2311.05590)|null|
+|**2023-11-09**|**Zero-Shot Goal-Directed Dialogue via RL on Imagined Conversations**|Joey Hong et.al.|[2311.05584](http://arxiv.org/abs/2311.05584)|null|
+|**2023-11-09**|**Removing RLHF Protections in GPT-4 via Fine-Tuning**|Qiusi Zhan et.al.|[2311.05553](http://arxiv.org/abs/2311.05553)|null|
+|**2023-11-09**|**ChatGPT and other Large Language Models for Cybersecurity of Smart Grid Applications**|Aydin Zaboli et.al.|[2311.05462](http://arxiv.org/abs/2311.05462)|null|
+|**2023-11-09**|**Automated Mobile Sensing Strategies Generation for Human Behaviour Understanding**|Nan Gao et.al.|[2311.05457](http://arxiv.org/abs/2311.05457)|null|
+|**2023-11-09**|**Cognitively Inspired Components for Social Conversational Agents**|Alex Clay et.al.|[2311.05450](http://arxiv.org/abs/2311.05450)|null|
+|**2023-11-09**|**TencentLLMEval: A Hierarchical Evaluation of Real-World Capabilities for Human-Aligned LLMs**|Shuyi Xie et.al.|[2311.05374](http://arxiv.org/abs/2311.05374)|null|
 |**2023-11-08**|**Beyond Size: How Gradients Shape Pruning Decisions in Large Language Models**|Rocktim Jyoti Das et.al.|[2311.04902](http://arxiv.org/abs/2311.04902)|**[link](https://github.com/rocktimjyotidas/gblm-pruner)**|
 |**2023-11-08**|**GENOME: GenerativE Neuro-symbOlic visual reasoning by growing and reusing ModulEs**|Zhenfang Chen et.al.|[2311.04901](http://arxiv.org/abs/2311.04901)|null|
 |**2023-11-08**|**How Abstract Is Linguistic Generalization in Large Language Models? Experiments with Argument Structure**|Michael Wilson et.al.|[2311.04900](http://arxiv.org/abs/2311.04900)|**[link](https://github.com/clay-lab/structural-alternations)**|
