@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.09
+## Updated on 2023.11.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -46,7 +46,7 @@
 |**2023-09-09**|**BiLMa: Bidirectional Local-Matching for Text-based Person Re-identification**|Takuro Fujii et.al.|[2309.04675](http://arxiv.org/abs/2309.04675)|null|
 |**2023-09-08**|**AMLP:Adaptive Masking Lesion Patches for Self-supervised Medical Image Segmentation**|Xiangtao Wang et.al.|[2309.04312](http://arxiv.org/abs/2309.04312)|null|
 
-<p align=right>(<a href=#updated-on-20231109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231110>back to top</a>)</p>
 
 ## LLM
 
@@ -57,8 +57,8 @@
 |**2023-11-08**|**How Abstract Is Linguistic Generalization in Large Language Models? Experiments with Argument Structure**|Michael Wilson et.al.|[2311.04900](http://arxiv.org/abs/2311.04900)|**[link](https://github.com/clay-lab/structural-alternations)**|
 |**2023-11-08**|**AutoChip: Automating HDL Generation Using LLM Feedback**|Shailja Thakur et.al.|[2311.04887](http://arxiv.org/abs/2311.04887)|null|
 |**2023-11-08**|**SEMQA: Semi-Extractive Multi-Source Question Answering**|Tal Schuster et.al.|[2311.04886](http://arxiv.org/abs/2311.04886)|**[link](https://github.com/google-research-datasets/quotesum)**|
-|**2023-11-08**|**LongQLoRA: Efficient and Effective Method to Extend Context Length of Large Language Models**|Jianxin Yang et.al.|[2311.04879](http://arxiv.org/abs/2311.04879)|null|
-|**2023-11-08**|**Rethinking Benchmark and Contamination for Language Models with Rephrased Samples**|Shuo Yang et.al.|[2311.04850](http://arxiv.org/abs/2311.04850)|null|
+|**2023-11-08**|**LongQLoRA: Efficient and Effective Method to Extend Context Length of Large Language Models**|Jianxin Yang et.al.|[2311.04879](http://arxiv.org/abs/2311.04879)|**[link](https://github.com/yangjianxin1/longqlora)**|
+|**2023-11-08**|**Rethinking Benchmark and Contamination for Language Models with Rephrased Samples**|Shuo Yang et.al.|[2311.04850](http://arxiv.org/abs/2311.04850)|**[link](https://github.com/lm-sys/llm-decontaminator)**|
 |**2023-11-08**|**Using large language models to study human memory for meaningful narratives**|Antonios Georgiou Tankut Can et.al.|[2311.04742](http://arxiv.org/abs/2311.04742)|**[link](https://github.com/mkatkov/llm-narrative-analysis)**|
 |**2023-11-08**|**Evaluating Generative Ad Hoc Information Retrieval**|Lukas Gienapp et.al.|[2311.04694](http://arxiv.org/abs/2311.04694)|null|
 |**2023-11-08**|**Pre-training LLMs using human-like development data corpus**|Khushi Bhardwaj et.al.|[2311.04666](http://arxiv.org/abs/2311.04666)|null|
@@ -353,7 +353,7 @@
 |**2023-09-26**|**Fine-tuning and aligning question answering models for complex information extraction tasks**|Matthias Engelbach et.al.|[2309.14805](http://arxiv.org/abs/2309.14805)|null|
 |**2023-09-26**|**Exploring Small Language Models with Prompt-Learning Paradigm for Efficient Domain-Specific Text Classification**|Hengyu Luo et.al.|[2309.14779](http://arxiv.org/abs/2309.14779)|null|
 
-<p align=right>(<a href=#updated-on-20231109>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231110>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
