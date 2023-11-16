@@ -53,6 +53,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-15**|**Assessing Translation capabilities of Large Language Models involving English and Indian Languages**|Vandan Mujadia et.al.|[2311.09216](http://arxiv.org/abs/2311.09216)|null|
+|**2023-11-15**|**Mind's Mirror: Distilling Self-Evaluation Capability and Comprehensive Thinking from Large Language Models**|Weize Liu et.al.|[2311.09214](http://arxiv.org/abs/2311.09214)|null|
+|**2023-11-15**|**Chain-of-Note: Enhancing Robustness in Retrieval-Augmented Language Models**|Wenhao Yu et.al.|[2311.09210](http://arxiv.org/abs/2311.09210)|null|
+|**2023-11-15**|**TableLlama: Towards Open Large Generalist Models for Tables**|Tianshu Zhang et.al.|[2311.09206](http://arxiv.org/abs/2311.09206)|null|
+|**2023-11-15**|**Fusion-Eval: Integrating Evaluators with LLMs**|Lei Shu et.al.|[2311.09204](http://arxiv.org/abs/2311.09204)|null|
+|**2023-11-15**|**Never Lost in the Middle: Improving Large Language Models via Attention Strengthening Question Answering**|He Junqing et.al.|[2311.09198](http://arxiv.org/abs/2311.09198)|null|
+|**2023-11-15**|**Structural Priming Demonstrates Abstract Grammatical Representations in Multilingual Language Models**|James A. Michaelov et.al.|[2311.09194](http://arxiv.org/abs/2311.09194)|null|
+|**2023-11-15**|**PsyEval: A Comprehensive Large Language Model Evaluation Benchmark for Mental Health**|Haoan Jin et.al.|[2311.09189](http://arxiv.org/abs/2311.09189)|null|
+|**2023-11-15**|**Towards Verifiable Text Generation with Symbolic References**|Lucas Torroba Hennigen et.al.|[2311.09188](http://arxiv.org/abs/2311.09188)|null|
+|**2023-11-15**|**Benchmarking Generation and Evaluation Capabilities of Large Language Models for Instruction Controllable Summarization**|Yixin Liu et.al.|[2311.09184](http://arxiv.org/abs/2311.09184)|**[link](https://github.com/yale-nlp/instrusum)**|
 |**2023-11-14**|**Towards Open-Ended Visual Recognition with Large Language Model**|Qihang Yu et.al.|[2311.08400](http://arxiv.org/abs/2311.08400)|**[link](https://github.com/bytedance/omniscient-model)**|
 |**2023-11-14**|**Are Large Language Models Temporally Grounded?**|Yifu Qiu et.al.|[2311.08398](http://arxiv.org/abs/2311.08398)|**[link](https://github.com/yfqiu-nlp/temporal-llms)**|
 |**2023-11-14**|**Zero-shot audio captioning with audio-language model guidance and audio context keywords**|Leonard Salewski et.al.|[2311.08396](http://arxiv.org/abs/2311.08396)|**[link](https://github.com/explainableml/zeraucap)**|
