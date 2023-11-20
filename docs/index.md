@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.19
+## Updated on 2023.11.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -55,7 +55,7 @@ layout: default
 |**2023-11-16**|**Language Generation from Human Brain Activities**|Ziyi Ye et.al.|[2311.09889](http://arxiv.org/abs/2311.09889)|null|
 |**2023-11-16**|**INTERVENOR: Prompt the Coding Ability of Large Language Models with the Interactive Chain of Repairing**|Hanbin Wang et.al.|[2311.09868](http://arxiv.org/abs/2311.09868)|**[link](https://github.com/neuir/intervenor)**|
 |**2023-11-16**|**Which Modality should I use -- Text, Motif, or Image? : Understanding Graphs with Large Language Models**|Debarati Das et.al.|[2311.09862](http://arxiv.org/abs/2311.09862)|null|
-|**2023-11-16**|**PsyBench: a balanced and in-depth Psychological Chinese Evaluation Benchmark for Foundation Models**|Junlei Zhang et.al.|[2311.09861](http://arxiv.org/abs/2311.09861)|null|
+|**2023-11-17**|**PsyBench: a balanced and in-depth Psychological Chinese Evaluation Benchmark for Foundation Models**|Junlei Zhang et.al.|[2311.09861](http://arxiv.org/abs/2311.09861)|null|
 |**2023-11-16**|**Leveraging LLMs in Scholarly Knowledge Graph Question Answering**|Tilahun Abedissa Taffa et.al.|[2311.09841](http://arxiv.org/abs/2311.09841)|**[link](https://github.com/huntila/scholarly-kgqa)**|
 |**2023-11-15**|**Assessing Translation capabilities of Large Language Models involving English and Indian Languages**|Vandan Mujadia et.al.|[2311.09216](http://arxiv.org/abs/2311.09216)|null|
 |**2023-11-15**|**Mind's Mirror: Distilling Self-Evaluation Capability and Comprehensive Thinking from Large Language Models**|Weize Liu et.al.|[2311.09214](http://arxiv.org/abs/2311.09214)|null|
