@@ -47,6 +47,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-17**|**Camels in a Changing Climate: Enhancing LM Adaptation with Tulu 2**|Hamish Ivison et.al.|[2311.10702](http://arxiv.org/abs/2311.10702)|null|
+|**2023-11-17**|**PEFT-MedAware: Large Language Model for Medical Awareness**|Keivalya Pandya et.al.|[2311.10697](http://arxiv.org/abs/2311.10697)|null|
+|**2023-11-17**|**Distilling and Retrieving Generalizable Knowledge for Robot Manipulation via Language Corrections**|Lihan Zha et.al.|[2311.10678](http://arxiv.org/abs/2311.10678)|**[link](https://github.com/Stanford-ILIAD/droc)**|
+|**2023-11-17**|**A Self-enhancement Approach for Domain-specific Chatbot Training via Knowledge Mining and Digest**|Ruohong Zhang et.al.|[2311.10614](http://arxiv.org/abs/2311.10614)|null|
+|**2023-11-17**|**SSB: Simple but Strong Baseline for Boosting Performance of Open-Set Semi-Supervised Learning**|Yue Fan et.al.|[2311.10572](http://arxiv.org/abs/2311.10572)|null|
+|**2023-11-17**|**Towards General Loop Invariant Generation via Coordinating Symbolic Execution and Large Language Models**|Chang Liu et.al.|[2311.10483](http://arxiv.org/abs/2311.10483)|null|
+|**2023-11-17**|**DynaPipe: Optimizing Multi-task Training through Dynamic Pipelines**|Chenyu Jiang et.al.|[2311.10418](http://arxiv.org/abs/2311.10418)|**[link](https://github.com/chenyu-jiang/megatron-lm)**|
+|**2023-11-17**|**Bias A-head? Analyzing Bias in Transformer-Based Language Model Attention Heads**|Yi Yang et.al.|[2311.10395](http://arxiv.org/abs/2311.10395)|null|
+|**2023-11-17**|**Automatic Smart Contract Comment Generation via Large Language Models and In-Context Learning**|Junjie Zhao et.al.|[2311.10388](http://arxiv.org/abs/2311.10388)|null|
+|**2023-11-17**|**Retrieval Augmented Generation of Symbolic Music with LLMs**|Nicolas Jonason et.al.|[2311.10384](http://arxiv.org/abs/2311.10384)|null|
 |**2023-11-16**|**DRESS: Instructing Large Vision-Language Models to Align and Interact with Humans via Natural Language Feedback**|Yangyi Chen et.al.|[2311.10081](http://arxiv.org/abs/2311.10081)|null|
 |**2023-11-16**|**ChatGPT-3.5, ChatGPT-4, Google Bard, and Microsoft Bing to Improve Health Literacy and Communication in Pediatric Populations and Beyond**|Kanhai S. Amin et.al.|[2311.10075](http://arxiv.org/abs/2311.10075)|null|
 |**2023-11-16**|**Is "A Helpful Assistant" the Best Role for Large Language Models? A Systematic Evaluation of Social Roles in System Prompts**|Mingqian Zheng et.al.|[2311.10054](http://arxiv.org/abs/2311.10054)|null|
