@@ -24,7 +24,7 @@
 |**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695](http://arxiv.org/abs/2310.20695)|**[link](https://github.com/junkunyuan/hap)**|
 |**2023-10-30**|**ViR: Vision Retention Networks**|Ali Hatamizadeh et.al.|[2310.19731](http://arxiv.org/abs/2310.19731)|null|
 |**2023-10-29**|**BirdSAT: Cross-View Contrastive Masked Autoencoders for Bird Species Classification and Mapping**|Srikumar Sastry et.al.|[2310.19168](http://arxiv.org/abs/2310.19168)|**[link](https://github.com/mvrl/birdsat)**|
-|**2023-10-29**|**Adversarial Examples Are Not Real Features**|Ang Li et.al.|[2310.18936](http://arxiv.org/abs/2310.18936)|**[link](https://github.com/pku-ml/advnotrealfeatures)**|
+|**2023-11-20**|**Adversarial Examples Are Not Real Features**|Ang Li et.al.|[2310.18936](http://arxiv.org/abs/2310.18936)|**[link](https://github.com/pku-ml/advnotrealfeatures)**|
 |**2023-10-28**|**Pre-training with Random Orthogonal Projection Image Modeling**|Maryam Haghighat et.al.|[2310.18737](http://arxiv.org/abs/2310.18737)|null|
 |**2023-10-28**|**Feature Guided Masked Autoencoder for Self-supervised Learning in Remote Sensing**|Yi Wang et.al.|[2310.18653](http://arxiv.org/abs/2310.18653)|**[link](https://github.com/zhu-xlab/fgmae)**|
 |**2023-10-20**|**Longer-range Contextualized Masked Autoencoder**|Taekyung Kim et.al.|[2310.13593](http://arxiv.org/abs/2310.13593)|null|
@@ -53,6 +53,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-20**|**On the Potential and Limitations of Few-Shot In-Context Learning to Generate Metamorphic Specifications for Tax Preparation Software**|Dananjay Srinivas et.al.|[2311.11979](http://arxiv.org/abs/2311.11979)|null|
+|**2023-11-20**|**LLMs as Visual Explainers: Advancing Image Classification with Evolving Visual Descriptions**|Songhao Han et.al.|[2311.11904](http://arxiv.org/abs/2311.11904)|null|
+|**2023-11-20**|**VLM-Eval: A General Evaluation on Video Large Language Models**|Shuailin Li et.al.|[2311.11865](http://arxiv.org/abs/2311.11865)|null|
+|**2023-11-20**|**Generating Valid and Natural Adversarial Examples with Large Language Models**|Zimu Wang et.al.|[2311.11861](http://arxiv.org/abs/2311.11861)|null|
+|**2023-11-20**|**LION : Empowering Multimodal Large Language Model with Dual-Level Visual Knowledge**|Gongwei Chen et.al.|[2311.11860](http://arxiv.org/abs/2311.11860)|null|
+|**2023-11-20**|**Evil Geniuses: Delving into the Safety of LLM-based Agents**|Yu Tian et.al.|[2311.11855](http://arxiv.org/abs/2311.11855)|**[link](https://github.com/t1ans1r/evil-geniuses)**|
+|**2023-11-20**|**How to Use Large Language Models for Text Coding: The Case of Fatherhood Roles in Public Policy Documents**|Lorenzo Lupo et.al.|[2311.11844](http://arxiv.org/abs/2311.11844)|null|
+|**2023-11-20**|**System 2 Attention (is something you might need too)**|Jason Weston et.al.|[2311.11829](http://arxiv.org/abs/2311.11829)|null|
+|**2023-11-20**|**Large Language Models and Explainable Law: a Hybrid Methodology**|Marco Billi et.al.|[2311.11811](http://arxiv.org/abs/2311.11811)|null|
+|**2023-11-20**|**DocPedia: Unleashing the Power of Large Multimodal Model in the Frequency Domain for Versatile Document Understanding**|Hao Feng et.al.|[2311.11810](http://arxiv.org/abs/2311.11810)|null|
 |**2023-11-17**|**Camels in a Changing Climate: Enhancing LM Adaptation with Tulu 2**|Hamish Ivison et.al.|[2311.10702](http://arxiv.org/abs/2311.10702)|null|
 |**2023-11-17**|**PEFT-MedAware: Large Language Model for Medical Awareness**|Keivalya Pandya et.al.|[2311.10697](http://arxiv.org/abs/2311.10697)|null|
 |**2023-11-17**|**Distilling and Retrieving Generalizable Knowledge for Robot Manipulation via Language Corrections**|Lihan Zha et.al.|[2311.10678](http://arxiv.org/abs/2311.10678)|**[link](https://github.com/Stanford-ILIAD/droc)**|
