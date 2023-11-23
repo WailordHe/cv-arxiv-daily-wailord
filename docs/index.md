@@ -47,6 +47,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-11-22**|**Visual In-Context Prompting**|Feng Li et.al.|[2311.13601](http://arxiv.org/abs/2311.13601)|null|
+|**2023-11-22**|**$σ$ -PCA: a unified neural model for linear and nonlinear principal component analysis**|Fahdi Kanavati et.al.|[2311.13580](http://arxiv.org/abs/2311.13580)|null|
+|**2023-11-22**|**Physical Reasoning and Object Planning for Household Embodied Agents**|Ayush Agrawal et.al.|[2311.13577](http://arxiv.org/abs/2311.13577)|null|
+|**2023-11-22**|**Drilling Down into the Discourse Structure with LLMs for Long Document Question Answering**|Inderjeet Nair et.al.|[2311.13565](http://arxiv.org/abs/2311.13565)|null|
+|**2023-11-22**|**Soulstyler: Using Large Language Model to Guide Image Style Transfer for Target Object**|Junhao Chen et.al.|[2311.13562](http://arxiv.org/abs/2311.13562)|null|
+|**2023-11-22**|**ADriver-I: A General World Model for Autonomous Driving**|Fan Jia et.al.|[2311.13549](http://arxiv.org/abs/2311.13549)|null|
+|**2023-11-22**|**Linear Log-Normal Attention with Unbiased Concentration**|Yury Nahshan et.al.|[2311.13541](http://arxiv.org/abs/2311.13541)|null|
+|**2023-11-22**|**Speak Like a Native: Prompting Large Language Models in a Native Style**|Zhicheng Yang et.al.|[2311.13538](http://arxiv.org/abs/2311.13538)|null|
+|**2023-11-22**|**Current Topological and Machine Learning Applications for Bias Detection in Text**|Colleen Farrelly et.al.|[2311.13495](http://arxiv.org/abs/2311.13495)|null|
+|**2023-11-22**|**Transfer Attacks and Defenses for Large Language Models on Coding Tasks**|Chi Zhang et.al.|[2311.13445](http://arxiv.org/abs/2311.13445)|null|
 |**2023-11-21**|**Prompting Frameworks for Large Language Models: A Survey**|Xiaoxia Liu et.al.|[2311.12785](http://arxiv.org/abs/2311.12785)|null|
 |**2023-11-21**|**Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with Spatially Relation Matching**|Meng Chu et.al.|[2311.12751](http://arxiv.org/abs/2311.12751)|null|
 |**2023-11-21**|**Keeping Users Engaged During Repeated Administration of the Same Questionnaire: Using Large Language Models to Reliably Diversify Questions**|Hye Sun Yun et.al.|[2311.12707](http://arxiv.org/abs/2311.12707)|null|
