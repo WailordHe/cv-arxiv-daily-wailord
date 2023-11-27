@@ -53,6 +53,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-24**|**Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs**|Jonathan Roberts et.al.|[2311.14656](http://arxiv.org/abs/2311.14656)|**[link](https://github.com/jonathan-roberts1/charting-new-territories)**|
+|**2023-11-24**|**One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space**|Raghav Addanki et.al.|[2311.14652](http://arxiv.org/abs/2311.14652)|null|
+|**2023-11-24**|**Large Language Models as Automated Aligners for benchmarking Vision-Language Models**|Yuanfeng Ji et.al.|[2311.14580](http://arxiv.org/abs/2311.14580)|null|
+|**2023-11-24**|**Griffon: Spelling out All Object Locations at Any Granularity with Large Language Models**|Yufei Zhan et.al.|[2311.14552](http://arxiv.org/abs/2311.14552)|null|
+|**2023-11-24**|**Data-Efficient Alignment of Large Language Models with Human Feedback Through Natural Language**|Di Jin et.al.|[2311.14543](http://arxiv.org/abs/2311.14543)|null|
+|**2023-11-24**|**Machine Translation for Ge'ez Language**|Aman Kassahun Wassie et.al.|[2311.14530](http://arxiv.org/abs/2311.14530)|null|
+|**2023-11-24**|**Benchmarking Large Language Models for Log Analysis, Security, and Interpretation**|Egil Karlsen et.al.|[2311.14519](http://arxiv.org/abs/2311.14519)|null|
+|**2023-11-24**|**Controlled Text Generation via Language Model Arithmetic**|Jasper Dekoninck et.al.|[2311.14479](http://arxiv.org/abs/2311.14479)|**[link](https://github.com/eth-sri/language-model-arithmetic)**|
+|**2023-11-24**|**Universal Jailbreak Backdoors from Poisoned Human Feedback**|Javier Rando et.al.|[2311.14455](http://arxiv.org/abs/2311.14455)|null|
+|**2023-11-24**|**Potential Societal Biases of ChatGPT in Higher Education: A Scoping Review**|Ming Li et.al.|[2311.14381](http://arxiv.org/abs/2311.14381)|null|
 |**2023-11-22**|**Visual In-Context Prompting**|Feng Li et.al.|[2311.13601](http://arxiv.org/abs/2311.13601)|**[link](https://github.com/ux-decoder/dinov)**|
 |**2023-11-22**|**$σ$ -PCA: a unified neural model for linear and nonlinear principal component analysis**|Fahdi Kanavati et.al.|[2311.13580](http://arxiv.org/abs/2311.13580)|null|
 |**2023-11-22**|**Physical Reasoning and Object Planning for Household Embodied Agents**|Ayush Agrawal et.al.|[2311.13577](http://arxiv.org/abs/2311.13577)|**[link](https://github.com/com-phy-affordance/coat)**|
