@@ -53,6 +53,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-27**|**Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models**|Munan Ning et.al.|[2311.16103](http://arxiv.org/abs/2311.16103)|**[link](https://github.com/pku-yuangroup/video-bench)**|
+|**2023-11-27**|**Have we built machines that think like people?**|Luca M. Schulze Buschoff et.al.|[2311.16093](http://arxiv.org/abs/2311.16093)|null|
+|**2023-11-27**|**MEDITRON-70B: Scaling Medical Pretraining for Large Language Models**|Zeming Chen et.al.|[2311.16079](http://arxiv.org/abs/2311.16079)|**[link](https://github.com/epfllm/meditron)**|
+|**2023-11-27**|**BioLORD-2023: Semantic Textual Representations Fusing LLM and Clinical Knowledge Graph Insights**|François Remy et.al.|[2311.16075](http://arxiv.org/abs/2311.16075)|null|
+|**2023-11-27**|**Decoding Logic Errors: A Comparative Study on Bug Detection by Students and Large Language Models**|Stephen MacNeil et.al.|[2311.16017](http://arxiv.org/abs/2311.16017)|null|
+|**2023-11-27**|**Sparsify-then-Classify: From Internal Neurons of Large Language Models To Efficient Text Classifiers**|Yilun Liu et.al.|[2311.15983](http://arxiv.org/abs/2311.15983)|null|
+|**2023-11-27**|**Towards Responsible Governance of Biological Design Tools**|Richard Moulange et.al.|[2311.15936](http://arxiv.org/abs/2311.15936)|null|
+|**2023-11-27**|**WorldSense: A Synthetic Benchmark for Grounded Reasoning in Large Language Models**|Youssef Benchekroun et.al.|[2311.15930](http://arxiv.org/abs/2311.15930)|null|
+|**2023-11-27**|**EVCap: Retrieval-Augmented Image Captioning with External Visual-Name Memory for Open-World Comprehension**|Jiaxuan Li et.al.|[2311.15879](http://arxiv.org/abs/2311.15879)|null|
+|**2023-11-27**|**RO-LLaMA: Generalist LLM for Radiation Oncology via Noise Augmentation and Consistency Regularization**|Kwanyoung Kim et.al.|[2311.15876](http://arxiv.org/abs/2311.15876)|null|
 |**2023-11-24**|**Charting New Territories: Exploring the Geographic and Geospatial Capabilities of Multimodal LLMs**|Jonathan Roberts et.al.|[2311.14656](http://arxiv.org/abs/2311.14656)|**[link](https://github.com/jonathan-roberts1/charting-new-territories)**|
 |**2023-11-24**|**One Pass Streaming Algorithm for Super Long Token Attention Approximation in Sublinear Space**|Raghav Addanki et.al.|[2311.14652](http://arxiv.org/abs/2311.14652)|null|
 |**2023-11-24**|**Large Language Models as Automated Aligners for benchmarking Vision-Language Models**|Yuanfeng Ji et.al.|[2311.14580](http://arxiv.org/abs/2311.14580)|null|
