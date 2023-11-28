@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.11.27
+## Updated on 2023.11.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -55,7 +55,7 @@ layout: default
 |**2023-11-24**|**Machine Translation for Ge'ez Language**|Aman Kassahun Wassie et.al.|[2311.14530](http://arxiv.org/abs/2311.14530)|null|
 |**2023-11-24**|**Benchmarking Large Language Models for Log Analysis, Security, and Interpretation**|Egil Karlsen et.al.|[2311.14519](http://arxiv.org/abs/2311.14519)|null|
 |**2023-11-24**|**Controlled Text Generation via Language Model Arithmetic**|Jasper Dekoninck et.al.|[2311.14479](http://arxiv.org/abs/2311.14479)|**[link](https://github.com/eth-sri/language-model-arithmetic)**|
-|**2023-11-24**|**Universal Jailbreak Backdoors from Poisoned Human Feedback**|Javier Rando et.al.|[2311.14455](http://arxiv.org/abs/2311.14455)|null|
+|**2023-11-24**|**Universal Jailbreak Backdoors from Poisoned Human Feedback**|Javier Rando et.al.|[2311.14455](http://arxiv.org/abs/2311.14455)|**[link](https://github.com/ethz-spylab/rlhf-poisoning)**|
 |**2023-11-24**|**Potential Societal Biases of ChatGPT in Higher Education: A Scoping Review**|Ming Li et.al.|[2311.14381](http://arxiv.org/abs/2311.14381)|null|
 |**2023-11-22**|**Visual In-Context Prompting**|Feng Li et.al.|[2311.13601](http://arxiv.org/abs/2311.13601)|**[link](https://github.com/ux-decoder/dinov)**|
 |**2023-11-22**|**$σ$ -PCA: a unified neural model for linear and nonlinear principal component analysis**|Fahdi Kanavati et.al.|[2311.13580](http://arxiv.org/abs/2311.13580)|null|
