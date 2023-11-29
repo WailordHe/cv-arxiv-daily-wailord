@@ -53,6 +53,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-28**|**LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models**|Yanwei Li et.al.|[2311.17043](http://arxiv.org/abs/2311.17043)|**[link](https://github.com/dvlab-research/llama-vid)**|
+|**2023-11-28**|**Efficient In-Context Learning in Vision-Language Models for Egocentric Videos**|Keunwoo Peter Yu et.al.|[2311.17041](http://arxiv.org/abs/2311.17041)|null|
+|**2023-11-28**|**MVBench: A Comprehensive Multi-modal Video Understanding Benchmark**|Kunchang Li et.al.|[2311.17005](http://arxiv.org/abs/2311.17005)|**[link](https://github.com/opengvlab/ask-anything)**|
+|**2023-11-28**|**Ranni: Taming Text-to-Image Diffusion for Accurate Instruction Following**|Yutong Feng et.al.|[2311.17002](http://arxiv.org/abs/2311.17002)|null|
+|**2023-11-28**|**ChatGPT's One-year Anniversary: Are Open-Source Large Language Models Catching up?**|Hailin Chen et.al.|[2311.16989](http://arxiv.org/abs/2311.16989)|null|
+|**2023-11-28**|**COLE: A Hierarchical Generation Framework for Graphic Design**|Peidong Jia et.al.|[2311.16974](http://arxiv.org/abs/2311.16974)|null|
+|**2023-11-28**|**LLaFS: When Large-Language Models Meet Few-Shot Segmentation**|Lanyun Zhu et.al.|[2311.16926](http://arxiv.org/abs/2311.16926)|**[link](https://github.com/lanyunzhu99/llafs)**|
+|**2023-11-28**|**Analyzing the Influence of Language Model-Generated Responses in Mitigating Hate Speech on Social Media Directed at Ukrainian Refugees in Poland**|Jakub Podolak et.al.|[2311.16905](http://arxiv.org/abs/2311.16905)|null|
+|**2023-11-28**|**The Falcon Series of Open Language Models**|Ebtesam Almazrouei et.al.|[2311.16867](http://arxiv.org/abs/2311.16867)|null|
+|**2023-11-28**|**RELIC: Investigating Large Language Model Responses using Self-Consistency**|Furui Cheng et.al.|[2311.16842](http://arxiv.org/abs/2311.16842)|null|
 |**2023-11-27**|**Video-Bench: A Comprehensive Benchmark and Toolkit for Evaluating Video-based Large Language Models**|Munan Ning et.al.|[2311.16103](http://arxiv.org/abs/2311.16103)|**[link](https://github.com/pku-yuangroup/video-bench)**|
 |**2023-11-27**|**Have we built machines that think like people?**|Luca M. Schulze Buschoff et.al.|[2311.16093](http://arxiv.org/abs/2311.16093)|null|
 |**2023-11-27**|**MEDITRON-70B: Scaling Medical Pretraining for Large Language Models**|Zeming Chen et.al.|[2311.16079](http://arxiv.org/abs/2311.16079)|**[link](https://github.com/epfllm/meditron)**|
