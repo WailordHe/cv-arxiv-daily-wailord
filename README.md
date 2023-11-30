@@ -18,13 +18,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2023-11-13**|**Cross-Axis Transformer with 2D Rotary Embeddings**|Lily Erickson et.al.|[2311.07184](http://arxiv.org/abs/2311.07184)|null|
+|**2023-11-28**|**BIM: Block-Wise Self-Supervised Learning with Masked Image Modeling**|Yixuan Luo et.al.|[2311.17218](http://arxiv.org/abs/2311.17218)|null|
+|**2023-11-29**|**Cross-Axis Transformer with 2D Rotary Embeddings**|Lily Erickson et.al.|[2311.07184](http://arxiv.org/abs/2311.07184)|null|
 |**2023-11-08**|**Self-Supervised Learning for Visual Relationship Detection through Masked Bounding Box Reconstruction**|Zacharias Anastasakis et.al.|[2311.04834](http://arxiv.org/abs/2311.04834)|**[link](https://github.com/deeplab-ai/selfsupervisedvrd)**|
 |**2023-11-08**|**SS-MAE: Spatial-Spectral Masked Auto-Encoder for Multi-Source Remote Sensing Image Classification**|Junyan Lin et.al.|[2311.04442](http://arxiv.org/abs/2311.04442)|**[link](https://github.com/summitgao/ss-mae)**|
 |**2023-10-31**|**HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception**|Junkun Yuan et.al.|[2310.20695](http://arxiv.org/abs/2310.20695)|null|
 |**2023-10-30**|**ViR: Vision Retention Networks**|Ali Hatamizadeh et.al.|[2310.19731](http://arxiv.org/abs/2310.19731)|null|
 |**2023-10-29**|**BirdSAT: Cross-View Contrastive Masked Autoencoders for Bird Species Classification and Mapping**|Srikumar Sastry et.al.|[2310.19168](http://arxiv.org/abs/2310.19168)|**[link](https://github.com/mvrl/birdsat)**|
-|**2023-11-20**|**Adversarial Examples Are Not Real Features**|Ang Li et.al.|[2310.18936](http://arxiv.org/abs/2310.18936)|**[link](https://github.com/pku-ml/advnotrealfeatures)**|
+|**2023-11-20**|**Adversarial Examples Are Not Real Features**|Ang Li et.al.|[2310.18936](http://arxiv.org/abs/2310.18936)|null|
 |**2023-10-28**|**Pre-training with Random Orthogonal Projection Image Modeling**|Maryam Haghighat et.al.|[2310.18737](http://arxiv.org/abs/2310.18737)|null|
 |**2023-10-28**|**Feature Guided Masked Autoencoder for Self-supervised Learning in Remote Sensing**|Yi Wang et.al.|[2310.18653](http://arxiv.org/abs/2310.18653)|**[link](https://github.com/zhu-xlab/fgmae)**|
 |**2023-10-20**|**Longer-range Contextualized Masked Autoencoder**|Taekyung Kim et.al.|[2310.13593](http://arxiv.org/abs/2310.13593)|null|
@@ -53,6 +54,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-29**|**OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation**|Qidong Huang et.al.|[2311.17911](http://arxiv.org/abs/2311.17911)|**[link](https://github.com/shikiw/opera)**|
+|**2023-11-29**|**Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning**|Yingdong Hu et.al.|[2311.17842](http://arxiv.org/abs/2311.17842)|null|
+|**2023-11-29**|**How to Build an AI Tutor that Can Adapt to Any Course and Provide Accurate Answers Using Large Language Model and Retrieval-Augmented Generation**|Chenxi Dong et.al.|[2311.17696](http://arxiv.org/abs/2311.17696)|null|
+|**2023-11-29**|**AviationGPT: A Large Language Model for the Aviation Domain**|Liya Wang et.al.|[2311.17686](http://arxiv.org/abs/2311.17686)|null|
+|**2023-11-29**|**TimeBench: A Comprehensive Evaluation of Temporal Reasoning Abilities in Large Language Models**|Zheng Chu et.al.|[2311.17667](http://arxiv.org/abs/2311.17667)|**[link](https://github.com/zchuz/timebench)**|
+|**2023-11-29**|**VIM: Probing Multimodal Large Language Models for Visual Embedded Instruction Following**|Yujie Lu et.al.|[2311.17647](http://arxiv.org/abs/2311.17647)|null|
+|**2023-11-29**|**ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model**|Fukun Yin et.al.|[2311.17618](http://arxiv.org/abs/2311.17618)|null|
+|**2023-11-29**|**Integrable symplectic maps with a polygon tessellation**|Timofey Zolkin et.al.|[2311.17616](http://arxiv.org/abs/2311.17616)|null|
+|**2023-11-29**|**Query-Relevant Images Jailbreak Large Multi-Modal Models**|Xin Liu et.al.|[2311.17600](http://arxiv.org/abs/2311.17600)|null|
+|**2023-11-29**|**LanGWM: Language Grounded World Model**|Rudra P. K. Poudel et.al.|[2311.17593](http://arxiv.org/abs/2311.17593)|null|
 |**2023-11-28**|**LLaMA-VID: An Image is Worth 2 Tokens in Large Language Models**|Yanwei Li et.al.|[2311.17043](http://arxiv.org/abs/2311.17043)|**[link](https://github.com/dvlab-research/llama-vid)**|
 |**2023-11-28**|**Efficient In-Context Learning in Vision-Language Models for Egocentric Videos**|Keunwoo Peter Yu et.al.|[2311.17041](http://arxiv.org/abs/2311.17041)|null|
 |**2023-11-28**|**MVBench: A Comprehensive Multi-modal Video Understanding Benchmark**|Kunchang Li et.al.|[2311.17005](http://arxiv.org/abs/2311.17005)|**[link](https://github.com/opengvlab/ask-anything)**|
