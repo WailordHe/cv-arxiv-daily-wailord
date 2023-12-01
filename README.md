@@ -54,6 +54,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-11-30**|**PoseGPT: Chatting about 3D Human Pose**|Yao Feng et.al.|[2311.18836](http://arxiv.org/abs/2311.18836)|null|
+|**2023-11-30**|**What Do Llamas Really Think? Revealing Preference Biases in Language Model Representations**|Raphael Tang et.al.|[2311.18812](http://arxiv.org/abs/2311.18812)|**[link](https://github.com/castorini/biasprobe)**|
+|**2023-11-30**|**Unnatural Error Correction: GPT-4 Can Almost Perfectly Handle Unnatural Scrambled Text**|Qi Cao et.al.|[2311.18805](http://arxiv.org/abs/2311.18805)|null|
+|**2023-11-30**|**X-InstructBLIP: A Framework for aligning X-Modal instruction-aware representations to LLMs and Emergent Cross-modal Reasoning**|Artemis Panagopoulou et.al.|[2311.18799](http://arxiv.org/abs/2311.18799)|**[link](https://github.com/artemisp/lavis-xinstructblip)**|
+|**2023-11-30**|**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**|Zineng Tang et.al.|[2311.18775](http://arxiv.org/abs/2311.18775)|null|
+|**2023-11-30**|**MLLMs-Augmented Visual-Language Representation Learning**|Yanqing Liu et.al.|[2311.18765](http://arxiv.org/abs/2311.18765)|**[link](https://github.com/lyq312318224/mllms-augmented)**|
+|**2023-11-30**|**TaskBench: Benchmarking Large Language Models for Task Automation**|Yongliang Shen et.al.|[2311.18760](http://arxiv.org/abs/2311.18760)|**[link](https://github.com/microsoft/JARVIS)**|
+|**2023-11-30**|**AlignBench: Benchmarking Chinese Alignment of Large Language Models**|Xiao Liu et.al.|[2311.18743](http://arxiv.org/abs/2311.18743)|**[link](https://github.com/thudm/alignbench)**|
+|**2023-11-30**|**CritiqueLLM: Scaling LLM-as-Critic for Effective and Explainable Evaluation of Large Language Model Generation**|Pei Ke et.al.|[2311.18702](http://arxiv.org/abs/2311.18702)|**[link](https://github.com/thu-coai/critiquellm)**|
+|**2023-11-30**|**RaDialog: A Large Vision-Language Model for Radiology Report Generation and Conversational Assistance**|Chantal Pellegrini et.al.|[2311.18681](http://arxiv.org/abs/2311.18681)|**[link](https://github.com/chantalmp/radialog)**|
 |**2023-11-29**|**OPERA: Alleviating Hallucination in Multi-Modal Large Language Models via Over-Trust Penalty and Retrospection-Allocation**|Qidong Huang et.al.|[2311.17911](http://arxiv.org/abs/2311.17911)|**[link](https://github.com/shikiw/opera)**|
 |**2023-11-29**|**Look Before You Leap: Unveiling the Power of GPT-4V in Robotic Vision-Language Planning**|Yingdong Hu et.al.|[2311.17842](http://arxiv.org/abs/2311.17842)|null|
 |**2023-11-30**|**How to Build an AI Tutor that Can Adapt to Any Course and Provide Accurate Answers Using Large Language Model and Retrieval-Augmented Generation**|Chenxi Dong et.al.|[2311.17696](http://arxiv.org/abs/2311.17696)|null|
