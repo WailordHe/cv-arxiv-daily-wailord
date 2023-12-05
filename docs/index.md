@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-01**|**Improve Supervised Representation Learning with Masked Image Modeling**|Kaifeng Chen et.al.|[2312.00950](http://arxiv.org/abs/2312.00950)|null|
 |**2023-11-28**|**BIM: Block-Wise Self-Supervised Learning with Masked Image Modeling**|Yixuan Luo et.al.|[2311.17218](http://arxiv.org/abs/2311.17218)|null|
 |**2023-11-29**|**Cross-Axis Transformer with 2D Rotary Embeddings**|Lily Erickson et.al.|[2311.07184](http://arxiv.org/abs/2311.07184)|null|
 |**2023-11-08**|**Self-Supervised Learning for Visual Relationship Detection through Masked Bounding Box Reconstruction**|Zacharias Anastasakis et.al.|[2311.04834](http://arxiv.org/abs/2311.04834)|**[link](https://github.com/deeplab-ai/selfsupervisedvrd)**|
@@ -48,6 +49,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-04**|**Steerers: A framework for rotation equivariant keypoint descriptors**|Georg Bökman et.al.|[2312.02152](http://arxiv.org/abs/2312.02152)|**[link](https://github.com/georg-bn/rotation-steerers)**|
+|**2023-12-04**|**Learning Polynomial Problems with $SL(2,\mathbb{R})$ Equivariance**|Hannah Lawrence et.al.|[2312.02146](http://arxiv.org/abs/2312.02146)|null|
+|**2023-12-04**|**Competition-Level Problems Are Effective Evaluators of LLMs**|Yiming Huang et.al.|[2312.02143](http://arxiv.org/abs/2312.02143)|null|
+|**2023-12-04**|**TPPoet: Transformer-Based Persian Poem Generation using Minimal Data and Advanced Decoding Techniques**|Amir Panahandeh et.al.|[2312.02125](http://arxiv.org/abs/2312.02125)|null|
+|**2023-12-04**|**Magicoder: Source Code Is All You Need**|Yuxiang Wei et.al.|[2312.02120](http://arxiv.org/abs/2312.02120)|**[link](https://github.com/ise-uiuc/magicoder)**|
+|**2023-12-04**|**Tree of Attacks: Jailbreaking Black-Box LLMs Automatically**|Anay Mehrotra et.al.|[2312.02119](http://arxiv.org/abs/2312.02119)|**[link](https://github.com/ricommunity/tap)**|
+|**2023-12-04**|**Physics simulation capabilities of LLMs**|Mohamad Ali-Dib et.al.|[2312.02091](http://arxiv.org/abs/2312.02091)|null|
+|**2023-12-04**|**A Glitch in the Matrix? Locating and Detecting Language Model Grounding with Fakepedia**|Giovanni Monea et.al.|[2312.02073](http://arxiv.org/abs/2312.02073)|null|
+|**2023-12-04**|**Know Your Audience: Do LLMs Adapt to Different Age and Education Levels?**|Donya Rooein et.al.|[2312.02065](http://arxiv.org/abs/2312.02065)|null|
+|**2023-12-04**|**TimeChat: A Time-sensitive Multimodal Large Language Model for Long Video Understanding**|Shuhuai Ren et.al.|[2312.02051](http://arxiv.org/abs/2312.02051)|null|
 |**2023-12-01**|**Beyond ChatBots: ExploreLLM for Structured Thoughts and Personalized Model Responses**|Xiao Ma et.al.|[2312.00763](http://arxiv.org/abs/2312.00763)|null|
 |**2023-12-01**|**Mamba: Linear-Time Sequence Modeling with Selective State Spaces**|Albert Gu et.al.|[2312.00752](http://arxiv.org/abs/2312.00752)|null|
 |**2023-12-01**|**Deciphering Digital Detectives: Understanding LLM Behaviors and Capabilities in Multi-Agent Mystery Games**|Dekun Wu et.al.|[2312.00746](http://arxiv.org/abs/2312.00746)|null|
