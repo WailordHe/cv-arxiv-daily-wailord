@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**MIMIR: Masked Image Modeling for Mutual Information-based Adversarial Robustness**|Xiaoyun Xu et.al.|[2312.04960](http://arxiv.org/abs/2312.04960)|null|
 |**2023-12-07**|**Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning**|Yongqi Dong et.al.|[2312.04398](http://arxiv.org/abs/2312.04398)|null|
 |**2023-12-05**|**Learning Cortical Anomaly through Masked Encoding for Unsupervised Heterogeneity Mapping**|Hao-Chun Yang et.al.|[2312.02762](http://arxiv.org/abs/2312.02762)|null|
 |**2023-12-02**|**Local Masking Meets Progressive Freezing: Crafting Efficient Vision Transformers for Self-Supervised Learning**|Utku Mert Topcuoglu et.al.|[2312.02194](http://arxiv.org/abs/2312.02194)|**[link](https://github.com/utkutpcgl/vitfreeze)**|
@@ -52,6 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-08**|**Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning**|Zhiting Hu et.al.|[2312.05230](http://arxiv.org/abs/2312.05230)|null|
+|**2023-12-08**|**DeltaZip: Multi-Tenant Language Model Serving via Delta Compression**|Xiaozhe Yao et.al.|[2312.05215](http://arxiv.org/abs/2312.05215)|null|
+|**2023-12-08**|**HALO: An Ontology for Representing Hallucinations in Generative Models**|Navapat Nananukul et.al.|[2312.05209](http://arxiv.org/abs/2312.05209)|null|
+|**2023-12-08**|**DelucionQA: Detecting Hallucinations in Domain-specific Question Answering**|Mobashir Sadat et.al.|[2312.05200](http://arxiv.org/abs/2312.05200)|**[link](https://github.com/boschresearch/delucionqa)**|
+|**2023-12-08**|**PathFinder: Guided Search over Multi-Step Reasoning Paths**|Olga Golovneva et.al.|[2312.05180](http://arxiv.org/abs/2312.05180)|null|
+|**2023-12-08**|**Vision-based Learning for Drones: A Survey**|Jiaping Xiao et.al.|[2312.05019](http://arxiv.org/abs/2312.05019)|null|
+|**2023-12-08**|**SparQ Attention: Bandwidth-Efficient LLM Inference**|Luka Ribar et.al.|[2312.04985](http://arxiv.org/abs/2312.04985)|null|
+|**2023-12-08**|**The ICL Consistency Test**|Lucas Weber et.al.|[2312.04945](http://arxiv.org/abs/2312.04945)|null|
+|**2023-12-08**|**Retrieval-based Video Language Model for Efficient Long Video Question Answering**|Jiaqi Xu et.al.|[2312.04931](http://arxiv.org/abs/2312.04931)|null|
+|**2023-12-08**|**Towards Efficient Secure Aggregation in FL: Partial Vector Freezing for Cost Compression**|Siqing Zhang et.al.|[2312.04920](http://arxiv.org/abs/2312.04920)|null|
 |**2023-12-07**|**Large Language Models for Mathematicians**|Simon Frieder et.al.|[2312.04556](http://arxiv.org/abs/2312.04556)|null|
 |**2023-12-07**|**Improved Visual Grounding through Self-Consistent Explanations**|Ruozhen He et.al.|[2312.04554](http://arxiv.org/abs/2312.04554)|null|
 |**2023-12-07**|**Generating Illustrated Instructions**|Sachit Menon et.al.|[2312.04552](http://arxiv.org/abs/2312.04552)|null|
