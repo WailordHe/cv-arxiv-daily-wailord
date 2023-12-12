@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2023-12-08**|**MIMIR: Masked Image Modeling for Mutual Information-based Adversarial Robustness**|Xiaoyun Xu et.al.|[2312.04960](http://arxiv.org/abs/2312.04960)|**[link](https://github.com/xiaoyunxxy/mimir)**|
 |**2023-12-07**|**Intelligent Anomaly Detection for Lane Rendering Using Transformer with Self-Supervised Pre-Training and Customized Fine-Tuning**|Yongqi Dong et.al.|[2312.04398](http://arxiv.org/abs/2312.04398)|null|
-|**2023-12-05**|**Learning Cortical Anomaly through Masked Encoding for Unsupervised Heterogeneity Mapping**|Hao-Chun Yang et.al.|[2312.02762](http://arxiv.org/abs/2312.02762)|null|
+|**2023-12-11**|**Learning Cortical Anomaly through Masked Encoding for Unsupervised Heterogeneity Mapping**|Hao-Chun Yang et.al.|[2312.02762](http://arxiv.org/abs/2312.02762)|null|
 |**2023-12-02**|**Local Masking Meets Progressive Freezing: Crafting Efficient Vision Transformers for Self-Supervised Learning**|Utku Mert Topcuoglu et.al.|[2312.02194](http://arxiv.org/abs/2312.02194)|**[link](https://github.com/utkutpcgl/vitfreeze)**|
 |**2023-12-01**|**Improve Supervised Representation Learning with Masked Image Modeling**|Kaifeng Chen et.al.|[2312.00950](http://arxiv.org/abs/2312.00950)|null|
 |**2023-11-28**|**BIM: Block-Wise Self-Supervised Learning with Masked Image Modeling**|Yixuan Luo et.al.|[2311.17218](http://arxiv.org/abs/2311.17218)|null|
@@ -53,6 +53,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-11**|**Building Domain-Specific LLMs Faithful To The Islamic Worldview: Mirage or Technical Possibility?**|Shabaz Patel et.al.|[2312.06652](http://arxiv.org/abs/2312.06652)|null|
+|**2023-12-11**|**4M: Massively Multimodal Masked Modeling**|David Mizrahi et.al.|[2312.06647](http://arxiv.org/abs/2312.06647)|null|
+|**2023-12-11**|**AnyHome: Open-Vocabulary Generation of Structured and Textured 3D Homes**|Zehao Wen et.al.|[2312.06644](http://arxiv.org/abs/2312.06644)|null|
+|**2023-12-11**|**Gated Linear Attention Transformers with Hardware-Efficient Training**|Songlin Yang et.al.|[2312.06635](http://arxiv.org/abs/2312.06635)|null|
+|**2023-12-11**|**Emergence of Scale-Free Networks in Social Interactions among Large Language Models**|Giordano De Marzo et.al.|[2312.06619](http://arxiv.org/abs/2312.06619)|null|
+|**2023-12-11**|**Neural Text to Articulate Talk: Deep Text to Audiovisual Speech Synthesis achieving both Auditory and Photo-realism**|Georgios Milis et.al.|[2312.06613](http://arxiv.org/abs/2312.06613)|**[link](https://github.com/g-milis/NEUTART)**|
+|**2023-12-11**|**From Text to Motion: Grounding GPT-4 in a Humanoid Robot "Alter3"**|Takahide Yoshida et.al.|[2312.06571](http://arxiv.org/abs/2312.06571)|null|
+|**2023-12-11**|**LLM360: Towards Fully Transparent Open-Source LLMs**|Zhengzhong Liu et.al.|[2312.06550](http://arxiv.org/abs/2312.06550)|null|
+|**2023-12-11**|**Transformers Implement Functional Gradient Descent to Learn Non-Linear Functions In Context**|Xiang Cheng et.al.|[2312.06528](http://arxiv.org/abs/2312.06528)|null|
+|**2023-12-11**|**Grounded Question-Answering in Long Egocentric Videos**|Shangzhe Di et.al.|[2312.06505](http://arxiv.org/abs/2312.06505)|null|
 |**2023-12-08**|**Language Models, Agent Models, and World Models: The LAW for Machine Reasoning and Planning**|Zhiting Hu et.al.|[2312.05230](http://arxiv.org/abs/2312.05230)|null|
 |**2023-12-08**|**DeltaZip: Multi-Tenant Language Model Serving via Delta Compression**|Xiaozhe Yao et.al.|[2312.05215](http://arxiv.org/abs/2312.05215)|null|
 |**2023-12-08**|**HALO: An Ontology for Representing Hallucinations in Generative Models**|Navapat Nananukul et.al.|[2312.05209](http://arxiv.org/abs/2312.05209)|null|
