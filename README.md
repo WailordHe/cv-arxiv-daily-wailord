@@ -59,6 +59,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-12**|**VILA: On Pre-training for Visual Language Models**|Ji Lin et.al.|[2312.07533](http://arxiv.org/abs/2312.07533)|null|
+|**2023-12-12**|**LMDrive: Closed-Loop End-to-End Driving with Large Language Models**|Hao Shao et.al.|[2312.07488](http://arxiv.org/abs/2312.07488)|null|
+|**2023-12-12**|**Comparable Demonstrations are Important in In-Context Learning: A Novel Perspective on Demonstration Selection**|Caoyun Fan et.al.|[2312.07476](http://arxiv.org/abs/2312.07476)|null|
+|**2023-12-12**|**MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**|Yiran Qin et.al.|[2312.07472](http://arxiv.org/abs/2312.07472)|null|
+|**2023-12-12**|**FairSISA: Ensemble Post-Processing to Improve Fairness of Unlearning in LLMs**|Swanand Ravindra Kadhe et.al.|[2312.07420](http://arxiv.org/abs/2312.07420)|null|
+|**2023-12-12**|**On Diverse Preferences for Large Language Model Alignment**|Dun Zeng et.al.|[2312.07401](http://arxiv.org/abs/2312.07401)|null|
+|**2023-12-12**|**Large Language Models are Clinical Reasoners: Reasoning-Aware Diagnosis Framework with Prompt-Generated Rationales**|Taeyoon Kwon et.al.|[2312.07399](http://arxiv.org/abs/2312.07399)|null|
+|**2023-12-12**|**LLMEval: A Preliminary Study on How to Evaluate Large Language Models**|Yue Zhang et.al.|[2312.07398](http://arxiv.org/abs/2312.07398)|null|
+|**2023-12-12**|**Sequential Planning in Large Partially Observable Environments guided by LLMs**|Swarna Kamal Paul et.al.|[2312.07368](http://arxiv.org/abs/2312.07368)|null|
+|**2023-12-12**|**Can ChatGPT Play the Role of a Teaching Assistant in an Introductory Programming Course?**|Anishka et.al.|[2312.07343](http://arxiv.org/abs/2312.07343)|null|
 |**2023-12-11**|**Building Domain-Specific LLMs Faithful To The Islamic Worldview: Mirage or Technical Possibility?**|Shabaz Patel et.al.|[2312.06652](http://arxiv.org/abs/2312.06652)|**[link](https://github.com/shabazpatel/domain-specific-llm)**|
 |**2023-12-11**|**4M: Massively Multimodal Masked Modeling**|David Mizrahi et.al.|[2312.06647](http://arxiv.org/abs/2312.06647)|null|
 |**2023-12-11**|**AnyHome: Open-Vocabulary Generation of Structured and Textured 3D Homes**|Zehao Wen et.al.|[2312.06644](http://arxiv.org/abs/2312.06644)|null|
