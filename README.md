@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2023.12.16
+## Updated on 2023.12.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -55,12 +55,22 @@
 |**2023-09-09**|**BiLMa: Bidirectional Local-Matching for Text-based Person Re-identification**|Takuro Fujii et.al.|[2309.04675](http://arxiv.org/abs/2309.04675)|null|
 |**2023-09-08**|**AMLP:Adaptive Masking Lesion Patches for Self-supervised Medical Image Segmentation**|Xiangtao Wang et.al.|[2309.04312](http://arxiv.org/abs/2309.04312)|null|
 
-<p align=right>(<a href=#updated-on-20231216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231217>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-14**|**DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving**|Wenhai Wang et.al.|[2312.09245](http://arxiv.org/abs/2312.09245)|**[link](https://github.com/opengvlab/drivemlm)**|
+|**2023-12-14**|**Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft**|Hao Li et.al.|[2312.09238](http://arxiv.org/abs/2312.09238)|null|
+|**2023-12-14**|**Pixel Aligned Language Models**|Jiarui Xu et.al.|[2312.09237](http://arxiv.org/abs/2312.09237)|null|
+|**2023-12-14**|**Successor Heads: Recurring, Interpretable Attention Heads In The Wild**|Rhys Gould et.al.|[2312.09230](http://arxiv.org/abs/2312.09230)|null|
+|**2023-12-14**|**Measurement in the Age of LLMs: An Application to Ideological Scaling**|Sean O'Hagan et.al.|[2312.09203](http://arxiv.org/abs/2312.09203)|null|
+|**2023-12-14**|**General Object Foundation Model for Images and Videos at Scale**|Junfeng Wu et.al.|[2312.09158](http://arxiv.org/abs/2312.09158)|null|
+|**2023-12-14**|**The Earth is Flat because...: Investigating LLMs' Belief towards Misinformation via Persuasive Conversation**|Rongwu Xu et.al.|[2312.09085](http://arxiv.org/abs/2312.09085)|null|
+|**2023-12-14**|**Language Modeling on a SpiNNaker 2 Neuromorphic Chip**|Khaleelulla Khan Nazeer et.al.|[2312.09084](http://arxiv.org/abs/2312.09084)|null|
+|**2023-12-14**|**Towards Verifiable Text Generation with Evolving Memory and Self-Reflection**|Hao Sun et.al.|[2312.09075](http://arxiv.org/abs/2312.09075)|null|
+|**2023-12-14**|**Agent Attention: On the Integration of Softmax and Linear Attention**|Dongchen Han et.al.|[2312.08874](http://arxiv.org/abs/2312.08874)|**[link](https://github.com/leaplabthu/agent-attention)**|
 |**2023-12-13**|**An Invitation to Deep Reinforcement Learning**|Bernhard Jaeger et.al.|[2312.08365](http://arxiv.org/abs/2312.08365)|null|
 |**2023-12-13**|**Distributed Inference and Fine-tuning of Large Language Models Over The Internet**|Alexander Borzunov et.al.|[2312.08361](http://arxiv.org/abs/2312.08361)|null|
 |**2023-12-13**|**FoundationPose: Unified 6D Pose Estimation and Tracking of Novel Objects**|Bowen Wen et.al.|[2312.08344](http://arxiv.org/abs/2312.08344)|null|
@@ -602,7 +612,7 @@
 |**2023-09-26**|**Fine-tuning and aligning question answering models for complex information extraction tasks**|Matthias Engelbach et.al.|[2309.14805](http://arxiv.org/abs/2309.14805)|null|
 |**2023-09-26**|**Exploring Small Language Models with Prompt-Learning Paradigm for Efficient Domain-Specific Text Classification**|Hengyu Luo et.al.|[2309.14779](http://arxiv.org/abs/2309.14779)|null|
 
-<p align=right>(<a href=#updated-on-20231216>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20231217>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
