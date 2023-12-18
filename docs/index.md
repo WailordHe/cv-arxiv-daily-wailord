@@ -55,6 +55,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-15**|**Osprey: Pixel Understanding with Visual Instruction Tuning**|Yuqian Yuan et.al.|[2312.10032](http://arxiv.org/abs/2312.10032)|**[link](https://github.com/circleradon/osprey)**|
+|**2023-12-15**|**Challenges with unsupervised LLM knowledge discovery**|Sebastian Farquhar et.al.|[2312.10029](http://arxiv.org/abs/2312.10029)|null|
+|**2023-12-15**|**Faithful Persona-based Conversational Dataset Generation with Large Language Models**|Pegah Jandaghi et.al.|[2312.10007](http://arxiv.org/abs/2312.10007)|null|
+|**2023-12-15**|**Symplectic Autoencoders for Model Reduction of Hamiltonian Systems**|Benedikt Brantner et.al.|[2312.10004](http://arxiv.org/abs/2312.10004)|null|
+|**2023-12-15**|**ReST meets ReAct: Self-Improvement for Multi-Step Reasoning LLM Agent**|Renat Aksitov et.al.|[2312.10003](http://arxiv.org/abs/2312.10003)|null|
+|**2023-12-15**|**LLaMAntino: LLaMA 2 Models for Effective Text Generation in Italian Language**|Pierpaolo Basile et.al.|[2312.09993](http://arxiv.org/abs/2312.09993)|null|
+|**2023-12-15**|**The Art of Balancing: Revolutionizing Mixture of Experts for Maintaining World Knowledge in Language Model Alignment**|Shihan Dou et.al.|[2312.09979](http://arxiv.org/abs/2312.09979)|null|
+|**2023-12-15**|**Distilling Large Language Models for Matching Patients to Clinical Trials**|Mauro Nievas et.al.|[2312.09958](http://arxiv.org/abs/2312.09958)|null|
+|**2023-12-15**|**Prompting Datasets: Data Discovery with Conversational Agents**|Johanna Walker et.al.|[2312.09947](http://arxiv.org/abs/2312.09947)|null|
+|**2023-12-15**|**Neurosymbolic Value-Inspired AI (Why, What, and How)**|Amit Sheth et.al.|[2312.09928](http://arxiv.org/abs/2312.09928)|null|
 |**2023-12-14**|**DriveMLM: Aligning Multi-Modal Large Language Models with Behavioral Planning States for Autonomous Driving**|Wenhai Wang et.al.|[2312.09245](http://arxiv.org/abs/2312.09245)|**[link](https://github.com/opengvlab/drivemlm)**|
 |**2023-12-14**|**Auto MC-Reward: Automated Dense Reward Design with Large Language Models for Minecraft**|Hao Li et.al.|[2312.09238](http://arxiv.org/abs/2312.09238)|null|
 |**2023-12-14**|**Pixel Aligned Language Models**|Jiarui Xu et.al.|[2312.09237](http://arxiv.org/abs/2312.09237)|null|
