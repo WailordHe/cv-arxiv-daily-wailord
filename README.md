@@ -61,6 +61,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-17**|**Language-conditioned Learning for Robotic Manipulation: A Survey**|Hongkuan Zhou et.al.|[2312.10807](http://arxiv.org/abs/2312.10807)|null|
+|**2023-12-17**|**A mathematical perspective on Transformers**|Borjan Geshkovski et.al.|[2312.10794](http://arxiv.org/abs/2312.10794)|**[link](https://github.com/borjang/2023-transformers-rotf)**|
+|**2023-12-17**|**Understanding the Instruction Mixture for Large Language Model**|Renxi Wang et.al.|[2312.10793](http://arxiv.org/abs/2312.10793)|null|
+|**2023-12-17**|**kNN-ICL: Compositional Task-Oriented Parsing Generalization with Nearest Neighbor In-Context Learning**|Wenting Zhao et.al.|[2312.10771](http://arxiv.org/abs/2312.10771)|null|
+|**2023-12-17**|**A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection**|Xiaoyu Zhang et.al.|[2312.10766](http://arxiv.org/abs/2312.10766)|null|
+|**2023-12-17**|**M3DBench: Let's Instruct Large Models with Multi-modal 3D Prompts**|Mingsheng Li et.al.|[2312.10763](http://arxiv.org/abs/2312.10763)|**[link](https://github.com/OpenM3D/M3DBench)**|
+|**2023-12-17**|**Multi-Label Classification of COVID-Tweets Using Large Language Models**|Aniket Deroy et.al.|[2312.10748](http://arxiv.org/abs/2312.10748)|**[link](https://github.com/anonmous1981/aisome)**|
+|**2023-12-17**|**Knowledge Trees: Gradient Boosting Decision Trees on Knowledge Neurons as Probing Classifier**|Sergey A. Saltykov et.al.|[2312.10746](http://arxiv.org/abs/2312.10746)|null|
+|**2023-12-17**|**A Unified Framework for Multi-Domain CTR Prediction via Large Language Models**|Zichuan Fu et.al.|[2312.10743](http://arxiv.org/abs/2312.10743)|null|
+|**2023-12-17**|**Mixed Distillation Helps Smaller Language Model Better Reasoning**|Li Chenglin et.al.|[2312.10730](http://arxiv.org/abs/2312.10730)|null|
 |**2023-12-15**|**Osprey: Pixel Understanding with Visual Instruction Tuning**|Yuqian Yuan et.al.|[2312.10032](http://arxiv.org/abs/2312.10032)|**[link](https://github.com/circleradon/osprey)**|
 |**2023-12-15**|**Challenges with unsupervised LLM knowledge discovery**|Sebastian Farquhar et.al.|[2312.10029](http://arxiv.org/abs/2312.10029)|null|
 |**2023-12-15**|**Faithful Persona-based Conversational Dataset Generation with Large Language Models**|Pegah Jandaghi et.al.|[2312.10007](http://arxiv.org/abs/2312.10007)|null|
