@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-27**|**Learning to Embed Time Series Patches Independently**|Seunghan Lee et.al.|[2312.16427](http://arxiv.org/abs/2312.16427)|**[link](https://github.com/seunghan96/pits)**|
 |**2023-12-19**|**DMT: Comprehensive Distillation with Multiple Self-supervised Teachers**|Yuang Liu et.al.|[2312.11938](http://arxiv.org/abs/2312.11938)|null|
 |**2023-12-13**|**PAD: Self-Supervised Pre-Training with Patchwise-Scale Adapter for Infrared Images**|Tao Zhang et.al.|[2312.08192](http://arxiv.org/abs/2312.08192)|**[link](https://github.com/casiatao/pad)**|
 |**2023-12-12**|**Pre-trained Universal Medical Image Transformer**|Lingxiao Luo et.al.|[2312.07630](http://arxiv.org/abs/2312.07630)|**[link](https://github.com/function2-llx/pumit)**|
@@ -62,6 +63,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-28**|**The LLM Surgeon**|Tycho F. A. van der Ouderaa et.al.|[2312.17244](http://arxiv.org/abs/2312.17244)|null|
+|**2023-12-28**|**An Improved Baseline for Reasoning Segmentation with Large Language Model**|Senqiao Yang et.al.|[2312.17240](http://arxiv.org/abs/2312.17240)|null|
+|**2023-12-28**|**Fast Inference of Mixture-of-Experts Language Models with Offloading**|Artyom Eliseev et.al.|[2312.17238](http://arxiv.org/abs/2312.17238)|null|
+|**2023-12-28**|**A Simple LLM Framework for Long-Range Video Question-Answering**|Ce Zhang et.al.|[2312.17235](http://arxiv.org/abs/2312.17235)|null|
+|**2023-12-28**|**Virtual Scientific Companion for Synchrotron Beamlines: A Prototype**|Daniel Potemkin et.al.|[2312.17180](http://arxiv.org/abs/2312.17180)|null|
+|**2023-12-28**|**Non-Vacuous Generalization Bounds for Large Language Models**|Sanae Lotfi et.al.|[2312.17173](http://arxiv.org/abs/2312.17173)|null|
+|**2023-12-28**|**Large Language Model for Causal Decision Making**|Haitao Jiang et.al.|[2312.17122](http://arxiv.org/abs/2312.17122)|null|
+|**2023-12-28**|**How Far Are We from Believable AI Agents? A Framework for Evaluating the Believability of Human Behavior Simulation**|Yang Xiao et.al.|[2312.17115](http://arxiv.org/abs/2312.17115)|null|
+|**2023-12-28**|**Challenge LLMs to Reason About Reasoning: A Benchmark to Unveil Cognitive Depth in LLMs**|Zhongshen Zeng et.al.|[2312.17080](http://arxiv.org/abs/2312.17080)|null|
+|**2023-12-28**|**Improving In-context Learning via Bidirectional Alignment**|Chengwei Qin et.al.|[2312.17055](http://arxiv.org/abs/2312.17055)|null|
 |**2023-12-26**|**Principled Instructions Are All You Need for Questioning LLaMA-1/2, GPT-3.5/4**|Sondos Mahmoud Bsharat et.al.|[2312.16171](http://arxiv.org/abs/2312.16171)|**[link](https://github.com/vila-lab/atlas)**|
 |**2023-12-26**|**Zero-Shot Cross-Lingual Reranking with Large Language Models for Low-Resource Languages**|Mofetoluwa Adeyemi et.al.|[2312.16159](http://arxiv.org/abs/2312.16159)|null|
 |**2023-12-26**|**RoleEval: A Bilingual Role Evaluation Benchmark for Large Language Models**|Tianhao Shen et.al.|[2312.16132](http://arxiv.org/abs/2312.16132)|null|
