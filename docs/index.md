@@ -57,6 +57,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2023-12-29**|**Jatmo: Prompt Injection Defense by Task-Specific Finetuning**|Julien Piet et.al.|[2312.17673](http://arxiv.org/abs/2312.17673)|null|
+|**2023-12-29**|**Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models**|Yuqing Wang et.al.|[2312.17661](http://arxiv.org/abs/2312.17661)|**[link](https://github.com/eternityyw/gemini-commonsense-evaluation)**|
+|**2023-12-29**|**Large Language Models for Generative Information Extraction: A Survey**|Derong Xu et.al.|[2312.17617](http://arxiv.org/abs/2312.17617)|null|
+|**2023-12-29**|**Action-Item-Driven Summarization of Long Meeting Transcripts**|Logan Golia et.al.|[2312.17581](http://arxiv.org/abs/2312.17581)|**[link](https://github.com/logangolia/meeting-summarization)**|
+|**2023-12-29**|**Building Efficient Universal Classifiers with Natural Language Inference**|Moritz Laurer et.al.|[2312.17543](http://arxiv.org/abs/2312.17543)|null|
+|**2023-12-29**|**Enhancing Quantitative Reasoning Skills of Large Language Models through Dimension Perception**|Yuncheng Huang et.al.|[2312.17532](http://arxiv.org/abs/2312.17532)|null|
+|**2023-12-29**|**Overview of the PromptCBLUE Shared Task in CHIP2023**|Wei Zhu et.al.|[2312.17522](http://arxiv.org/abs/2312.17522)|null|
+|**2023-12-29**|**Cooperation on the Fly: Exploring Language Agents for Ad Hoc Teamwork in the Avalon Game**|Zijing Shi et.al.|[2312.17515](http://arxiv.org/abs/2312.17515)|null|
+|**2023-12-29**|**Differentially Private Low-Rank Adaptation of Large Language Model Using Federated Learning**|Xiao-Yang Liu et.al.|[2312.17493](http://arxiv.org/abs/2312.17493)|null|
+|**2023-12-29**|**The Right Prompts for the Job: Repair Code-Review Defects with Large Language Model**|Zelin Zhao et.al.|[2312.17485](http://arxiv.org/abs/2312.17485)|null|
 |**2023-12-28**|**The LLM Surgeon**|Tycho F. A. van der Ouderaa et.al.|[2312.17244](http://arxiv.org/abs/2312.17244)|null|
 |**2023-12-28**|**An Improved Baseline for Reasoning Segmentation with Large Language Model**|Senqiao Yang et.al.|[2312.17240](http://arxiv.org/abs/2312.17240)|null|
 |**2023-12-28**|**Fast Inference of Mixture-of-Experts Language Models with Offloading**|Artyom Eliseev et.al.|[2312.17238](http://arxiv.org/abs/2312.17238)|**[link](https://github.com/dvmazur/mixtral-offloading)**|
