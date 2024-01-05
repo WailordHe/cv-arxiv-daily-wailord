@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**SyCoCa: Symmetrizing Contrastive Captioners with Attentive Masking for Multimodal Alignment**|Ziping Ma et.al.|[2401.02137](http://arxiv.org/abs/2401.02137)|null|
 |**2024-01-03**|**aMUSEd: An Open MUSE Reproduction**|Suraj Patil et.al.|[2401.01808](http://arxiv.org/abs/2401.01808)|null|
 |**2023-12-31**|**Analyzing Local Representations of Self-supervised Vision Transformers**|Ani Vanyan et.al.|[2401.00463](http://arxiv.org/abs/2401.00463)|null|
 |**2023-12-30**|**Masked Image Modeling via Dynamic Token Morphing**|Taekyung Kim et.al.|[2401.00254](http://arxiv.org/abs/2401.00254)|null|
@@ -61,6 +62,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-04**|**Learning to Prompt with Text Only Supervision for Vision-Language Models**|Muhammad Uzair Khattak et.al.|[2401.02418](http://arxiv.org/abs/2401.02418)|**[link](https://github.com/muzairkhattak/protext)**|
+|**2024-01-04**|**LLaMA Pro: Progressive LLaMA with Block Expansion**|Chengyue Wu et.al.|[2401.02415](http://arxiv.org/abs/2401.02415)|**[link](https://github.com/tencentarc/llama-pro)**|
+|**2024-01-04**|**Correctness Comparison of ChatGPT-4, Bard, Claude-2, and Copilot for Spatial Tasks**|Hartwig H. Hochmair et.al.|[2401.02404](http://arxiv.org/abs/2401.02404)|null|
+|**2024-01-04**|**DIALIGHT: Lightweight Multilingual Development and Evaluation of Task-Oriented Dialogue Systems with Large Language Models**|Songbo Hu et.al.|[2401.02208](http://arxiv.org/abs/2401.02208)|null|
+|**2024-01-04**|**Exploring Boundary of GPT-4V on Marine Analysis: A Preliminary Case Study**|Ziqiang Zheng et.al.|[2401.02147](http://arxiv.org/abs/2401.02147)|null|
+|**2024-01-04**|**DCR-Consistency: Divide-Conquer-Reasoning for Consistency Evaluation and Improvement of Large Language Models**|Wendi Cui et.al.|[2401.02132](http://arxiv.org/abs/2401.02132)|null|
+|**2024-01-04**|**ICE-GRT: Instruction Context Enhancement by Generative Reinforcement based Transformers**|Chen Zheng et.al.|[2401.02072](http://arxiv.org/abs/2401.02072)|null|
+|**2024-01-04**|**An Example of Evolutionary Computation + Large Language Model Beating Human: Design of Efficient Guided Local Search**|Fei Liu et.al.|[2401.02051](http://arxiv.org/abs/2401.02051)|null|
+|**2024-01-04**|**Understanding LLMs: A Comprehensive Overview from Training to Inference**|Yiheng Liu et.al.|[2401.02038](http://arxiv.org/abs/2401.02038)|null|
+|**2024-01-04**|**Text2MDT: Extracting Medical Decision Trees from Medical Texts**|Wei Zhu et.al.|[2401.02034](http://arxiv.org/abs/2401.02034)|null|
 |**2024-01-03**|**Mining Temporal Attack Patterns from Cyberthreat Intelligence Reports**|Md Rayhanur Rahman et.al.|[2401.01883](http://arxiv.org/abs/2401.01883)|null|
 |**2024-01-03**|**A Vision Check-up for Language Models**|Pratyusha Sharma et.al.|[2401.01862](http://arxiv.org/abs/2401.01862)|null|
 |**2024-01-03**|**Multilingual Instruction Tuning With Just a Pinch of Multilinguality**|Uri Shaham et.al.|[2401.01854](http://arxiv.org/abs/2401.01854)|null|
