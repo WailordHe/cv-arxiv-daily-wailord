@@ -19,7 +19,7 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-04**|**SyCoCa: Symmetrizing Contrastive Captioners with Attentive Masking for Multimodal Alignment**|Ziping Ma et.al.|[2401.02137](http://arxiv.org/abs/2401.02137)|null|
-|**2024-01-03**|**aMUSEd: An Open MUSE Reproduction**|Suraj Patil et.al.|[2401.01808](http://arxiv.org/abs/2401.01808)|null|
+|**2024-01-03**|**aMUSEd: An Open MUSE Reproduction**|Suraj Patil et.al.|[2401.01808](http://arxiv.org/abs/2401.01808)|**[link](https://github.com/huggingface/amused)**|
 |**2023-12-31**|**Analyzing Local Representations of Self-supervised Vision Transformers**|Ani Vanyan et.al.|[2401.00463](http://arxiv.org/abs/2401.00463)|null|
 |**2023-12-30**|**Masked Image Modeling via Dynamic Token Morphing**|Taekyung Kim et.al.|[2401.00254](http://arxiv.org/abs/2401.00254)|null|
 |**2024-01-02**|**USFM: A Universal Ultrasound Foundation Model Generalized to Tasks and Organs towards Label Efficient Image Analysis**|Jing Jiao et.al.|[2401.00153](http://arxiv.org/abs/2401.00153)|null|
