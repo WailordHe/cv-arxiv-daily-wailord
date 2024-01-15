@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-12**|**Frequency Masking for Universal Deepfake Detection**|Chandler Timm Doloriel et.al.|[2401.06506](http://arxiv.org/abs/2401.06506)|**[link](https://github.com/chandlerbing65nm/fakedetection)**|
 |**2024-01-05**|**Fus-MAE: A cross-attention-based data fusion approach for Masked Autoencoders in remote sensing**|Hugo Chan-To-Hing et.al.|[2401.02764](http://arxiv.org/abs/2401.02764)|null|
 |**2024-01-05**|**MOODv2: Masked Image Modeling for Out-of-Distribution Detection**|Jingyao Li et.al.|[2401.02611](http://arxiv.org/abs/2401.02611)|null|
 |**2024-01-04**|**SyCoCa: Symmetrizing Contrastive Captioners with Attentive Masking for Multimodal Alignment**|Ziping Ma et.al.|[2401.02137](http://arxiv.org/abs/2401.02137)|null|
@@ -64,6 +65,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-12**|**Mind Your Format: Towards Consistent Evaluation of In-Context Learning Improvements**|Anton Voronov et.al.|[2401.06766](http://arxiv.org/abs/2401.06766)|null|
+|**2024-01-12**|**APAR: LLMs Can Do Auto-Parallel Auto-Regressive Decoding**|Mingdao Liu et.al.|[2401.06761](http://arxiv.org/abs/2401.06761)|null|
+|**2024-01-12**|**Few-Shot Detection of Machine-Generated Text using Style Representations**|Rafael Rivera Soto et.al.|[2401.06712](http://arxiv.org/abs/2401.06712)|null|
+|**2024-01-12**|**Multi-Candidate Speculative Decoding**|Sen Yang et.al.|[2401.06706](http://arxiv.org/abs/2401.06706)|**[link](https://github.com/njunlp/mcsd)**|
+|**2024-01-12**|**An Experimental Design Framework for Label-Efficient Supervised Finetuning of Large Language Models**|Gantavya Bhatt et.al.|[2401.06692](http://arxiv.org/abs/2401.06692)|null|
+|**2024-01-12**|**Don't Rank, Combine! Combining Machine Translation Hypotheses Using Quality Estimation**|Giorgos Vernikos et.al.|[2401.06688](http://arxiv.org/abs/2401.06688)|null|
+|**2024-01-12**|**LLMRS: Unlocking Potentials of LLM-Based Recommender Systems for Software Purchase**|Angela John et.al.|[2401.06676](http://arxiv.org/abs/2401.06676)|null|
+|**2024-01-12**|**Effects of diversity incentives on sample diversity and downstream model performance in LLM-based text augmentation**|Jan Cegin et.al.|[2401.06643](http://arxiv.org/abs/2401.06643)|**[link](https://github.com/kinit-sk/llm-div-incts)**|
+|**2024-01-12**|**OOP: Object-Oriented Programming Evaluation Benchmark for Large Language Models**|Shuai Wang et.al.|[2401.06628](http://arxiv.org/abs/2401.06628)|null|
+|**2024-01-12**|**How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs**|Yi Zeng et.al.|[2401.06373](http://arxiv.org/abs/2401.06373)|null|
 |**2024-01-11**|**TOFU: A Task of Fictitious Unlearning for LLMs**|Pratyush Maini et.al.|[2401.06121](http://arxiv.org/abs/2401.06121)|null|
 |**2024-01-11**|**Extreme Compression of Large Language Models via Additive Quantization**|Vage Egiazarian et.al.|[2401.06118](http://arxiv.org/abs/2401.06118)|**[link](https://github.com/vahe1994/aqlm)**|
 |**2024-01-11**|**Patchscope: A Unifying Framework for Inspecting Hidden Representations of Language Models**|Asma Ghandeharioun et.al.|[2401.06102](http://arxiv.org/abs/2401.06102)|null|
