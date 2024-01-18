@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.17
+## Updated on 2024.01.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -67,7 +67,7 @@
 |**2023-09-09**|**BiLMa: Bidirectional Local-Matching for Text-based Person Re-identification**|Takuro Fujii et.al.|[2309.04675](http://arxiv.org/abs/2309.04675)|null|
 |**2023-09-08**|**AMLP:Adaptive Masking Lesion Patches for Self-supervised Medical Image Segmentation**|Xiangtao Wang et.al.|[2309.04312](http://arxiv.org/abs/2309.04312)|null|
 
-<p align=right>(<a href=#updated-on-20240117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240118>back to top</a>)</p>
 
 ## LLM
 
@@ -75,7 +75,7 @@
 |---|---|---|---|---|
 |**2024-01-16**|**RAG vs Fine-tuning: Pipelines, Tradeoffs, and a Case Study on Agriculture**|Aman Gupta et.al.|[2401.08406](http://arxiv.org/abs/2401.08406)|null|
 |**2024-01-16**|**DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models**|Zongxin Yang et.al.|[2401.08392](http://arxiv.org/abs/2401.08392)|**[link](https://github.com/z-x-yang/doraemongpt)**|
-|**2024-01-16**|**Exploiting Inter-Layer Expert Affinity for Accelerating Mixture-of-Experts Model Inference**|Jinghan Yao et.al.|[2401.08383](http://arxiv.org/abs/2401.08383)|null|
+|**2024-01-16**|**Exploiting Inter-Layer Expert Affinity for Accelerating Mixture-of-Experts Model Inference**|Jinghan Yao et.al.|[2401.08383](http://arxiv.org/abs/2401.08383)|**[link](https://github.com/yjhmitweb/exflow)**|
 |**2024-01-16**|**Hallucination Detection and Hallucination Mitigation: An Investigation**|Junliang Luo et.al.|[2401.08358](http://arxiv.org/abs/2401.08358)|null|
 |**2024-01-16**|**Salute the Classic: Revisiting Challenges of Machine Translation in the Age of Large Language Models**|Jianhui Pang et.al.|[2401.08350](http://arxiv.org/abs/2401.08350)|null|
 |**2024-01-16**|**Understanding User Experience in Large Language Model Interactions**|Jiayin Wang et.al.|[2401.08329](http://arxiv.org/abs/2401.08329)|null|
@@ -804,7 +804,7 @@
 |**2023-09-26**|**Fine-tuning and aligning question answering models for complex information extraction tasks**|Matthias Engelbach et.al.|[2309.14805](http://arxiv.org/abs/2309.14805)|null|
 |**2023-09-26**|**Exploring Small Language Models with Prompt-Learning Paradigm for Efficient Domain-Specific Text Classification**|Hengyu Luo et.al.|[2309.14779](http://arxiv.org/abs/2309.14779)|null|
 
-<p align=right>(<a href=#updated-on-20240117>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240118>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
