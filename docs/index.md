@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.22
+## Updated on 2024.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -71,7 +71,7 @@ layout: default
 |**2024-01-19**|**Pruning for Protection: Increasing Jailbreak Resistance in Aligned LLMs Without Fine-Tuning**|Adib Hasan et.al.|[2401.10862](http://arxiv.org/abs/2401.10862)|null|
 |**2024-01-19**|**Using LLMs to discover emerging coded antisemitic hate-speech emergence in extremist social media**|Dhanush Kikkisetti et.al.|[2401.10841](http://arxiv.org/abs/2401.10841)|null|
 |**2024-01-19**|**A survey on recent advances in named entity recognition**|Imed Keraghel et.al.|[2401.10825](http://arxiv.org/abs/2401.10825)|null|
-|**2024-01-19**|**Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads**|Tianle Cai et.al.|[2401.10774](http://arxiv.org/abs/2401.10774)|null|
+|**2024-01-19**|**Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads**|Tianle Cai et.al.|[2401.10774](http://arxiv.org/abs/2401.10774)|**[link](https://github.com/fasterdecoding/medusa)**|
 |**2024-01-19**|**Mitigating Hallucinations of Large Language Models via Knowledge Consistent Alignment**|Fanqi Wan et.al.|[2401.10768](http://arxiv.org/abs/2401.10768)|null|
 |**2024-01-19**|**Interactions with Prompt Problems: A New Way to Teach Programming with Large Language Models**|James Prather et.al.|[2401.10759](http://arxiv.org/abs/2401.10759)|null|
 |**2024-01-19**|**FinLLMs: A Framework for Financial Reasoning Dataset Generation with Large Language Models**|Ziqiang Yuan et.al.|[2401.10744](http://arxiv.org/abs/2401.10744)|null|

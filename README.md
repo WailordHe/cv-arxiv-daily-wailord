@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.22
+## Updated on 2024.01.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -67,7 +67,7 @@
 |**2023-09-09**|**BiLMa: Bidirectional Local-Matching for Text-based Person Re-identification**|Takuro Fujii et.al.|[2309.04675](http://arxiv.org/abs/2309.04675)|null|
 |**2023-09-08**|**AMLP:Adaptive Masking Lesion Patches for Self-supervised Medical Image Segmentation**|Xiangtao Wang et.al.|[2309.04312](http://arxiv.org/abs/2309.04312)|null|
 
-<p align=right>(<a href=#updated-on-20240122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240123>back to top</a>)</p>
 
 ## LLM
 
@@ -77,7 +77,7 @@
 |**2024-01-19**|**Pruning for Protection: Increasing Jailbreak Resistance in Aligned LLMs Without Fine-Tuning**|Adib Hasan et.al.|[2401.10862](http://arxiv.org/abs/2401.10862)|null|
 |**2024-01-19**|**Using LLMs to discover emerging coded antisemitic hate-speech emergence in extremist social media**|Dhanush Kikkisetti et.al.|[2401.10841](http://arxiv.org/abs/2401.10841)|null|
 |**2024-01-19**|**A survey on recent advances in named entity recognition**|Imed Keraghel et.al.|[2401.10825](http://arxiv.org/abs/2401.10825)|null|
-|**2024-01-19**|**Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads**|Tianle Cai et.al.|[2401.10774](http://arxiv.org/abs/2401.10774)|null|
+|**2024-01-19**|**Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads**|Tianle Cai et.al.|[2401.10774](http://arxiv.org/abs/2401.10774)|**[link](https://github.com/fasterdecoding/medusa)**|
 |**2024-01-19**|**Mitigating Hallucinations of Large Language Models via Knowledge Consistent Alignment**|Fanqi Wan et.al.|[2401.10768](http://arxiv.org/abs/2401.10768)|null|
 |**2024-01-19**|**Interactions with Prompt Problems: A New Way to Teach Programming with Large Language Models**|James Prather et.al.|[2401.10759](http://arxiv.org/abs/2401.10759)|null|
 |**2024-01-19**|**FinLLMs: A Framework for Financial Reasoning Dataset Generation with Large Language Models**|Ziqiang Yuan et.al.|[2401.10744](http://arxiv.org/abs/2401.10744)|null|
@@ -834,7 +834,7 @@
 |**2023-09-26**|**Fine-tuning and aligning question answering models for complex information extraction tasks**|Matthias Engelbach et.al.|[2309.14805](http://arxiv.org/abs/2309.14805)|null|
 |**2023-09-26**|**Exploring Small Language Models with Prompt-Learning Paradigm for Efficient Domain-Specific Text Classification**|Hengyu Luo et.al.|[2309.14779](http://arxiv.org/abs/2309.14779)|null|
 
-<p align=right>(<a href=#updated-on-20240122>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240123>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
