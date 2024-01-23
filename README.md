@@ -73,6 +73,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-22**|**Less Could Be Better: Parameter-efficient Fine-tuning Advances Medical Vision Foundation Models**|Chenyu Lian et.al.|[2401.12215](http://arxiv.org/abs/2401.12215)|**[link](https://github.com/rl4m/med-peft)**|
+|**2024-01-22**|**CheXagent: Towards a Foundation Model for Chest X-Ray Interpretation**|Zhihong Chen et.al.|[2401.12208](http://arxiv.org/abs/2401.12208)|null|
+|**2024-01-22**|**APT: Adaptive Pruning and Tuning Pretrained Language Models for Efficient Training and Inference**|Bowen Zhao et.al.|[2401.12200](http://arxiv.org/abs/2401.12200)|null|
+|**2024-01-22**|**Text Embedding Inversion Attacks on Multilingual Language Models**|Yiyi Chen et.al.|[2401.12192](http://arxiv.org/abs/2401.12192)|null|
+|**2024-01-22**|**WARM: On the Benefits of Weight Averaged Reward Models**|Alexandre Ramé et.al.|[2401.12187](http://arxiv.org/abs/2401.12187)|null|
+|**2024-01-22**|**CodeTailor: Personalized Parsons Puzzles are Preferred Over AI-Generated Solutions to Support Learning**|Xinying Hou et.al.|[2401.12125](http://arxiv.org/abs/2401.12125)|null|
+|**2024-01-22**|**The Curious Case of Nonverbal Abstract Reasoning with Multi-Modal Large Language Models**|Kian Ahrabian et.al.|[2401.12117](http://arxiv.org/abs/2401.12117)|null|
+|**2024-01-22**|**An Empirical Analysis of In-context Learning Abilities of LLMs for MT**|Pranjal A. Chitale et.al.|[2401.12097](http://arxiv.org/abs/2401.12097)|null|
+|**2024-01-22**|**Revisiting Demonstration Selection Strategies in In-Context Learning**|Keqin Peng et.al.|[2401.12087](http://arxiv.org/abs/2401.12087)|null|
+|**2024-01-22**|**Temporal Blind Spots in Large Language Models**|Jonas Wallat et.al.|[2401.12078](http://arxiv.org/abs/2401.12078)|**[link](https://github.com/jwallat/temporalblindspots)**|
 |**2024-01-19**|**Reinforcement learning for question answering in programming domain using public community scoring as a human feedback**|Alexey Gorbatovski et.al.|[2401.10882](http://arxiv.org/abs/2401.10882)|null|
 |**2024-01-19**|**Pruning for Protection: Increasing Jailbreak Resistance in Aligned LLMs Without Fine-Tuning**|Adib Hasan et.al.|[2401.10862](http://arxiv.org/abs/2401.10862)|null|
 |**2024-01-19**|**Using LLMs to discover emerging coded antisemitic hate-speech emergence in extremist social media**|Dhanush Kikkisetti et.al.|[2401.10841](http://arxiv.org/abs/2401.10841)|null|
