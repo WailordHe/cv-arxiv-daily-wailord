@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.25
+## Updated on 2024.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -70,7 +70,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-24**|**How Good is ChatGPT at Face Biometrics? A First Look into Recognition, Soft Biometrics, and Explainability**|Ivan DeAndres-Tame et.al.|[2401.13641](http://arxiv.org/abs/2401.13641)|null|
-|**2024-01-24**|**MM-LLMs: Recent Advances in MultiModal Large Language Models**|Duzhen Zhang et.al.|[2401.13601](http://arxiv.org/abs/2401.13601)|null|
+|**2024-01-25**|**MM-LLMs: Recent Advances in MultiModal Large Language Models**|Duzhen Zhang et.al.|[2401.13601](http://arxiv.org/abs/2401.13601)|null|
 |**2024-01-24**|**Consistency Guided Knowledge Retrieval and Denoising in LLMs for Zero-shot Document-level Relation Triplet Extraction**|Qi Sun et.al.|[2401.13598](http://arxiv.org/abs/2401.13598)|null|
 |**2024-01-24**|**Graph Guided Question Answer Generation for Procedural Question-Answering**|Hai X. Pham et.al.|[2401.13594](http://arxiv.org/abs/2401.13594)|null|
 |**2024-01-24**|**Evaluation of General Large Language Models in Contextually Assessing Semantic Concepts Extracted from Adult Critical Care Electronic Health Record Notes**|Darren Liu et.al.|[2401.13588](http://arxiv.org/abs/2401.13588)|null|

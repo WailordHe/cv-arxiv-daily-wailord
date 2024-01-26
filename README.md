@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.25
+## Updated on 2024.01.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -69,14 +69,14 @@
 |**2023-09-09**|**BiLMa: Bidirectional Local-Matching for Text-based Person Re-identification**|Takuro Fujii et.al.|[2309.04675](http://arxiv.org/abs/2309.04675)|null|
 |**2023-09-08**|**AMLP:Adaptive Masking Lesion Patches for Self-supervised Medical Image Segmentation**|Xiangtao Wang et.al.|[2309.04312](http://arxiv.org/abs/2309.04312)|null|
 
-<p align=right>(<a href=#updated-on-20240125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240126>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-24**|**How Good is ChatGPT at Face Biometrics? A First Look into Recognition, Soft Biometrics, and Explainability**|Ivan DeAndres-Tame et.al.|[2401.13641](http://arxiv.org/abs/2401.13641)|null|
-|**2024-01-24**|**MM-LLMs: Recent Advances in MultiModal Large Language Models**|Duzhen Zhang et.al.|[2401.13601](http://arxiv.org/abs/2401.13601)|null|
+|**2024-01-25**|**MM-LLMs: Recent Advances in MultiModal Large Language Models**|Duzhen Zhang et.al.|[2401.13601](http://arxiv.org/abs/2401.13601)|null|
 |**2024-01-24**|**Consistency Guided Knowledge Retrieval and Denoising in LLMs for Zero-shot Document-level Relation Triplet Extraction**|Qi Sun et.al.|[2401.13598](http://arxiv.org/abs/2401.13598)|null|
 |**2024-01-24**|**Graph Guided Question Answer Generation for Procedural Question-Answering**|Hai X. Pham et.al.|[2401.13594](http://arxiv.org/abs/2401.13594)|null|
 |**2024-01-24**|**Evaluation of General Large Language Models in Contextually Assessing Semantic Concepts Extracted from Adult Critical Care Electronic Health Record Notes**|Darren Liu et.al.|[2401.13588](http://arxiv.org/abs/2401.13588)|null|
@@ -866,7 +866,7 @@
 |**2023-09-26**|**Fine-tuning and aligning question answering models for complex information extraction tasks**|Matthias Engelbach et.al.|[2309.14805](http://arxiv.org/abs/2309.14805)|null|
 |**2023-09-26**|**Exploring Small Language Models with Prompt-Learning Paradigm for Efficient Domain-Specific Text Classification**|Hengyu Luo et.al.|[2309.14779](http://arxiv.org/abs/2309.14779)|null|
 
-<p align=right>(<a href=#updated-on-20240125>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240126>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
