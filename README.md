@@ -83,7 +83,7 @@
 |**2024-01-25**|**GPTVoiceTasker: LLM-Powered Virtual Assistant for Smartphone**|Minh Duc Vu et.al.|[2401.14268](http://arxiv.org/abs/2401.14268)|null|
 |**2024-01-25**|**Transformers and Cortical Waves: Encoders for Pulling In Context Across Time**|Lyle Muller et.al.|[2401.14267](http://arxiv.org/abs/2401.14267)|null|
 |**2024-01-25**|**Improving Natural Language Capability of Code Large Language Model**|Wei Li et.al.|[2401.14242](http://arxiv.org/abs/2401.14242)|**[link](https://github.com/nl2code/attentioncoder)**|
-|**2024-01-25**|**DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence**|Daya Guo et.al.|[2401.14196](http://arxiv.org/abs/2401.14196)|null|
+|**2024-01-25**|**DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence**|Daya Guo et.al.|[2401.14196](http://arxiv.org/abs/2401.14196)|**[link](https://github.com/deepseek-ai/DeepSeek-Coder)**|
 |**2024-01-25**|**How Can Large Language Models Understand Spatial-Temporal Data?**|Lei Liu et.al.|[2401.14192](http://arxiv.org/abs/2401.14192)|null|
 |**2024-01-24**|**How Good is ChatGPT at Face Biometrics? A First Look into Recognition, Soft Biometrics, and Explainability**|Ivan DeAndres-Tame et.al.|[2401.13641](http://arxiv.org/abs/2401.13641)|null|
 |**2024-01-25**|**MM-LLMs: Recent Advances in MultiModal Large Language Models**|Duzhen Zhang et.al.|[2401.13601](http://arxiv.org/abs/2401.13601)|null|
