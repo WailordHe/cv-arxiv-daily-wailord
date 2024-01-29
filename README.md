@@ -75,6 +75,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**|Yuhui Li et.al.|[2401.15077](http://arxiv.org/abs/2401.15077)|null|
+|**2024-01-26**|**From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities**|Chaochao Lu et.al.|[2401.15071](http://arxiv.org/abs/2401.15071)|null|
+|**2024-01-26**|**Health Text Simplification: An Annotated Corpus for Digestive Cancer Education and Novel Strategies for Reinforcement Learning**|Md Mushfiqur Rahman et.al.|[2401.15043](http://arxiv.org/abs/2401.15043)|null|
+|**2024-01-26**|**PROXYQA: An Alternative Framework for Evaluating Long-Form Text Generation with Large Language Models**|Haochen Tan et.al.|[2401.15042](http://arxiv.org/abs/2401.15042)|null|
+|**2024-01-26**|**On the generalization capacity of neural networks during generic multimodal reasoning**|Takuya Ito et.al.|[2401.15030](http://arxiv.org/abs/2401.15030)|null|
+|**2024-01-26**|**SliceGPT: Compress Large Language Models by Deleting Rows and Columns**|Saleh Ashkboos et.al.|[2401.15024](http://arxiv.org/abs/2401.15024)|null|
+|**2024-01-26**|**Reassessing Java Code Readability Models with a Human-Centered Approach**|Agnia Sergeyuk et.al.|[2401.14936](http://arxiv.org/abs/2401.14936)|null|
+|**2024-01-26**|**Appropriateness of LLM-equipped Robotic Well-being Coach Language in the Workplace: A Qualitative Evaluation**|Micol Spitale et.al.|[2401.14935](http://arxiv.org/abs/2401.14935)|null|
+|**2024-01-26**|**Do LLMs Dream of Ontologies?**|Marco Bombieri et.al.|[2401.14931](http://arxiv.org/abs/2401.14931)|null|
+|**2024-01-26**|**The Power of Noise: Redefining Retrieval for RAG Systems**|Florin Cuconasu et.al.|[2401.14887](http://arxiv.org/abs/2401.14887)|null|
 |**2024-01-25**|**The Typing Cure: Experiences with Large Language Model Chatbots for Mental Health Support**|Inhwa Song et.al.|[2401.14362](http://arxiv.org/abs/2401.14362)|null|
 |**2024-01-25**|**ServerlessLLM: Locality-Enhanced Serverless Inference for Large Language Models**|Yao Fu et.al.|[2401.14351](http://arxiv.org/abs/2401.14351)|null|
 |**2024-01-25**|**Topologies of Reasoning: Demystifying Chains, Trees, and Graphs of Thoughts**|Maciej Besta et.al.|[2401.14295](http://arxiv.org/abs/2401.14295)|null|
