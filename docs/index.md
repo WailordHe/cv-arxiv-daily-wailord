@@ -69,6 +69,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-29**|**Scaling Sparse Fine-Tuning to Large Language Models**|Alan Ansell et.al.|[2401.16405](http://arxiv.org/abs/2401.16405)|null|
+|**2024-01-29**|**Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling**|Pratyush Maini et.al.|[2401.16380](http://arxiv.org/abs/2401.16380)|null|
+|**2024-01-29**|**The role of library versions in Developer-ChatGPT conversations**|Rachna Raj et.al.|[2401.16340](http://arxiv.org/abs/2401.16340)|null|
+|**2024-01-29**|**Machine Translation Meta Evaluation through Translation Accuracy Challenge Sets**|Nikita Moghe et.al.|[2401.16313](http://arxiv.org/abs/2401.16313)|null|
+|**2024-01-29**|**Security Code Review by LLMs: A Deep Dive into Responses**|Jiaxin Yu et.al.|[2401.16310](http://arxiv.org/abs/2401.16310)|null|
+|**2024-01-29**|**CO2: Efficient Distributed Training with Full Communication-Computation Overlap**|Weigao Sun et.al.|[2401.16265](http://arxiv.org/abs/2401.16265)|null|
+|**2024-01-29**|**An Empirical Study on Usage and Perceptions of LLMs in a Software Engineering Project**|Sanka Rasnayaka et.al.|[2401.16186](http://arxiv.org/abs/2401.16186)|null|
+|**2024-01-29**|**LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning**|Yuqiang Sun et.al.|[2401.16185](http://arxiv.org/abs/2401.16185)|null|
+|**2024-01-29**|**LLaMandement: Large Language Models for Summarization of French Legislative Proposals**|Joseph Gesnouin et.al.|[2401.16182](http://arxiv.org/abs/2401.16182)|null|
+|**2024-01-29**|**On Decentralized Linearly Separable Computation With the Minimum Computation Cost**|Haoning Chen et.al.|[2401.16181](http://arxiv.org/abs/2401.16181)|null|
 |**2024-01-26**|**EAGLE: Speculative Sampling Requires Rethinking Feature Uncertainty**|Yuhui Li et.al.|[2401.15077](http://arxiv.org/abs/2401.15077)|null|
 |**2024-01-26**|**From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities**|Chaochao Lu et.al.|[2401.15071](http://arxiv.org/abs/2401.15071)|null|
 |**2024-01-26**|**Health Text Simplification: An Annotated Corpus for Digestive Cancer Education and Novel Strategies for Reinforcement Learning**|Md Mushfiqur Rahman et.al.|[2401.15043](http://arxiv.org/abs/2401.15043)|null|
