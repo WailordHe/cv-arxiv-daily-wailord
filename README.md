@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.31
+## Updated on 2024.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -69,7 +69,7 @@
 |**2023-09-09**|**BiLMa: Bidirectional Local-Matching for Text-based Person Re-identification**|Takuro Fujii et.al.|[2309.04675](http://arxiv.org/abs/2309.04675)|null|
 |**2023-09-08**|**AMLP:Adaptive Masking Lesion Patches for Self-supervised Medical Image Segmentation**|Xiangtao Wang et.al.|[2309.04312](http://arxiv.org/abs/2309.04312)|null|
 
-<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
 
 ## LLM
 
@@ -78,13 +78,13 @@
 |**2024-01-30**|**Weaver: Foundation Models for Creative Writing**|Tiannan Wang et.al.|[2401.17268](http://arxiv.org/abs/2401.17268)|null|
 |**2024-01-30**|**Weak-to-Strong Jailbreaking on Large Language Models**|Xuandong Zhao et.al.|[2401.17256](http://arxiv.org/abs/2401.17256)|**[link](https://github.com/xuandongzhao/weak-to-strong)**|
 |**2024-01-30**|**LLaMP: Large Language Model Made Powerful for High-fidelity Materials Knowledge Retrieval and Distillation**|Yuan Chiang et.al.|[2401.17244](http://arxiv.org/abs/2401.17244)|null|
-|**2024-01-30**|**GazeGPT: Augmenting Human Capabilities using Gaze-contingent Contextual AI for Smart Eyewear**|Robert Konrad et.al.|[2401.17217](http://arxiv.org/abs/2401.17217)|null|
+|**2024-01-31**|**GazeGPT: Augmenting Human Capabilities using Gaze-contingent Contextual AI for Smart Eyewear**|Robert Konrad et.al.|[2401.17217](http://arxiv.org/abs/2401.17217)|null|
 |**2024-01-30**|**Data-efficient Fine-tuning for LLM-based Recommendation**|Xinyu Lin et.al.|[2401.17197](http://arxiv.org/abs/2401.17197)|null|
 |**2024-01-30**|**Transfer Learning for Text Diffusion Models**|Kehang Han et.al.|[2401.17181](http://arxiv.org/abs/2401.17181)|null|
 |**2024-01-30**|**Conditional and Modal Reasoning in Large Language Models**|Wesley H. Holliday et.al.|[2401.17169](http://arxiv.org/abs/2401.17169)|null|
-|**2024-01-30**|**Planning, Creation, Usage: Benchmarking LLMs for Comprehensive Tool Utilization in Real-World Complex Scenarios**|Shijue Huang et.al.|[2401.17167](http://arxiv.org/abs/2401.17167)|null|
+|**2024-01-30**|**Planning, Creation, Usage: Benchmarking LLMs for Comprehensive Tool Utilization in Real-World Complex Scenarios**|Shijue Huang et.al.|[2401.17167](http://arxiv.org/abs/2401.17167)|**[link](https://github.com/joeying1019/ultratool)**|
 |**2024-01-30**|**Learning Agent-based Modeling with LLM Companions: Experiences of Novices and Experts Using ChatGPT & NetLogo Chat**|John Chen et.al.|[2401.17163](http://arxiv.org/abs/2401.17163)|null|
-|**2024-01-30**|**Large Language Model Evaluation via Matrix Entropy**|Lai Wei et.al.|[2401.17139](http://arxiv.org/abs/2401.17139)|null|
+|**2024-01-30**|**Large Language Model Evaluation via Matrix Entropy**|Lai Wei et.al.|[2401.17139](http://arxiv.org/abs/2401.17139)|**[link](https://github.com/waltonfuture/matrix-entropy)**|
 |**2024-01-29**|**Scaling Sparse Fine-Tuning to Large Language Models**|Alan Ansell et.al.|[2401.16405](http://arxiv.org/abs/2401.16405)|null|
 |**2024-01-29**|**Rephrasing the Web: A Recipe for Compute and Data-Efficient Language Modeling**|Pratyush Maini et.al.|[2401.16380](http://arxiv.org/abs/2401.16380)|null|
 |**2024-01-29**|**The role of library versions in Developer-ChatGPT conversations**|Rachna Raj et.al.|[2401.16340](http://arxiv.org/abs/2401.16340)|null|
@@ -906,7 +906,7 @@
 |**2023-09-26**|**Fine-tuning and aligning question answering models for complex information extraction tasks**|Matthias Engelbach et.al.|[2309.14805](http://arxiv.org/abs/2309.14805)|null|
 |**2023-09-26**|**Exploring Small Language Models with Prompt-Learning Paradigm for Efficient Domain-Specific Text Classification**|Hengyu Luo et.al.|[2309.14779](http://arxiv.org/abs/2309.14779)|null|
 
-<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
