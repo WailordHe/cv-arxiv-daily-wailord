@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.01
+## Updated on 2024.02.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -73,7 +73,7 @@ layout: default
 |**2024-01-31**|**LongAlign: A Recipe for Long Context Alignment of Large Language Models**|Yushi Bai et.al.|[2401.18058](http://arxiv.org/abs/2401.18058)|**[link](https://github.com/thudm/longalign)**|
 |**2024-01-31**|**Paramanu: A Family of Novel Efficient Indic Generative Foundation Language Models**|Mitodru Niyogi et.al.|[2401.18034](http://arxiv.org/abs/2401.18034)|null|
 |**2024-01-31**|**Supporting Anticipatory Governance using LLMs: Evaluating and Aligning Large Language Models with the News Media to Anticipate the Negative Impacts of AI**|Mowafak Allaham et.al.|[2401.18028](http://arxiv.org/abs/2401.18028)|null|
-|**2024-01-31**|**Prompt-Driven LLM Safeguarding via Directed Representation Optimization**|Chujie Zheng et.al.|[2401.18018](http://arxiv.org/abs/2401.18018)|null|
+|**2024-01-31**|**Prompt-Driven LLM Safeguarding via Directed Representation Optimization**|Chujie Zheng et.al.|[2401.18018](http://arxiv.org/abs/2401.18018)|**[link](https://github.com/chujiezheng/llm-safeguard)**|
 |**2024-01-31**|**EEG-GPT: Exploring Capabilities of Large Language Models for EEG Classification and Interpretation**|Jonathan W. Kim et.al.|[2401.18006](http://arxiv.org/abs/2401.18006)|null|
 |**2024-01-31**|**Evaluating the Effectiveness of GPT-4 Turbo in Creating Defeaters for Assurance Cases**|Kimya Khakzad Shahandashti et.al.|[2401.17991](http://arxiv.org/abs/2401.17991)|null|
 |**2024-01-31**|**Enhancing Multimodal Large Language Models with Vision Detection Models: An Empirical Study**|Qirui Jiao et.al.|[2401.17981](http://arxiv.org/abs/2401.17981)|null|
