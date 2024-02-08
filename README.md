@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Sparse Anatomical Prompt Semi-Supervised Learning with Masked Image Modeling for CBCT Tooth Segmentation**|Pengyu Dai et.al.|[2402.04587](http://arxiv.org/abs/2402.04587)|null|
 |**2024-01-24**|**Learning Representations for Clustering via Partial Information Discrimination and Cross-Level Interaction**|Hai-Xin Zhang et.al.|[2401.13503](http://arxiv.org/abs/2401.13503)|**[link](https://github.com/regan-zhang/pici)**|
 |**2024-01-23**|**Correlation-Embedded Transformer Tracking: A Single-Branch Framework**|Fei Xie et.al.|[2401.12743](http://arxiv.org/abs/2401.12743)|**[link](https://github.com/phiphiphi31/SBT)**|
 |**2024-01-15**|**Exploring Masked Autoencoders for Sensor-Agnostic Image Retrieval in Remote Sensing**|Jakob Hackstein et.al.|[2401.07782](http://arxiv.org/abs/2401.07782)|**[link](https://github.com/jakhac/csmae)**|
@@ -75,6 +76,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Opening the AI black box: program synthesis via mechanistic interpretability**|Eric J. Michaud et.al.|[2402.05110](http://arxiv.org/abs/2402.05110)|null|
+|**2024-02-07**|**You Can REST Now: Automated Specification Inference and Black-Box Testing of RESTful APIs with Large Language Models**|Alix Decrop et.al.|[2402.05102](http://arxiv.org/abs/2402.05102)|null|
+|**2024-02-07**|**Hydragen: High-Throughput LLM Inference with Shared Prefixes**|Jordan Juravsky et.al.|[2402.05099](http://arxiv.org/abs/2402.05099)|null|
+|**2024-02-07**|**Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation**|Ziyang Wang et.al.|[2402.05079](http://arxiv.org/abs/2402.05079)|**[link](https://github.com/ziyangwang007/mamba-unet)**|
+|**2024-02-07**|**SALAD-Bench: A Hierarchical and Comprehensive Safety Benchmark for Large Language Models**|Lijun Li et.al.|[2402.05044](http://arxiv.org/abs/2402.05044)|**[link](https://github.com/opensafetylab/salad-bench)**|
+|**2024-02-07**|**A Sober Look at LLMs for Material Discovery: Are They Actually Good for Bayesian Optimization Over Molecules?**|Agustinus Kristiadi et.al.|[2402.05015](http://arxiv.org/abs/2402.05015)|**[link](https://github.com/wiseodd/lapeft-bayesopt)**|
+|**2024-02-07**|**Pedagogical Alignment of Large Language Models**|Shashank Sonkar et.al.|[2402.05000](http://arxiv.org/abs/2402.05000)|null|
+|**2024-02-07**|**An Enhanced Prompt-Based LLM Reasoning Scheme via Knowledge Graph-Integrated Collaboration**|Yihao Li et.al.|[2402.04978](http://arxiv.org/abs/2402.04978)|null|
+|**2024-02-07**|**ChatScratch: An AI-Augmented System Toward Autonomous Visual Programming Learning for Children Aged 6-12**|Liuqing Chen et.al.|[2402.04975](http://arxiv.org/abs/2402.04975)|null|
+|**2024-02-07**|**Reconfidencing LLMs from the Grouping Loss Perspective**|Lihu Chen et.al.|[2402.04957](http://arxiv.org/abs/2402.04957)|null|
 |**2024-02-06**|**AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls**|Yu Du et.al.|[2402.04253](http://arxiv.org/abs/2402.04253)|null|
 |**2024-02-06**|**HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and Robust Refusal**|Mantas Mazeika et.al.|[2402.04249](http://arxiv.org/abs/2402.04249)|**[link](https://github.com/centerforaisafety/harmbench)**|
 |**2024-02-06**|**Prioritizing Safeguarding Over Autonomy: Risks of LLM Agents for Science**|Xiangru Tang et.al.|[2402.04247](http://arxiv.org/abs/2402.04247)|null|
