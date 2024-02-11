@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.10
+## Updated on 2024.02.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-02-08**|**Improving Token-Based World Models with Parallel Observation Prediction**|Lior Cohen et.al.|[2402.05643](http://arxiv.org/abs/2402.05643)|null|
+|**2024-02-08**|**Improving Token-Based World Models with Parallel Observation Prediction**|Lior Cohen et.al.|[2402.05643](http://arxiv.org/abs/2402.05643)|**[link](https://github.com/leor-c/rem)**|
 |**2024-02-07**|**Sparse Anatomical Prompt Semi-Supervised Learning with Masked Image Modeling for CBCT Tooth Segmentation**|Pengyu Dai et.al.|[2402.04587](http://arxiv.org/abs/2402.04587)|null|
 |**2024-01-24**|**Learning Representations for Clustering via Partial Information Discrimination and Cross-Level Interaction**|Hai-Xin Zhang et.al.|[2401.13503](http://arxiv.org/abs/2401.13503)|**[link](https://github.com/regan-zhang/pici)**|
 |**2024-01-23**|**Correlation-Embedded Transformer Tracking: A Single-Branch Framework**|Fei Xie et.al.|[2401.12743](http://arxiv.org/abs/2401.12743)|**[link](https://github.com/phiphiphi31/SBT)**|
@@ -71,7 +71,7 @@
 |**2023-09-09**|**BiLMa: Bidirectional Local-Matching for Text-based Person Re-identification**|Takuro Fujii et.al.|[2309.04675](http://arxiv.org/abs/2309.04675)|null|
 |**2023-09-08**|**AMLP:Adaptive Masking Lesion Patches for Self-supervised Medical Image Segmentation**|Xiangtao Wang et.al.|[2309.04312](http://arxiv.org/abs/2309.04312)|null|
 
-<p align=right>(<a href=#updated-on-20240210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240211>back to top</a>)</p>
 
 ## LLM
 
@@ -978,7 +978,7 @@
 |**2023-09-26**|**Fine-tuning and aligning question answering models for complex information extraction tasks**|Matthias Engelbach et.al.|[2309.14805](http://arxiv.org/abs/2309.14805)|null|
 |**2023-09-26**|**Exploring Small Language Models with Prompt-Learning Paradigm for Efficient Domain-Specific Text Classification**|Hengyu Luo et.al.|[2309.14779](http://arxiv.org/abs/2309.14779)|null|
 
-<p align=right>(<a href=#updated-on-20240210>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240211>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
