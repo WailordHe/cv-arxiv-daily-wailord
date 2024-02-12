@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.02.11
+## Updated on 2024.02.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -80,7 +80,7 @@ layout: default
 |**2024-02-08**|**Large Language Model Meets Graph Neural Network in Knowledge Distillation**|Shengxiang Hu et.al.|[2402.05894](http://arxiv.org/abs/2402.05894)|null|
 |**2024-02-08**|**Generative Echo Chamber? Effects of LLM-Powered Search Systems on Diverse Information Seeking**|Nikhil Sharma et.al.|[2402.05880](http://arxiv.org/abs/2402.05880)|null|
 |**2024-02-08**|**PromptCrypt: Prompt Encryption for Secure Communication with Large Language Models**|Guo Lin et.al.|[2402.05868](http://arxiv.org/abs/2402.05868)|**[link](https://github.com/agiresearch/promptcrypt)**|
-|**2024-02-08**|**How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis**|Federico Bianchi et.al.|[2402.05863](http://arxiv.org/abs/2402.05863)|null|
+|**2024-02-08**|**How Well Can LLMs Negotiate? NegotiationArena Platform and Analysis**|Federico Bianchi et.al.|[2402.05863](http://arxiv.org/abs/2402.05863)|**[link](https://github.com/vinid/negotiationarena)**|
 |**2024-02-07**|**Opening the AI black box: program synthesis via mechanistic interpretability**|Eric J. Michaud et.al.|[2402.05110](http://arxiv.org/abs/2402.05110)|null|
 |**2024-02-07**|**You Can REST Now: Automated Specification Inference and Black-Box Testing of RESTful APIs with Large Language Models**|Alix Decrop et.al.|[2402.05102](http://arxiv.org/abs/2402.05102)|null|
 |**2024-02-07**|**Hydragen: High-Throughput LLM Inference with Shared Prefixes**|Jordan Juravsky et.al.|[2402.05099](http://arxiv.org/abs/2402.05099)|null|
