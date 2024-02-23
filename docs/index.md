@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-22**|**A Simple Framework Uniting Visual In-context Learning with Masked Image Modeling to Improve Ultrasound Segmentation**|Yuyue Zhou et.al.|[2402.14300](http://arxiv.org/abs/2402.14300)|**[link](https://github.com/yuyue2uofa/simicl)**|
 |**2024-02-15**|**MIM-Refiner: A Contrastive Learning Boost from Intermediate Pre-Trained Representations**|Benedikt Alkin et.al.|[2402.10093](http://arxiv.org/abs/2402.10093)|**[link](https://github.com/ml-jku/MIM-Refiner)**|
 |**2024-02-13**|**Improving Token-Based World Models with Parallel Observation Prediction**|Lior Cohen et.al.|[2402.05643](http://arxiv.org/abs/2402.05643)|**[link](https://github.com/leor-c/rem)**|
 |**2024-02-07**|**Sparse Anatomical Prompt Semi-Supervised Learning with Masked Image Modeling for CBCT Tooth Segmentation**|Pengyu Dai et.al.|[2402.04587](http://arxiv.org/abs/2402.04587)|null|
@@ -72,6 +73,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-22**|**PALO: A Polyglot Large Multimodal Model for 5B People**|Muhammad Maaz et.al.|[2402.14818](http://arxiv.org/abs/2402.14818)|**[link](https://github.com/mbzuai-oryx/palo)**|
+|**2024-02-22**|**CriticBench: Benchmarking LLMs for Critique-Correct Reasoning**|Zicheng Lin et.al.|[2402.14809](http://arxiv.org/abs/2402.14809)|**[link](https://github.com/CriticBench/CriticBench)**|
+|**2024-02-22**|**RelayAttention for Efficient Large Language Model Serving with Long System Prompts**|Lei Zhu et.al.|[2402.14808](http://arxiv.org/abs/2402.14808)|null|
+|**2024-02-22**|**A Decision-Language Model (DLM) for Dynamic Restless Multi-Armed Bandit Tasks in Public Health**|Nikhil Behari et.al.|[2402.14807](http://arxiv.org/abs/2402.14807)|null|
+|**2024-02-22**|**Identifying Multiple Personalities in Large Language Models with External Evaluation**|Xiaoyang Song et.al.|[2402.14805](http://arxiv.org/abs/2402.14805)|null|
+|**2024-02-22**|**Not All Experts are Equal: Efficient Expert Pruning and Skipping for Mixture-of-Experts Large Language Models**|Xudong Lu et.al.|[2402.14800](http://arxiv.org/abs/2402.14800)|**[link](https://github.com/lucky-lance/expert_sparsity)**|
+|**2024-02-22**|**Zero-shot cross-lingual transfer in instruction tuning of large language model**|Nadezhda Chirkova et.al.|[2402.14778](http://arxiv.org/abs/2402.14778)|null|
+|**2024-02-22**|**DualFocus: Integrating Macro and Micro Perspectives in Multi-modal Large Language Models**|Yuhang Cao et.al.|[2402.14767](http://arxiv.org/abs/2402.14767)|**[link](https://github.com/InternLM/InternLM-XComposer/tree/main/projects/DualFocus)**|
+|**2024-02-22**|**MT-Bench-101: A Fine-Grained Benchmark for Evaluating Large Language Models in Multi-Turn Dialogues**|Ge Bai et.al.|[2402.14762](http://arxiv.org/abs/2402.14762)|null|
+|**2024-02-22**|**Generalizing Reward Modeling for Out-of-Distribution Preference Learning**|Chen Jia et.al.|[2402.14760](http://arxiv.org/abs/2402.14760)|null|
 |**2024-02-21**|**Coercing LLMs to do and reveal (almost) anything**|Jonas Geiping et.al.|[2402.14020](http://arxiv.org/abs/2402.14020)|**[link](https://github.com/jonasgeiping/carving)**|
 |**2024-02-21**|**Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on Zero-shot LLM Assessment**|Vyas Raina et.al.|[2402.14016](http://arxiv.org/abs/2402.14016)|null|
 |**2024-02-21**|**OlympiadBench: A Challenging Benchmark for Promoting AGI with Olympiad-Level Bilingual Multimodal Scientific Problems**|Chaoqun He et.al.|[2402.14008](http://arxiv.org/abs/2402.14008)|null|
