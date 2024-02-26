@@ -79,6 +79,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-23**|**AgentOhana: Design Unified Data and Training Pipeline for Effective Agent Learning**|Jianguo Zhang et.al.|[2402.15506](http://arxiv.org/abs/2402.15506)|null|
+|**2024-02-23**|**API-BLEND: A Comprehensive Corpora for Training and Benchmarking API LLMs**|Kinjal Basu et.al.|[2402.15491](http://arxiv.org/abs/2402.15491)|null|
+|**2024-02-23**|**Prejudice and Caprice: A Statistical Framework for Measuring Social Discrimination in Large Language Models**|Yiran Liu et.al.|[2402.15481](http://arxiv.org/abs/2402.15481)|null|
+|**2024-02-23**|**Repetition Improves Language Model Embeddings**|Jacob Mitchell Springer et.al.|[2402.15449](http://arxiv.org/abs/2402.15449)|**[link](https://github.com/jakespringer/echo-embeddings)**|
+|**2024-02-23**|**A Data-Centric Approach To Generate Faithful and High Quality Patient Summaries with Large Language Models**|Stefan Hegselmann et.al.|[2402.15422](http://arxiv.org/abs/2402.15422)|**[link](https://github.com/stefanhgm/patient_summaries_with_llms)**|
+|**2024-02-23**|**PREDILECT: Preferences Delineated with Zero-Shot Language-based Reasoning in Reinforcement Learning**|Simon Holk et.al.|[2402.15420](http://arxiv.org/abs/2402.15420)|null|
+|**2024-02-23**|**Explorations of Self-Repair in Language Models**|Cody Rushing et.al.|[2402.15390](http://arxiv.org/abs/2402.15390)|**[link](https://github.com/starship006/backup_research)**|
+|**2024-02-23**|**Safe Task Planning for Language-Instructed Multi-Robot Systems using Conformal Prediction**|Jun Wang et.al.|[2402.15368](http://arxiv.org/abs/2402.15368)|null|
+|**2024-02-23**|**Farsight: Fostering Responsible AI Awareness During AI Application Prototyping**|Zijie J. Wang et.al.|[2402.15350](http://arxiv.org/abs/2402.15350)|**[link](https://github.com/pair-code/farsight)**|
+|**2024-02-23**|**NuNER: Entity Recognition Encoder Pre-training via LLM-Annotated Data**|Sergei Bogdanov et.al.|[2402.15343](http://arxiv.org/abs/2402.15343)|null|
 |**2024-02-22**|**PALO: A Polyglot Large Multimodal Model for 5B People**|Muhammad Maaz et.al.|[2402.14818](http://arxiv.org/abs/2402.14818)|**[link](https://github.com/mbzuai-oryx/palo)**|
 |**2024-02-22**|**CriticBench: Benchmarking LLMs for Critique-Correct Reasoning**|Zicheng Lin et.al.|[2402.14809](http://arxiv.org/abs/2402.14809)|**[link](https://github.com/CriticBench/CriticBench)**|
 |**2024-02-22**|**RelayAttention for Efficient Large Language Model Serving with Long System Prompts**|Lei Zhu et.al.|[2402.14808](http://arxiv.org/abs/2402.14808)|null|
