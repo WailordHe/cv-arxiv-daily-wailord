@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.10
+## Updated on 2024.03.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -19,7 +19,7 @@ layout: default
 |**2024-03-01**|**Learning and Leveraging World Models in Visual Representation Learning**|Quentin Garrido et.al.|[2403.00504](http://arxiv.org/abs/2403.00504)|null|
 |**2024-03-01**|**Semantics-enhanced Cross-modal Masked Image Modeling for Vision-Language Pre-training**|Haowei Liu et.al.|[2403.00249](http://arxiv.org/abs/2403.00249)|null|
 |**2024-02-27**|**Masked Gamma-SSL: Learning Uncertainty Estimation via Masked Image Modeling**|David S. W. Williams et.al.|[2402.17622](http://arxiv.org/abs/2402.17622)|null|
-|**2024-03-06**|**A Simple Framework Uniting Visual In-context Learning with Masked Image Modeling to Improve Ultrasound Segmentation**|Yuyue Zhou et.al.|[2402.14300](http://arxiv.org/abs/2402.14300)|**[link](https://github.com/yuyue2uofa/simicl)**|
+|**2024-03-08**|**A Simple Framework Uniting Visual In-context Learning with Masked Image Modeling to Improve Ultrasound Segmentation**|Yuyue Zhou et.al.|[2402.14300](http://arxiv.org/abs/2402.14300)|**[link](https://github.com/yuyue2uofa/simicl)**|
 |**2024-02-15**|**MIM-Refiner: A Contrastive Learning Boost from Intermediate Pre-Trained Representations**|Benedikt Alkin et.al.|[2402.10093](http://arxiv.org/abs/2402.10093)|**[link](https://github.com/ml-jku/MIM-Refiner)**|
 |**2024-02-13**|**Improving Token-Based World Models with Parallel Observation Prediction**|Lior Cohen et.al.|[2402.05643](http://arxiv.org/abs/2402.05643)|**[link](https://github.com/leor-c/rem)**|
 |**2024-02-07**|**Sparse Anatomical Prompt Semi-Supervised Learning with Masked Image Modeling for CBCT Tooth Segmentation**|Pengyu Dai et.al.|[2402.04587](http://arxiv.org/abs/2402.04587)|null|
