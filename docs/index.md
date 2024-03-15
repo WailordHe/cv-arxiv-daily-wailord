@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**Explore In-Context Segmentation via Latent Diffusion Models**|Chaoyang Wang et.al.|[2403.09616](http://arxiv.org/abs/2403.09616)|null|
 |**2024-03-13**|**MIM4D: Masked Modeling with Multi-View Video for Autonomous Driving Representation Learning**|Jialv Zou et.al.|[2403.08760](http://arxiv.org/abs/2403.08760)|**[link](https://github.com/hustvl/mim4d)**|
 |**2024-03-13**|**Content-aware Masked Image Modeling Transformer for Stereo Image Compression**|Xinjie Zhang et.al.|[2403.08505](http://arxiv.org/abs/2403.08505)|null|
 |**2024-03-07**|**Masked Capsule Autoencoders**|Miles Everett et.al.|[2403.04724](http://arxiv.org/abs/2403.04724)|null|
@@ -80,6 +81,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-14**|**Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference**|Piotr Nawrot et.al.|[2403.09636](http://arxiv.org/abs/2403.09636)|null|
+|**2024-03-14**|**3D-VLA: A 3D Vision-Language-Action Generative World Model**|Haoyu Zhen et.al.|[2403.09631](http://arxiv.org/abs/2403.09631)|null|
+|**2024-03-14**|**Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding**|Guo Chen et.al.|[2403.09626](http://arxiv.org/abs/2403.09626)|**[link](https://github.com/opengvlab/video-mamba-suite)**|
+|**2024-03-14**|**Compute-first optical detection for noise-resilient visual perception**|Jungmin Kim et.al.|[2403.09612](http://arxiv.org/abs/2403.09612)|null|
+|**2024-03-14**|**MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training**|Brandon McKinzie et.al.|[2403.09611](http://arxiv.org/abs/2403.09611)|null|
+|**2024-03-14**|**Large Language Models and Causal Inference in Collaboration: A Comprehensive Survey**|Xiaoyu Liu et.al.|[2403.09606](http://arxiv.org/abs/2403.09606)|null|
+|**2024-03-14**|**Logical Discrete Graphical Models Must Supplement Large Language Models for Information Synthesis**|Gregory Coppola et.al.|[2403.09599](http://arxiv.org/abs/2403.09599)|null|
+|**2024-03-14**|**ExploRLLM: Guiding Exploration in Reinforcement Learning with Large Language Models**|Runyu Ma et.al.|[2403.09583](http://arxiv.org/abs/2403.09583)|null|
+|**2024-03-14**|**Eyes Closed, Safety On: Protecting Multimodal LLMs via Image-to-Text Transformation**|Yunhao Gou et.al.|[2403.09572](http://arxiv.org/abs/2403.09572)|null|
+|**2024-03-14**|**Enhancing Trust in Autonomous Agents: An Architecture for Accountability and Explainability through Blockchain and Large Language Models**|Laura Fernández-Becerra et.al.|[2403.09567](http://arxiv.org/abs/2403.09567)|null|
 |**2024-03-13**|**Simple and Scalable Strategies to Continually Pre-train Large Language Models**|Adam Ibrahim et.al.|[2403.08763](http://arxiv.org/abs/2403.08763)|null|
 |**2024-03-13**|**Steering LLMs Towards Unbiased Responses: A Causality-Guided Debiasing Framework**|Jingling Li et.al.|[2403.08743](http://arxiv.org/abs/2403.08743)|null|
 |**2024-03-13**|**The Garden of Forking Paths: Observing Dynamic Parameters Distribution in Large Language Models**|Carlo Nicolini et.al.|[2403.08739](http://arxiv.org/abs/2403.08739)|null|
