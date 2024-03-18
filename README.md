@@ -87,6 +87,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-15**|**VideoAgent: Long-form Video Understanding with Large Language Model as Agent**|Xiaohan Wang et.al.|[2403.10517](http://arxiv.org/abs/2403.10517)|null|
+|**2024-03-15**|**Demystifying Faulty Code with LLM: Step-by-Step Reasoning for Explainable Fault Localization**|Ratnadira Widyasari et.al.|[2403.10507](http://arxiv.org/abs/2403.10507)|null|
+|**2024-03-15**|**ATOM: Asynchronous Training of Massive Models for Deep Learning in a Decentralized Environment**|Xiaofeng Wu et.al.|[2403.10504](http://arxiv.org/abs/2403.10504)|null|
+|**2024-03-15**|**Reconfigurable Robot Identification from Motion Data**|Yuhang Hu et.al.|[2403.10496](http://arxiv.org/abs/2403.10496)|null|
+|**2024-03-15**|**Can a GPT4-Powered AI Agent Be a Good Enough Performance Attribution Analyst?**|Bruno de Melo et.al.|[2403.10482](http://arxiv.org/abs/2403.10482)|null|
+|**2024-03-15**|**Enhancing LLM Factual Accuracy with RAG to Counter Hallucinations: A Case Study on Domain-Specific Queries in Private Knowledge-Bases**|Jiarui Li et.al.|[2403.10446](http://arxiv.org/abs/2403.10446)|**[link](https://github.com/anlp-team/LTI_Neural_Navigator)**|
+|**2024-03-15**|**Optimal Block-Level Draft Verification for Accelerating Speculative Decoding**|Ziteng Sun et.al.|[2403.10444](http://arxiv.org/abs/2403.10444)|null|
+|**2024-03-15**|**Using an LLM to Turn Sign Spottings into Spoken Language Sentences**|Ozge Mercanoglu Sincan et.al.|[2403.10434](http://arxiv.org/abs/2403.10434)|null|
+|**2024-03-15**|**SocialGenPod: Privacy-Friendly Generative AI Social Web Applications with Decentralised Personal Data Stores**|Vidminas Vizgirda et.al.|[2403.10408](http://arxiv.org/abs/2403.10408)|**[link](https://github.com/vidminas/socialgenpod)**|
+|**2024-03-15**|**A Thorough Comparison of Cross-Encoders and LLMs for Reranking SPLADE**|Hervé Déjean et.al.|[2403.10407](http://arxiv.org/abs/2403.10407)|null|
 |**2024-03-14**|**Dynamic Memory Compression: Retrofitting LLMs for Accelerated Inference**|Piotr Nawrot et.al.|[2403.09636](http://arxiv.org/abs/2403.09636)|null|
 |**2024-03-14**|**3D-VLA: A 3D Vision-Language-Action Generative World Model**|Haoyu Zhen et.al.|[2403.09631](http://arxiv.org/abs/2403.09631)|null|
 |**2024-03-14**|**Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding**|Guo Chen et.al.|[2403.09626](http://arxiv.org/abs/2403.09626)|**[link](https://github.com/opengvlab/video-mamba-suite)**|
