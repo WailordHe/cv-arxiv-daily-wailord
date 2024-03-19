@@ -87,6 +87,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**HDLdebugger: Streamlining HDL debugging with Large Language Models**|Xufeng Yao et.al.|[2403.11671](http://arxiv.org/abs/2403.11671)|null|
+|**2024-03-18**|**Let's Focus on Neuron: Neuron-Level Supervised Fine-tuning for Large Language Model**|Haoyun Xu et.al.|[2403.11621](http://arxiv.org/abs/2403.11621)|null|
+|**2024-03-18**|**Linguacodus: A Synergistic Framework for Transformative Code Generation in Machine Learning Pipelines**|Ekaterina Trofimova et.al.|[2403.11585](http://arxiv.org/abs/2403.11585)|null|
+|**2024-03-18**|**Sensitivity Assessment of Multi-Criteria Decision-Making Methods in Chemical Engineering Optimization Applications**|Seyed Reza Nabavi et.al.|[2403.11569](http://arxiv.org/abs/2403.11569)|null|
+|**2024-03-18**|**Reinforcement Learning with Token-level Feedback for Controllable Text Generation**|Wendi Li et.al.|[2403.11558](http://arxiv.org/abs/2403.11558)|null|
+|**2024-03-18**|**LLM^3:Large Language Model-based Task and Motion Planning with Motion Failure Reasoning**|Shu Wang et.al.|[2403.11552](http://arxiv.org/abs/2403.11552)|**[link](https://github.com/assassinws/llm-tamp)**|
+|**2024-03-18**|**DEE: Dual-stage Explainable Evaluation Method for Text Generation**|Shenyu Zhang et.al.|[2403.11509](http://arxiv.org/abs/2403.11509)|null|
+|**2024-03-18**|**VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding**|Yue Fan et.al.|[2403.11481](http://arxiv.org/abs/2403.11481)|null|
+|**2024-03-18**|**HateCOT: An Explanation-Enhanced Dataset for Generalizable Offensive Speech Detection via Large Language Models**|Huy Nghiem et.al.|[2403.11456](http://arxiv.org/abs/2403.11456)|**[link](https://github.com/hnghiem-usc/hatecot)**|
+|**2024-03-18**|**LLM Guided Evolution - The Automation of Models Advancing Models**|Clint Morris et.al.|[2403.11446](http://arxiv.org/abs/2403.11446)|null|
 |**2024-03-15**|**VideoAgent: Long-form Video Understanding with Large Language Model as Agent**|Xiaohan Wang et.al.|[2403.10517](http://arxiv.org/abs/2403.10517)|null|
 |**2024-03-15**|**Demystifying Faulty Code with LLM: Step-by-Step Reasoning for Explainable Fault Localization**|Ratnadira Widyasari et.al.|[2403.10507](http://arxiv.org/abs/2403.10507)|null|
 |**2024-03-15**|**ATOM: Asynchronous Training of Massive Models for Deep Learning in a Decentralized Environment**|Xiaofeng Wu et.al.|[2403.10504](http://arxiv.org/abs/2403.10504)|null|
