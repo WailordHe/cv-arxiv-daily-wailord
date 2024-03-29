@@ -88,6 +88,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-28**|**InterDreamer: Zero-Shot Text to 3D Dynamic Human-Object Interaction**|Sirui Xu et.al.|[2403.19652](http://arxiv.org/abs/2403.19652)|null|
+|**2024-03-28**|**MagicLens: Self-Supervised Image Retrieval with Open-Ended Instructions**|Kai Zhang et.al.|[2403.19651](http://arxiv.org/abs/2403.19651)|null|
+|**2024-03-28**|**Change-Agent: Towards Interactive Comprehensive Change Interpretation and Analysis from Change Detection and Change Captioning**|Chenyang Liu et.al.|[2403.19646](http://arxiv.org/abs/2403.19646)|null|
+|**2024-03-28**|**Retrieval-Enhanced Knowledge Editing for Multi-Hop Question Answering in Language Models**|Yucheng Shi et.al.|[2403.19631](http://arxiv.org/abs/2403.19631)|null|
+|**2024-03-28**|**Genetic Quantization-Aware Approximation for Non-Linear Operations in Transformers**|Pingcheng Dong et.al.|[2403.19591](http://arxiv.org/abs/2403.19591)|**[link](https://github.com/pingchengdong/gqa-lut)**|
+|**2024-03-28**|**WaterJudge: Quality-Detection Trade-off when Watermarking Large Language Models**|Piotr Molenda et.al.|[2403.19548](http://arxiv.org/abs/2403.19548)|null|
+|**2024-03-28**|**LLMs as Academic Reading Companions: Extending HCI Through Synthetic Personae**|Celia Chen et.al.|[2403.19506](http://arxiv.org/abs/2403.19506)|null|
+|**2024-03-28**|**Evolving Assembly Code in an Adversarial Environment**|Irina Maliukov et.al.|[2403.19489](http://arxiv.org/abs/2403.19489)|null|
+|**2024-03-28**|**JDocQA: Japanese Document Question Answering Dataset for Generative Language Models**|Eri Onami et.al.|[2403.19454](http://arxiv.org/abs/2403.19454)|null|
+|**2024-03-28**|**Mixed Preference Optimization: Reinforcement Learning with Data Selection and Better Reference Model**|Qi Gou et.al.|[2403.19443](http://arxiv.org/abs/2403.19443)|null|
 |**2024-03-27**|**Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models**|Yanwei Li et.al.|[2403.18814](http://arxiv.org/abs/2403.18814)|**[link](https://github.com/dvlab-research/minigemini)**|
 |**2024-03-27**|**Long-form factuality in large language models**|Jerry Wei et.al.|[2403.18802](http://arxiv.org/abs/2403.18802)|**[link](https://github.com/google-deepmind/long-form-factuality)**|
 |**2024-03-27**|**3P-LLM: Probabilistic Path Planning using Large Language Model for Autonomous Robot Navigation**|Ehsan Latif et.al.|[2403.18778](http://arxiv.org/abs/2403.18778)|null|
