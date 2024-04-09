@@ -87,6 +87,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-08**|**MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding**|Bo He et.al.|[2404.05726](http://arxiv.org/abs/2404.05726)|null|
+|**2024-04-08**|**Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs**|Keen You et.al.|[2404.05719](http://arxiv.org/abs/2404.05719)|null|
+|**2024-04-08**|**Evaluating Mathematical Reasoning Beyond Accuracy**|Shijie Xia et.al.|[2404.05692](http://arxiv.org/abs/2404.05692)|**[link](https://github.com/gair-nlp/reasoneval)**|
+|**2024-04-08**|**Retrieval-Augmented Open-Vocabulary Object Detection**|Jooyeon Kim et.al.|[2404.05687](http://arxiv.org/abs/2404.05687)|**[link](https://github.com/mlvlab/RALF)**|
+|**2024-04-08**|**MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation**|Kunpeng Song et.al.|[2404.05674](http://arxiv.org/abs/2404.05674)|null|
+|**2024-04-08**|**CoReS: Orchestrating the Dance of Reasoning and Segmentation**|Xiaoyi Bao et.al.|[2404.05673](http://arxiv.org/abs/2404.05673)|null|
+|**2024-04-08**|**Fighting crime with Transformers: Empirical analysis of address parsing methods in payment data**|Haitham Hammami et.al.|[2404.05632](http://arxiv.org/abs/2404.05632)|**[link](https://github.com/hm-haitham/Fighting-crime-with-Transformers-Empirical-analysis-of-address-parsing-methods-in-payment-data)**|
+|**2024-04-08**|**LTNER: Large Language Model Tagging for Named Entity Recognition with Contextualized Entity Marking**|Faren Yan et.al.|[2404.05624](http://arxiv.org/abs/2404.05624)|null|
+|**2024-04-08**|**MedExpQA: Multilingual Benchmarking of Large Language Models for Medical Question Answering**|Iñigo Alonso et.al.|[2404.05590](http://arxiv.org/abs/2404.05590)|null|
+|**2024-04-08**|**360°REA: Towards A Reusable Experience Accumulation with 360° Assessment for Multi-Agent System**|Shen Gao et.al.|[2404.05569](http://arxiv.org/abs/2404.05569)|null|
 |**2024-04-05**|**Physical Property Understanding from Language-Embedded Feature Fields**|Albert J. Zhai et.al.|[2404.04242](http://arxiv.org/abs/2404.04242)|null|
 |**2024-04-05**|**Cleared for Takeoff? Compositional & Conditional Reasoning may be the Achilles Heel to (Flight-Booking) Language Agents**|Harsh Kohli et.al.|[2404.04237](http://arxiv.org/abs/2404.04237)|null|
 |**2024-04-05**|**Social Skill Training with Large Language Models**|Diyi Yang et.al.|[2404.04204](http://arxiv.org/abs/2404.04204)|null|
