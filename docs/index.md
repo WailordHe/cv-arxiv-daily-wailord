@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.10
+## Updated on 2024.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -88,14 +88,14 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-09**|**Pitfalls of Conversational LLMs on News Debiasing**|Ipek Baris Schlicht et.al.|[2404.06488](http://arxiv.org/abs/2404.06488)|null|
-|**2024-04-09**|**Ada-LEval: Evaluating long-context LLMs with length-adaptable benchmarks**|Chonghua Wang et.al.|[2404.06480](http://arxiv.org/abs/2404.06480)|**[link](https://github.com/open-compass/ada-leval)**|
+|**2024-04-10**|**Ada-LEval: Evaluating long-context LLMs with length-adaptable benchmarks**|Chonghua Wang et.al.|[2404.06480](http://arxiv.org/abs/2404.06480)|**[link](https://github.com/open-compass/ada-leval)**|
 |**2024-04-09**|**Automated Federated Pipeline for Parameter-Efficient Fine-Tuning of Large Language Models**|Zihan Fang et.al.|[2404.06448](http://arxiv.org/abs/2404.06448)|null|
 |**2024-04-09**|**Large Language Models to the Rescue: Deadlock Resolution in Multi-Robot Systems**|Kunal Garg et.al.|[2404.06413](http://arxiv.org/abs/2404.06413)|null|
 |**2024-04-09**|**AgentQuest: A Modular Benchmark Framework to Measure Progress and Improve LLM Agents**|Luca Gioacchini et.al.|[2404.06411](http://arxiv.org/abs/2404.06411)|**[link](https://github.com/nec-research/agentquest)**|
-|**2024-04-09**|**Take a Look at it! Rethinking How to Evaluate Language Model Jailbreak**|Hongyu Cai et.al.|[2404.06407](http://arxiv.org/abs/2404.06407)|null|
+|**2024-04-09**|**Take a Look at it! Rethinking How to Evaluate Language Model Jailbreak**|Hongyu Cai et.al.|[2404.06407](http://arxiv.org/abs/2404.06407)|**[link](https://github.com/controllability/jailbreak-evaluation)**|
 |**2024-04-09**|**Apprentices to Research Assistants: Advancing Research with Large Language Models**|M. Namvarpour et.al.|[2404.06404](http://arxiv.org/abs/2404.06404)|null|
 |**2024-04-09**|**MiniCPM: Unveiling the Potential of Small Language Models with Scalable Training Strategies**|Shengding Hu et.al.|[2404.06395](http://arxiv.org/abs/2404.06395)|**[link](https://github.com/openbmb/minicpm)**|
-|**2024-04-09**|**MuPT: A Generative Symbolic Music Pretrained Transformer**|Xingwei Qu et.al.|[2404.06393](http://arxiv.org/abs/2404.06393)|null|
+|**2024-04-10**|**MuPT: A Generative Symbolic Music Pretrained Transformer**|Xingwei Qu et.al.|[2404.06393](http://arxiv.org/abs/2404.06393)|null|
 |**2024-04-09**|**Latent Distance Guided Alignment Training for Large Language Models**|Haotian Luo et.al.|[2404.06390](http://arxiv.org/abs/2404.06390)|null|
 |**2024-04-08**|**MA-LMM: Memory-Augmented Large Multimodal Model for Long-Term Video Understanding**|Bo He et.al.|[2404.05726](http://arxiv.org/abs/2404.05726)|null|
 |**2024-04-08**|**Ferret-UI: Grounded Mobile UI Understanding with Multimodal LLMs**|Keen You et.al.|[2404.05719](http://arxiv.org/abs/2404.05719)|null|
