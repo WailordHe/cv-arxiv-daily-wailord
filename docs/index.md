@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Observation, Analysis, and Solution: Exploring Strong Lightweight Vision Transformers via Masked Image Modeling Pre-Training**|Jin Gao et.al.|[2404.12210](http://arxiv.org/abs/2404.12210)|null|
+|**2024-04-18**|**How to Benchmark Vision Foundation Models for Semantic Segmentation?**|Tommie Kerssies et.al.|[2404.12172](http://arxiv.org/abs/2404.12172)|null|
 |**2024-04-15**|**XoFTR: Cross-modal Feature Matching Transformer**|Önder Tuzcuoğlu et.al.|[2404.09692](http://arxiv.org/abs/2404.09692)|null|
 |**2024-04-13**|**Label-free Anomaly Detection in Aerial Agricultural Images with Masked Image Modeling**|Sambal Shikhar et.al.|[2404.08931](http://arxiv.org/abs/2404.08931)|null|
 |**2024-04-12**|**Masked Image Modeling as a Framework for Self-Supervised Learning across Eye Movements**|Robin Weiler et.al.|[2404.08526](http://arxiv.org/abs/2404.08526)|**[link](https://github.com/robinweiler/focusmim)**|
@@ -93,6 +95,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**BLINK: Multimodal Large Language Models Can See but Not Perceive**|Xingyu Fu et.al.|[2404.12390](http://arxiv.org/abs/2404.12390)|null|
+|**2024-04-18**|**MedThink: Explaining Medical Visual Question Answering via Multimodal Decision-Making Rationale**|Xiaotang Gai et.al.|[2404.12372](http://arxiv.org/abs/2404.12372)|null|
+|**2024-04-18**|**When LLMs are Unfit Use FastFit: Fast and Effective Text Classification with Many Classes**|Asaf Yehudai et.al.|[2404.12365](http://arxiv.org/abs/2404.12365)|null|
+|**2024-04-18**|**Towards a Foundation Model for Partial Differential Equation: Multi-Operator Learning and Extrapolation**|Jingmin Sun et.al.|[2404.12355](http://arxiv.org/abs/2404.12355)|null|
+|**2024-04-18**|**V2Xum-LLM: Cross-Modal Video Summarization with Temporal Prompt Instruction Tuning**|Hang Hua et.al.|[2404.12353](http://arxiv.org/abs/2404.12353)|null|
+|**2024-04-18**|**Large Language Models in Targeted Sentiment Analysis**|Nicolay Rusnachenko et.al.|[2404.12342](http://arxiv.org/abs/2404.12342)|**[link](https://github.com/nicolay-r/reasoning-for-sentiment-analysis-framework)**|
+|**2024-04-18**|**Normative Requirements Operationalization with Large Language Models**|Nick Feng et.al.|[2404.12335](http://arxiv.org/abs/2404.12335)|null|
+|**2024-04-18**|**Large Language Models for Synthetic Participatory Planning of Shared Automated Electric Mobility Systems**|Jiangbo Yu et.al.|[2404.12317](http://arxiv.org/abs/2404.12317)|null|
+|**2024-04-18**|**Simultaneous Interpretation Corpus Construction by Large Language Models in Distant Language Pair**|Yusuke Sakai et.al.|[2404.12299](http://arxiv.org/abs/2404.12299)|null|
+|**2024-04-18**|**Augmenting emotion features in irony detection with Large language modeling**|Yucheng Lin et.al.|[2404.12291](http://arxiv.org/abs/2404.12291)|null|
 |**2024-04-17**|**A Deep Dive into Large Language Models for Automated Bug Localization and Repair**|Soneya Binta Hossain et.al.|[2404.11595](http://arxiv.org/abs/2404.11595)|null|
 |**2024-04-17**|**LLMTune: Accelerate Database Knob Tuning with Large Language Models**|Xinmei Huang et.al.|[2404.11581](http://arxiv.org/abs/2404.11581)|null|
 |**2024-04-17**|**MoA: Mixture-of-Attention for Subject-Context Disentanglement in Personalized Image Generation**|Kuan-Chieh et.al.|[2404.11565](http://arxiv.org/abs/2404.11565)|null|
