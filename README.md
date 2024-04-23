@@ -101,6 +101,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-22**|**AutoAD III: The Prequel -- Back to the Pixels**|Tengda Han et.al.|[2404.14412](http://arxiv.org/abs/2404.14412)|null|
+|**2024-04-22**|**SpaceByte: Towards Deleting Tokenization from Large Language Modeling**|Kevin Slagle et.al.|[2404.14408](http://arxiv.org/abs/2404.14408)|**[link](https://github.com/kjslag/spacebyte)**|
+|**2024-04-22**|**RTP-LX: Can LLMs Evaluate Toxicity in Multilingual Scenarios?**|Adrian de Wynter et.al.|[2404.14397](http://arxiv.org/abs/2404.14397)|null|
+|**2024-04-22**|**A Survey on Self-Evolution of Large Language Models**|Zhengwei Tao et.al.|[2404.14387](http://arxiv.org/abs/2404.14387)|null|
+|**2024-04-22**|**Beyond Scaling: Predicting Patent Approval with Domain-specific Fine-grained Claim Dependency Graph**|Xiaochen Kev Gao et.al.|[2404.14372](http://arxiv.org/abs/2404.14372)|**[link](https://github.com/shangdatalab/flan-graph)**|
+|**2024-04-22**|**Preference Fine-Tuning of LLMs Should Leverage Suboptimal, On-Policy Data**|Fahim Tajwar et.al.|[2404.14367](http://arxiv.org/abs/2404.14367)|**[link](https://github.com/Asap7772/understanding-rlhf)**|
+|**2024-04-22**|**Better Synthetic Data by Retrieving and Transforming Existing Datasets**|Saumya Gandhi et.al.|[2404.14361](http://arxiv.org/abs/2404.14361)|**[link](https://github.com/neulab/prompt2model)**|
+|**2024-04-22**|**Rethinking Legal Compliance Automation: Opportunities with Large Language Models**|Shabnam Hassani et.al.|[2404.14356](http://arxiv.org/abs/2404.14356)|null|
+|**2024-04-22**|**Automated Long Answer Grading with RiceChem Dataset**|Shashank Sonkar et.al.|[2404.14316](http://arxiv.org/abs/2404.14316)|null|
+|**2024-04-22**|**Explaining Arguments' Strength: Unveiling the Role of Attacks and Supports (Technical Report)**|Xiang Yin et.al.|[2404.14304](http://arxiv.org/abs/2404.14304)|null|
 |**2024-04-19**|**MoVA: Adapting Mixture of Vision Experts to Multimodal Context**|Zhuofan Zong et.al.|[2404.13046](http://arxiv.org/abs/2404.13046)|**[link](https://github.com/templex98/mova)**|
 |**2024-04-19**|**Unified Scene Representation and Reconstruction for 3D Large Language Models**|Tao Chu et.al.|[2404.13044](http://arxiv.org/abs/2404.13044)|null|
 |**2024-04-19**|**Data Alignment for Zero-Shot Concept Generation in Dermatology AI**|Soham Gadgil et.al.|[2404.13043](http://arxiv.org/abs/2404.13043)|null|
