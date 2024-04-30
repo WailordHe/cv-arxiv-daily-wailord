@@ -101,6 +101,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-29**|**Hallucination of Multimodal Large Language Models: A Survey**|Zechen Bai et.al.|[2404.18930](http://arxiv.org/abs/2404.18930)|**[link](https://github.com/showlab/awesome-mllm-hallucination)**|
+|**2024-04-29**|**DPO Meets PPO: Reinforced Token Optimization for RLHF**|Han Zhong et.al.|[2404.18922](http://arxiv.org/abs/2404.18922)|null|
+|**2024-04-29**|**TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation**|Junhao Cheng et.al.|[2404.18919](http://arxiv.org/abs/2404.18919)|null|
+|**2024-04-29**|**Kangaroo: Lossless Self-Speculative Decoding via Double Early Exiting**|Fangcheng Liu et.al.|[2404.18911](http://arxiv.org/abs/2404.18911)|null|
+|**2024-04-29**|**Human-in-the-Loop Synthetic Text Data Inspection with Provenance Tracking**|Hong Jin Kang et.al.|[2404.18881](http://arxiv.org/abs/2404.18881)|**[link](https://github.com/ucla-seal/provenanceinspector)**|
+|**2024-04-29**|**More RLHF, More Trust? On The Impact of Human Preference Alignment On Language Model Trustworthiness**|Aaron J. Li et.al.|[2404.18870](http://arxiv.org/abs/2404.18870)|**[link](https://github.com/aaron-jx-li/rlhf-trustworthiness)**|
+|**2024-04-29**|**Truth-value judgment in language models: belief directions are context sensitive**|Stefan F. Schouten et.al.|[2404.18865](http://arxiv.org/abs/2404.18865)|null|
+|**2024-04-29**|**Performance-Aligned LLMs for Generating Fast Code**|Daniel Nichols et.al.|[2404.18864](http://arxiv.org/abs/2404.18864)|null|
+|**2024-04-29**|**A Survey on Vision Mamba: Models, Applications and Challenges**|Rui Xu et.al.|[2404.18861](http://arxiv.org/abs/2404.18861)|**[link](https://github.com/ruixxxx/awesome-vision-mamba-models)**|
+|**2024-04-29**|**VERT: Verified Equivalent Rust Transpilation with Few-Shot Learning**|Aidan Z. H. Yang et.al.|[2404.18852](http://arxiv.org/abs/2404.18852)|null|
 |**2024-04-26**|**Probabilistic Inference in Language Models via Twisted Sequential Monte Carlo**|Stephen Zhao et.al.|[2404.17546](http://arxiv.org/abs/2404.17546)|null|
 |**2024-04-26**|**Large Language Model Agent as a Mechanical Designer**|Yayati Jadhav et.al.|[2404.17525](http://arxiv.org/abs/2404.17525)|null|
 |**2024-04-29**|**On the Use of Large Language Models to Generate Capability Ontologies**|Luis Miguel Vieira da Silva et.al.|[2404.17524](http://arxiv.org/abs/2404.17524)|null|
