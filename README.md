@@ -101,6 +101,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-30**|**Visual Fact Checker: Enabling High-Fidelity Detailed Caption Generation**|Yunhao Ge et.al.|[2404.19752](http://arxiv.org/abs/2404.19752)|null|
+|**2024-04-30**|**PrivComp-KG : Leveraging Knowledge Graph and Large Language Models for Privacy Policy Compliance Verification**|Leon Garza et.al.|[2404.19744](http://arxiv.org/abs/2404.19744)|null|
+|**2024-04-30**|**Better & Faster Large Language Models via Multi-token Prediction**|Fabian Gloeckle et.al.|[2404.19737](http://arxiv.org/abs/2404.19737)|null|
+|**2024-04-30**|**A Framework for Leveraging Human Computation Gaming to Enhance Knowledge Graphs for Accuracy Critical Generative AI Applications**|Steph Buongiorno et.al.|[2404.19729](http://arxiv.org/abs/2404.19729)|null|
+|**2024-04-30**|**PANGeA: Procedural Artificial Narrative using Generative AI for Turn-Based Video Games**|Steph Buongiorno et.al.|[2404.19721](http://arxiv.org/abs/2404.19721)|null|
+|**2024-04-30**|**Assessing LLMs in Malicious Code Deobfuscation of Real-world Malware Campaigns**|Constantinos Patsakis et.al.|[2404.19715](http://arxiv.org/abs/2404.19715)|null|
+|**2024-04-30**|**Automated Generation of High-Quality Medical Simulation Scenarios Through Integration of Semi-Structured Data and Large Language Models**|Scott Sumpter et.al.|[2404.19713](http://arxiv.org/abs/2404.19713)|null|
+|**2024-04-30**|**When to Retrieve: Teaching LLMs to Utilize Information Retrieval Effectively**|Tiziano Labruna et.al.|[2404.19705](http://arxiv.org/abs/2404.19705)|null|
+|**2024-04-30**|**Naturally Supervised 3D Visual Grounding with Language-Regularized Concept Learners**|Chun Feng et.al.|[2404.19696](http://arxiv.org/abs/2404.19696)|null|
+|**2024-04-30**|**On Training a Neural Network to Explain Binaries**|Alexander Interrante-Grant et.al.|[2404.19631](http://arxiv.org/abs/2404.19631)|null|
 |**2024-04-29**|**Hallucination of Multimodal Large Language Models: A Survey**|Zechen Bai et.al.|[2404.18930](http://arxiv.org/abs/2404.18930)|**[link](https://github.com/showlab/awesome-mllm-hallucination)**|
 |**2024-04-29**|**DPO Meets PPO: Reinforced Token Optimization for RLHF**|Han Zhong et.al.|[2404.18922](http://arxiv.org/abs/2404.18922)|null|
 |**2024-04-29**|**TheaterGen: Character Management with LLM for Consistent Multi-turn Image Generation**|Junhao Cheng et.al.|[2404.18919](http://arxiv.org/abs/2404.18919)|null|
