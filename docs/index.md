@@ -99,6 +99,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Linearizing Large Language Models**|Jean Mercat et.al.|[2405.06640](http://arxiv.org/abs/2405.06640)|**[link](https://github.com/tri-ml/linear_open_lm)**|
+|**2024-05-10**|**Value Augmented Sampling for Language Model Alignment and Personalization**|Seungwook Han et.al.|[2405.06639](http://arxiv.org/abs/2405.06639)|null|
+|**2024-05-10**|**Characterizing the Accuracy - Efficiency Trade-off of Low-rank Decomposition in Language Models**|Chakshu Moar et.al.|[2405.06626](http://arxiv.org/abs/2405.06626)|null|
+|**2024-05-10**|**Non-Uniform Spatial Alignment Errors in sUAS Imagery From Wide-Area Disasters**|Thomas Manzini et.al.|[2405.06593](http://arxiv.org/abs/2405.06593)|null|
+|**2024-05-10**|**What Can Natural Language Processing Do for Peer Review?**|Ilia Kuznetsov et.al.|[2405.06563](http://arxiv.org/abs/2405.06563)|null|
+|**2024-05-10**|**Mitigating Hallucinations in Large Language Models via Self-Refinement-Enhanced Knowledge Retrieval**|Mengjia Niu et.al.|[2405.06545](http://arxiv.org/abs/2405.06545)|null|
+|**2024-05-10**|**Prompting Large Language Models with Knowledge Graphs for Question Answering Involving Long-tail Facts**|Wenyu Huang et.al.|[2405.06524](http://arxiv.org/abs/2405.06524)|null|
+|**2024-05-10**|**UniDM: A Unified Framework for Data Manipulation with Large Language Models**|Yichen Qian et.al.|[2405.06510](http://arxiv.org/abs/2405.06510)|null|
+|**2024-05-10**|**Storypark: Leveraging Large Language Models to Enhance Children Story Learning Through Child-AI collaboration Storytelling**|Lyumanshan Ye et.al.|[2405.06495](http://arxiv.org/abs/2405.06495)|null|
+|**2024-05-10**|**Can Large Language Models Replicate ITS Feedback on Open-Ended Math Questions?**|Hunter McNichols et.al.|[2405.06414](http://arxiv.org/abs/2405.06414)|null|
 |**2024-05-09**|**Natural Language Processing RELIES on Linguistics**|Juri Opitz et.al.|[2405.05966](http://arxiv.org/abs/2405.05966)|null|
 |**2024-05-09**|**OpenBA-V2: Reaching 77.3% High Compression Ratio with Fast Multi-Stage Pruning**|Dan Qiao et.al.|[2405.05957](http://arxiv.org/abs/2405.05957)|**[link](https://github.com/opennlg/openba-v2)**|
 |**2024-05-09**|**Probing Multimodal LLMs as World Models for Driving**|Shiva Sreeram et.al.|[2405.05956](http://arxiv.org/abs/2405.05956)|**[link](https://github.com/sreeramsa/drivesim)**|
