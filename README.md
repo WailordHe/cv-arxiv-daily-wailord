@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**Masked Image Modelling for retinal OCT understanding**|Theodoros Pissas et.al.|[2405.14788](http://arxiv.org/abs/2405.14788)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
 |**2024-05-11**|**Self-Supervised Pre-training with Symmetric Superimposition Modeling for Scene Text Recognition**|Zuan Gao et.al.|[2405.05841](http://arxiv.org/abs/2405.05841)|null|
 |**2024-05-09**|**Efficient Pretraining Model based on Multi-Scale Local Visual Field Feature Reconstruction for PCB CT Image Element Segmentation**|Chen Chen et.al.|[2405.05745](http://arxiv.org/abs/2405.05745)|null|
@@ -106,6 +107,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-23**|**A Nurse is Blue and Elephant is Rugby: Cross Domain Alignment in Large Language Models Reveal Human-like Patterns**|Asaf Yehudai et.al.|[2405.14863](http://arxiv.org/abs/2405.14863)|null|
+|**2024-05-23**|**Bitune: Bidirectional Instruction-Tuning**|Dawid J. Kopiczko et.al.|[2405.14862](http://arxiv.org/abs/2405.14862)|null|
+|**2024-05-23**|**PV-Tuning: Beyond Straight-Through Estimation for Extreme LLM Compression**|Vladimir Malinovskii et.al.|[2405.14852](http://arxiv.org/abs/2405.14852)|null|
+|**2024-05-23**|**HippoRAG: Neurobiologically Inspired Long-Term Memory for Large Language Models**|Bernal Jiménez Gutiérrez et.al.|[2405.14831](http://arxiv.org/abs/2405.14831)|null|
+|**2024-05-23**|**Can LLMs Solve longer Math Word Problems Better?**|Xin Xu et.al.|[2405.14804](http://arxiv.org/abs/2405.14804)|null|
+|**2024-05-23**|**Lessons from the Trenches on Reproducible Evaluation of Language Models**|Stella Biderman et.al.|[2405.14782](http://arxiv.org/abs/2405.14782)|null|
+|**2024-05-23**|**WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models**|Peng Wang et.al.|[2405.14768](http://arxiv.org/abs/2405.14768)|**[link](https://github.com/zjunlp/easyedit)**|
+|**2024-05-23**|**FinRobot: An Open-Source AI Agent Platform for Financial Applications using Large Language Models**|Hongyang Yang et.al.|[2405.14767](http://arxiv.org/abs/2405.14767)|**[link](https://github.com/ai4finance-foundation/finrobot)**|
+|**2024-05-23**|**Evaluating Large Language Models for Public Health Classification and Extraction Tasks**|Joshua Harris et.al.|[2405.14766](http://arxiv.org/abs/2405.14766)|null|
+|**2024-05-23**|**Large language models can be zero-shot anomaly detectors for time series?**|Sarah Alnegheimish et.al.|[2405.14755](http://arxiv.org/abs/2405.14755)|null|
 |**2024-05-21**|**Reducing Transformer Key-Value Cache Size with Cross-Layer Attention**|William Brandon et.al.|[2405.12981](http://arxiv.org/abs/2405.12981)|null|
 |**2024-05-21**|**Energy Rank Alignment: Using Preference Optimization to Search Chemical Space at Scale**|Shriram Chennakesavalu et.al.|[2405.12961](http://arxiv.org/abs/2405.12961)|null|
 |**2024-05-21**|**Aggregation of Reasoning: A Hierarchical Framework for Enhancing Answer Selection in Large Language Models**|Zhangyue Yin et.al.|[2405.12939](http://arxiv.org/abs/2405.12939)|null|
