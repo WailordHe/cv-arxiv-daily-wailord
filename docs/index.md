@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-08**|**Medical Vision Generalist: Unifying Medical Imaging Tasks in Context**|Sucheng Ren et.al.|[2406.05565](http://arxiv.org/abs/2406.05565)|**[link](https://github.com/oliverrensu/mvg)**|
 |**2024-06-03**|**Boosting Spatial-Spectral Masked Auto-Encoder Through Mining Redundant Spectra for HSI-SAR/LiDAR Classification**|Junyan Lin et.al.|[2406.01235](http://arxiv.org/abs/2406.01235)|null|
 |**2024-06-06**|**Whole Heart 3D+T Representation Learning Through Sparse 2D Cardiac MR Images**|Yundi Zhang et.al.|[2406.00329](http://arxiv.org/abs/2406.00329)|null|
 |**2024-05-29**|**Enhancing Vision-Language Model with Unmasked Token Alignment**|Jihao Liu et.al.|[2405.19009](http://arxiv.org/abs/2405.19009)|**[link](https://github.com/jihaonew/uta)**|
@@ -105,6 +106,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-10**|**Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation**|Peize Sun et.al.|[2406.06525](http://arxiv.org/abs/2406.06525)|**[link](https://github.com/foundationvision/llamagen)**|
+|**2024-06-10**|**UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance Assessor**|Shivani Upadhyay et.al.|[2406.06519](http://arxiv.org/abs/2406.06519)|**[link](https://github.com/castorini/umbrela)**|
+|**2024-06-10**|**NarrativeBridge: Enhancing Video Captioning with Causal-Temporal Narrative**|Asmar Nadeem et.al.|[2406.06499](http://arxiv.org/abs/2406.06499)|null|
+|**2024-06-10**|**Parallelizing Linear Transformers with the Delta Rule over Sequence Length**|Songlin Yang et.al.|[2406.06484](http://arxiv.org/abs/2406.06484)|null|
+|**2024-06-10**|**Towards a Personal Health Large Language Model**|Justin Cosentino et.al.|[2406.06474](http://arxiv.org/abs/2406.06474)|null|
+|**2024-06-10**|**AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction**|Zhen Xing et.al.|[2406.06465](http://arxiv.org/abs/2406.06465)|null|
+|**2024-06-10**|**Transforming Wearable Data into Health Insights using Large Language Model Agents**|Mike A. Merrill et.al.|[2406.06464](http://arxiv.org/abs/2406.06464)|null|
+|**2024-06-10**|**Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies**|Junlin Wang et.al.|[2406.06461](http://arxiv.org/abs/2406.06461)|null|
+|**2024-06-10**|**Evaluating the Retrieval Component in LLM-Based Question Answering Systems**|Ashkan Alinejad et.al.|[2406.06458](http://arxiv.org/abs/2406.06458)|null|
+|**2024-06-10**|**A Large Language Model Pipeline for Breast Cancer Oncology**|Tristen Pool et.al.|[2406.06455](http://arxiv.org/abs/2406.06455)|null|
 |**2024-06-07**|**3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs**|Jianing Yang et.al.|[2406.05132](http://arxiv.org/abs/2406.05132)|null|
 |**2024-06-07**|**An Empirical Study on Parameter-Efficient Fine-Tuning for MultiModal Large Language Models**|Xiongtao Zhou et.al.|[2406.05130](http://arxiv.org/abs/2406.05130)|null|
 |**2024-06-07**|**Towards Semantic Equivalence of Tokenization in Multimodal LLM**|Shengqiong Wu et.al.|[2406.05127](http://arxiv.org/abs/2406.05127)|null|
