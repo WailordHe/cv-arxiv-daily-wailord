@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Visual Representation Learning with Stochastic Frame Prediction**|Huiwon Jang et.al.|[2406.07398](http://arxiv.org/abs/2406.07398)|null|
 |**2024-06-08**|**Medical Vision Generalist: Unifying Medical Imaging Tasks in Context**|Sucheng Ren et.al.|[2406.05565](http://arxiv.org/abs/2406.05565)|**[link](https://github.com/oliverrensu/mvg)**|
 |**2024-06-03**|**Boosting Spatial-Spectral Masked Auto-Encoder Through Mining Redundant Spectra for HSI-SAR/LiDAR Classification**|Junyan Lin et.al.|[2406.01235](http://arxiv.org/abs/2406.01235)|null|
 |**2024-06-06**|**Whole Heart 3D+T Representation Learning Through Sparse 2D Cardiac MR Images**|Yundi Zhang et.al.|[2406.00329](http://arxiv.org/abs/2406.00329)|null|
@@ -106,6 +107,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-11**|**Open-LLM-Leaderboard: From Multi-choice to Open-style Questions for LLMs Evaluation, Benchmark, and Arena**|Aidar Myrzakhan et.al.|[2406.07545](http://arxiv.org/abs/2406.07545)|**[link](https://github.com/vila-lab/open-llm-leaderboard)**|
+|**2024-06-11**|**QuickLLaMA: Query-aware Inference Acceleration for Large Language Models**|Jingyao Li et.al.|[2406.07528](http://arxiv.org/abs/2406.07528)|**[link](https://github.com/dvlab-research/q-llm)**|
+|**2024-06-11**|**Beyond Model Collapse: Scaling Up with Synthesized Data Requires Reinforcement**|Yunzhen Feng et.al.|[2406.07515](http://arxiv.org/abs/2406.07515)|null|
+|**2024-06-11**|**THaLLE: Text Hyperlocally Augmented Large Language Extension -- Technical Report**|KBTG Labs et.al.|[2406.07505](http://arxiv.org/abs/2406.07505)|null|
+|**2024-06-11**|**Image Textualization: An Automatic Framework for Creating Accurate and Detailed Image Descriptions**|Renjie Pi et.al.|[2406.07502](http://arxiv.org/abs/2406.07502)|**[link](https://github.com/sterzhang/image-textualization)**|
+|**2024-06-11**|**TextGrad: Automatic "Differentiation" via Text**|Mert Yuksekgonul et.al.|[2406.07496](http://arxiv.org/abs/2406.07496)|**[link](https://github.com/zou-group/textgrad)**|
+|**2024-06-11**|**CADS: A Systematic Literature Review on the Challenges of Abstractive Dialogue Summarization**|Frederic Kirstein et.al.|[2406.07494](http://arxiv.org/abs/2406.07494)|null|
+|**2024-06-11**|**PITCH: Productivity and Mental Well-being Coaching through Daily Conversational Interaction**|Adnan Abbas et.al.|[2406.07485](http://arxiv.org/abs/2406.07485)|null|
+|**2024-06-11**|**Advancing Annotation of Stance in Social Media Posts: A Comparative Analysis of Large Language Models and Crowd Sourcing**|Mao Li et.al.|[2406.07483](http://arxiv.org/abs/2406.07483)|null|
+|**2024-06-11**|**VideoLLaMA 2: Advancing Spatial-Temporal Modeling and Audio Understanding in Video-LLMs**|Zesen Cheng et.al.|[2406.07476](http://arxiv.org/abs/2406.07476)|**[link](https://github.com/damo-nlp-sg/videollama2)**|
 |**2024-06-10**|**Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation**|Peize Sun et.al.|[2406.06525](http://arxiv.org/abs/2406.06525)|**[link](https://github.com/foundationvision/llamagen)**|
 |**2024-06-10**|**UMBRELA: UMbrela is the (Open-Source Reproduction of the) Bing RELevance Assessor**|Shivani Upadhyay et.al.|[2406.06519](http://arxiv.org/abs/2406.06519)|**[link](https://github.com/castorini/umbrela)**|
 |**2024-06-10**|**NarrativeBridge: Enhancing Video Captioning with Causal-Temporal Narrative**|Asmar Nadeem et.al.|[2406.06499](http://arxiv.org/abs/2406.06499)|null|
