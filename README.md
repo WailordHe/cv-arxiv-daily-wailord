@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -106,7 +106,7 @@
 |**2023-09-09**|**BiLMa: Bidirectional Local-Matching for Text-based Person Re-identification**|Takuro Fujii et.al.|[2309.04675](http://arxiv.org/abs/2309.04675)|null|
 |**2023-09-08**|**AMLP:Adaptive Masking Lesion Patches for Self-supervised Medical Image Segmentation**|Xiangtao Wang et.al.|[2309.04312](http://arxiv.org/abs/2309.04312)|null|
 
-<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
 
 ## LLM
 
@@ -118,8 +118,8 @@
 |**2024-06-10**|**Parallelizing Linear Transformers with the Delta Rule over Sequence Length**|Songlin Yang et.al.|[2406.06484](http://arxiv.org/abs/2406.06484)|null|
 |**2024-06-10**|**Towards a Personal Health Large Language Model**|Justin Cosentino et.al.|[2406.06474](http://arxiv.org/abs/2406.06474)|null|
 |**2024-06-10**|**AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction**|Zhen Xing et.al.|[2406.06465](http://arxiv.org/abs/2406.06465)|null|
-|**2024-06-10**|**Transforming Wearable Data into Health Insights using Large Language Model Agents**|Mike A. Merrill et.al.|[2406.06464](http://arxiv.org/abs/2406.06464)|null|
-|**2024-06-10**|**Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies**|Junlin Wang et.al.|[2406.06461](http://arxiv.org/abs/2406.06461)|null|
+|**2024-06-11**|**Transforming Wearable Data into Health Insights using Large Language Model Agents**|Mike A. Merrill et.al.|[2406.06464](http://arxiv.org/abs/2406.06464)|null|
+|**2024-06-11**|**Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies**|Junlin Wang et.al.|[2406.06461](http://arxiv.org/abs/2406.06461)|null|
 |**2024-06-10**|**Evaluating the Retrieval Component in LLM-Based Question Answering Systems**|Ashkan Alinejad et.al.|[2406.06458](http://arxiv.org/abs/2406.06458)|null|
 |**2024-06-10**|**A Large Language Model Pipeline for Breast Cancer Oncology**|Tristen Pool et.al.|[2406.06455](http://arxiv.org/abs/2406.06455)|null|
 |**2024-06-07**|**3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs**|Jianing Yang et.al.|[2406.05132](http://arxiv.org/abs/2406.05132)|null|
@@ -1846,7 +1846,7 @@
 |**2023-09-26**|**Fine-tuning and aligning question answering models for complex information extraction tasks**|Matthias Engelbach et.al.|[2309.14805](http://arxiv.org/abs/2309.14805)|null|
 |**2023-09-26**|**Exploring Small Language Models with Prompt-Learning Paradigm for Efficient Domain-Specific Text Classification**|Hengyu Luo et.al.|[2309.14779](http://arxiv.org/abs/2309.14779)|null|
 
-<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

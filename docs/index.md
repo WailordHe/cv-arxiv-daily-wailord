@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -112,8 +112,8 @@ layout: default
 |**2024-06-10**|**Parallelizing Linear Transformers with the Delta Rule over Sequence Length**|Songlin Yang et.al.|[2406.06484](http://arxiv.org/abs/2406.06484)|null|
 |**2024-06-10**|**Towards a Personal Health Large Language Model**|Justin Cosentino et.al.|[2406.06474](http://arxiv.org/abs/2406.06474)|null|
 |**2024-06-10**|**AID: Adapting Image2Video Diffusion Models for Instruction-guided Video Prediction**|Zhen Xing et.al.|[2406.06465](http://arxiv.org/abs/2406.06465)|null|
-|**2024-06-10**|**Transforming Wearable Data into Health Insights using Large Language Model Agents**|Mike A. Merrill et.al.|[2406.06464](http://arxiv.org/abs/2406.06464)|null|
-|**2024-06-10**|**Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies**|Junlin Wang et.al.|[2406.06461](http://arxiv.org/abs/2406.06461)|null|
+|**2024-06-11**|**Transforming Wearable Data into Health Insights using Large Language Model Agents**|Mike A. Merrill et.al.|[2406.06464](http://arxiv.org/abs/2406.06464)|null|
+|**2024-06-11**|**Reasoning in Token Economies: Budget-Aware Evaluation of LLM Reasoning Strategies**|Junlin Wang et.al.|[2406.06461](http://arxiv.org/abs/2406.06461)|null|
 |**2024-06-10**|**Evaluating the Retrieval Component in LLM-Based Question Answering Systems**|Ashkan Alinejad et.al.|[2406.06458](http://arxiv.org/abs/2406.06458)|null|
 |**2024-06-10**|**A Large Language Model Pipeline for Breast Cancer Oncology**|Tristen Pool et.al.|[2406.06455](http://arxiv.org/abs/2406.06455)|null|
 |**2024-06-07**|**3D-GRAND: Towards Better Grounding and Less Hallucination for 3D-LLMs**|Jianing Yang et.al.|[2406.05132](http://arxiv.org/abs/2406.05132)|null|
