@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.16
+## Updated on 2024.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -18,7 +18,7 @@ layout: default
 |**2024-06-08**|**Medical Vision Generalist: Unifying Medical Imaging Tasks in Context**|Sucheng Ren et.al.|[2406.05565](http://arxiv.org/abs/2406.05565)|**[link](https://github.com/oliverrensu/mvg)**|
 |**2024-06-03**|**Boosting Spatial-Spectral Masked Auto-Encoder Through Mining Redundant Spectra for HSI-SAR/LiDAR Classification**|Junyan Lin et.al.|[2406.01235](http://arxiv.org/abs/2406.01235)|null|
 |**2024-06-06**|**Whole Heart 3D+T Representation Learning Through Sparse 2D Cardiac MR Images**|Yundi Zhang et.al.|[2406.00329](http://arxiv.org/abs/2406.00329)|null|
-|**2024-05-29**|**Enhancing Vision-Language Model with Unmasked Token Alignment**|Jihao Liu et.al.|[2405.19009](http://arxiv.org/abs/2405.19009)|**[link](https://github.com/jihaonew/uta)**|
+|**2024-06-14**|**Enhancing Vision-Language Model with Unmasked Token Alignment**|Jihao Liu et.al.|[2405.19009](http://arxiv.org/abs/2405.19009)|**[link](https://github.com/jihaonew/uta)**|
 |**2024-05-28**|**Visualizing the loss landscape of Self-supervised Vision Transformer**|Youngwan Lee et.al.|[2405.18042](http://arxiv.org/abs/2405.18042)|null|
 |**2024-05-23**|**Masked Image Modelling for retinal OCT understanding**|Theodoros Pissas et.al.|[2405.14788](http://arxiv.org/abs/2405.14788)|null|
 |**2024-05-14**|**CLIP with Quality Captions: A Strong Pretraining for Vision Tasks**|Pavan Kumar Anasosalu Vasu et.al.|[2405.08911](http://arxiv.org/abs/2405.08911)|null|
