@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.17
+## Updated on 2024.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -107,6 +107,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-14**|**Quantifying Variance in Evaluation Benchmarks**|Lovish Madaan et.al.|[2406.10229](http://arxiv.org/abs/2406.10229)|null|
+|**2024-06-14**|**Semantic Membership Inference Attack against Large Language Models**|Hamid Mozaffari et.al.|[2406.10218](http://arxiv.org/abs/2406.10218)|null|
+|**2024-06-14**|**Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs**|Rui Yang et.al.|[2406.10216](http://arxiv.org/abs/2406.10216)|null|
+|**2024-06-14**|**Be like a Goldfish, Don't Memorize! Mitigating Memorization in Generative LLMs**|Abhimanyu Hans et.al.|[2406.10209](http://arxiv.org/abs/2406.10209)|**[link](https://github.com/ahans30/goldfish-loss)**|
+|**2024-06-14**|**TRIP-PAL: Travel Planning with Guarantees by Combining Large Language Models and Automated Planners**|Tomas de la Rosa et.al.|[2406.10196](http://arxiv.org/abs/2406.10196)|null|
+|**2024-06-14**|**Detecting and Evaluating Medical Hallucinations in Large Vision Language Models**|Jiawei Chen et.al.|[2406.10185](http://arxiv.org/abs/2406.10185)|null|
+|**2024-06-14**|**Practical offloading for fine-tuning LLM on commodity GPU via learned subspace projectors**|Siyuan Chen et.al.|[2406.10181](http://arxiv.org/abs/2406.10181)|null|
+|**2024-06-14**|**Datasets for Multilingual Answer Sentence Selection**|Matteo Gabburo et.al.|[2406.10172](http://arxiv.org/abs/2406.10172)|null|
+|**2024-06-14**|**Sycophancy to Subterfuge: Investigating Reward-Tampering in Large Language Models**|Carson Denison et.al.|[2406.10162](http://arxiv.org/abs/2406.10162)|**[link](https://github.com/anthropics/sycophancy-to-subterfuge-paper)**|
+|**2024-06-14**|**BABILong: Testing the Limits of LLMs with Long Context Reasoning-in-a-Haystack**|Yuri Kuratov et.al.|[2406.10149](http://arxiv.org/abs/2406.10149)|null|
 |**2024-06-13**|**VideoGPT+: Integrating Image and Video Encoders for Enhanced Video Understanding**|Muhammad Maaz et.al.|[2406.09418](http://arxiv.org/abs/2406.09418)|**[link](https://github.com/mbzuai-oryx/videogpt-plus)**|
 |**2024-06-13**|**Explore the Limits of Omni-modal Pretraining at Scale**|Yiyuan Zhang et.al.|[2406.09412](http://arxiv.org/abs/2406.09412)|**[link](https://github.com/invictus717/MiCo)**|
 |**2024-06-13**|**Aligning Vision Models with Human Aesthetics in Retrieval: Benchmarks and Algorithms**|Miaosen Zhang et.al.|[2406.09397](http://arxiv.org/abs/2406.09397)|null|
