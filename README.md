@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**GFM4MPM: Towards Geospatial Foundation Models for Mineral Prospectivity Mapping**|Angel Daruna et.al.|[2406.12756](http://arxiv.org/abs/2406.12756)|null|
+|**2024-06-17**|**Scaling Efficient Masked Autoencoder Learning on Large Remote Sensing Dataset**|Fengxiang Wang et.al.|[2406.11933](http://arxiv.org/abs/2406.11933)|**[link](https://github.com/Fengxiang23/SelectiveMAE)**|
 |**2024-06-15**|**SemanticMIM: Marring Masked Image Modeling with Semantics Compression for General Visual Representation**|Yike Yuan et.al.|[2406.10673](http://arxiv.org/abs/2406.10673)|**[link](https://github.com/yyk-wew/semanticmim)**|
 |**2024-06-11**|**Visual Representation Learning with Stochastic Frame Prediction**|Huiwon Jang et.al.|[2406.07398](http://arxiv.org/abs/2406.07398)|null|
 |**2024-06-08**|**Medical Vision Generalist: Unifying Medical Imaging Tasks in Context**|Sucheng Ren et.al.|[2406.05565](http://arxiv.org/abs/2406.05565)|**[link](https://github.com/oliverrensu/mvg)**|
@@ -114,6 +116,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-18**|**DrVideo: Document Retrieval Based Long Video Understanding**|Ziyu Ma et.al.|[2406.12846](http://arxiv.org/abs/2406.12846)|null|
+|**2024-06-18**|**Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts**|Haoxiang Wang et.al.|[2406.12845](http://arxiv.org/abs/2406.12845)|**[link](https://github.com/RLHFlow/RLHF-Reward-Modeling)**|
+|**2024-06-18**|**Synergizing Foundation Models and Federated Learning: A Survey**|Shenghui Li et.al.|[2406.12844](http://arxiv.org/abs/2406.12844)|null|
+|**2024-06-18**|**LaMDA: Large Model Fine-Tuning via Spectrally Decomposed Low-Dimensional Adaptation**|Seyedarmin Azizi et.al.|[2406.12832](http://arxiv.org/abs/2406.12832)|**[link](https://github.com/arminazizi98/lamda)**|
+|**2024-06-18**|**Is It Good Data for Multilingual Instruction Tuning or Just Bad Multilingual Evaluation for Large Language Models?**|Pinzhen Chen et.al.|[2406.12822](http://arxiv.org/abs/2406.12822)|null|
+|**2024-06-18**|**Can Large Language Models Always Solve Easy Problems if They Can Solve Harder Ones?**|Zhe Yang et.al.|[2406.12809](http://arxiv.org/abs/2406.12809)|null|
+|**2024-06-18**|**Identifying Performance-Sensitive Configurations in Software Systems through Code Analysis with LLM Agents**|Zehao Wang et.al.|[2406.12806](http://arxiv.org/abs/2406.12806)|null|
+|**2024-06-18**|**Supporting Human Raters with the Detection of Harmful Content using Large Language Models**|Kurt Thomas et.al.|[2406.12800](http://arxiv.org/abs/2406.12800)|null|
+|**2024-06-18**|**ChatGLM: A Family of Large Language Models from GLM-130B to GLM-4 All Tools**|Team GLM et.al.|[2406.12793](http://arxiv.org/abs/2406.12793)|null|
+|**2024-06-18**|**UBENCH: Benchmarking Uncertainty in Large Language Models with Multiple Choice Questions**|Xunzhi Wang et.al.|[2406.12784](http://arxiv.org/abs/2406.12784)|null|
 |**2024-06-17**|**LLaNA: Large Language and NeRF Assistant**|Andrea Amaduzzi et.al.|[2406.11840](http://arxiv.org/abs/2406.11840)|null|
 |**2024-06-17**|**mDPO: Conditional Preference Optimization for Multimodal Large Language Models**|Fei Wang et.al.|[2406.11839](http://arxiv.org/abs/2406.11839)|null|
 |**2024-06-17**|**Unveiling Encoder-Free Vision-Language Models**|Haiwen Diao et.al.|[2406.11832](http://arxiv.org/abs/2406.11832)|**[link](https://github.com/baaivision/eve)**|
