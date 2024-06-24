@@ -116,6 +116,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-21**|**GenoTEX: A Benchmark for Evaluating LLM-Based Exploration of Gene Expression Data in Alignment with Bioinformaticians**|Haoyang Liu et.al.|[2406.15341](http://arxiv.org/abs/2406.15341)|**[link](https://github.com/liu-hy/genotex)**|
+|**2024-06-21**|**Gradient-Mask Tuning Elevates the Upper Limits of LLM Performance**|Haoling Li et.al.|[2406.15330](http://arxiv.org/abs/2406.15330)|null|
+|**2024-06-21**|**Bug In the Code Stack: Can LLMs Find Bugs in Large Python Code Stacks**|Hokyung Lee et.al.|[2406.15325](http://arxiv.org/abs/2406.15325)|null|
+|**2024-06-21**|**Towards Fine-Grained Citation Evaluation in Generated Text: A Comparative Analysis of Faithfulness Metrics**|Weijia Zhang et.al.|[2406.15264](http://arxiv.org/abs/2406.15264)|null|
+|**2024-06-21**|**Detecting Synthetic Lyrics with Few-Shot Inference**|Yanis Labrak et.al.|[2406.15231](http://arxiv.org/abs/2406.15231)|null|
+|**2024-06-21**|**A LLM-Based Ranking Method for the Evaluation of Automatic Counter-Narrative Generation**|Irune Zubiaga et.al.|[2406.15227](http://arxiv.org/abs/2406.15227)|null|
+|**2024-06-21**|**Unsupervised Extraction of Dialogue Policies from Conversations**|Makesh Narsimhan Sreedhar et.al.|[2406.15214](http://arxiv.org/abs/2406.15214)|null|
+|**2024-06-21**|**Prompting Whisper for QA-driven Zero-shot End-to-end Spoken Language Understanding**|Mohan Li et.al.|[2406.15209](http://arxiv.org/abs/2406.15209)|null|
+|**2024-06-21**|**Exploring the Efficacy of Robotic Assistants with ChatGPT and Claude in Enhancing ADHD Therapy: Innovating Treatment Paradigms**|Santiago Berrezueta-Guzman et.al.|[2406.15198](http://arxiv.org/abs/2406.15198)|null|
+|**2024-06-21**|**UDA: A Benchmark Suite for Retrieval Augmented Generation in Real-world Document Analysis**|Yulong Hui et.al.|[2406.15187](http://arxiv.org/abs/2406.15187)|**[link](https://github.com/qinchuanhui/uda-benchmark)**|
 |**2024-06-20**|**Model Merging and Safety Alignment: One Bad Model Spoils the Bunch**|Hasan Abed Al Kader Hammoud et.al.|[2406.14563](http://arxiv.org/abs/2406.14563)|null|
 |**2024-06-20**|**Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities**|Sachit Menon et.al.|[2406.14562](http://arxiv.org/abs/2406.14562)|null|
 |**2024-06-21**|**Asynchronous Large Language Model Enhanced Planner for Autonomous Driving**|Yuan Chen et.al.|[2406.14556](http://arxiv.org/abs/2406.14556)|null|
