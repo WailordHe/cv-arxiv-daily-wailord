@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.25
+## Updated on 2024.06.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -110,7 +110,7 @@
 |**2023-09-09**|**BiLMa: Bidirectional Local-Matching for Text-based Person Re-identification**|Takuro Fujii et.al.|[2309.04675](http://arxiv.org/abs/2309.04675)|null|
 |**2023-09-08**|**AMLP:Adaptive Masking Lesion Patches for Self-supervised Medical Image Segmentation**|Xiangtao Wang et.al.|[2309.04312](http://arxiv.org/abs/2309.04312)|null|
 
-<p align=right>(<a href=#updated-on-20240625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
 
 ## LLM
 
@@ -121,7 +121,7 @@
 |**2024-06-24**|**USDC: A Dataset of $\underline{U}$ser $\underline{S}$tance and $\underline{D}$ogmatism in Long $\underline{C}$ onversations**|Mounika Marreddy et.al.|[2406.16833](http://arxiv.org/abs/2406.16833)|null|
 |**2024-06-24**|**Ragnarök: A Reusable RAG Framework and Baselines for TREC 2024 Retrieval-Augmented Generation Track**|Ronak Pradeep et.al.|[2406.16828](http://arxiv.org/abs/2406.16828)|null|
 |**2024-06-24**|**RES-Q: Evaluating Code-Editing Large Language Model Systems at the Repository Scale**|Beck LaBash et.al.|[2406.16801](http://arxiv.org/abs/2406.16801)|**[link](https://github.com/qurrent-ai/res-q)**|
-|**2024-06-24**|**Lottery Ticket Adaptation: Mitigating Destructive Interference in LLMs**|Ashwinee Panda et.al.|[2406.16797](http://arxiv.org/abs/2406.16797)|**[link](https://github.com/kiddyboots216/lottery-ticket-adaptation)**|
+|**2024-06-25**|**Lottery Ticket Adaptation: Mitigating Destructive Interference in LLMs**|Ashwinee Panda et.al.|[2406.16797](http://arxiv.org/abs/2406.16797)|**[link](https://github.com/kiddyboots216/lottery-ticket-adaptation)**|
 |**2024-06-24**|**M2Lingual: Enhancing Multilingual, Multi-Turn Instruction Alignment in Large Language Models**|Rishabh Maheshwary et.al.|[2406.16783](http://arxiv.org/abs/2406.16783)|null|
 |**2024-06-24**|**It Is Not About What You Say, It Is About How You Say It: A Surprisingly Simple Approach for Improving Reading Comprehension**|Sagi Shaier et.al.|[2406.16779](http://arxiv.org/abs/2406.16779)|null|
 |**2024-06-24**|**Blending LLMs into Cascaded Speech Translation: KIT's Offline Speech Translation System for IWSLT 2024**|Sai Koneru et.al.|[2406.16777](http://arxiv.org/abs/2406.16777)|null|
@@ -1940,7 +1940,7 @@
 |**2023-09-26**|**Fine-tuning and aligning question answering models for complex information extraction tasks**|Matthias Engelbach et.al.|[2309.14805](http://arxiv.org/abs/2309.14805)|null|
 |**2023-09-26**|**Exploring Small Language Models with Prompt-Learning Paradigm for Efficient Domain-Specific Text Classification**|Hengyu Luo et.al.|[2309.14779](http://arxiv.org/abs/2309.14779)|null|
 
-<p align=right>(<a href=#updated-on-20240625>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240626>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
