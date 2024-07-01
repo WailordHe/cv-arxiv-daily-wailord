@@ -112,6 +112,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-28**|**Web2Code: A Large-scale Webpage-to-Code Dataset and Evaluation Framework for Multimodal LLMs**|Sukmin Yun et.al.|[2406.20098](http://arxiv.org/abs/2406.20098)|**[link](https://github.com/mbzuai-llm/web2code)**|
+|**2024-06-28**|**LLaRA: Supercharging Robot Learning Data for Vision-Language Policy**|Xiang Li et.al.|[2406.20095](http://arxiv.org/abs/2406.20095)|**[link](https://github.com/lostxine/llara)**|
+|**2024-06-28**|**Scaling Synthetic Data Creation with 1,000,000,000 Personas**|Xin Chan et.al.|[2406.20094](http://arxiv.org/abs/2406.20094)|null|
+|**2024-06-28**|**LLaVolta: Efficient Multi-modal Models via Stage-wise Visual Context Compression**|Jieneng Chen et.al.|[2406.20092](http://arxiv.org/abs/2406.20092)|**[link](https://github.com/beckschen/llavolta)**|
+|**2024-06-28**|**ProgressGym: Alignment with a Millennium of Moral Progress**|Tianyi Qiu et.al.|[2406.20087](http://arxiv.org/abs/2406.20087)|null|
+|**2024-06-28**|**Auto Cherry-Picker: Learning from High-quality Generative Data Driven by Language**|Yicheng Chen et.al.|[2406.20085](http://arxiv.org/abs/2406.20085)|null|
+|**2024-06-28**|**Molecular Facts: Desiderata for Decontextualization in LLM Fact Verification**|Anisha Gunjal et.al.|[2406.20079](http://arxiv.org/abs/2406.20079)|**[link](https://github.com/anisha2102/molecular_facts)**|
+|**2024-06-28**|**BMW Agents -- A Framework For Task Automation Through Multi-agent Collaboration**|Noel Crawford et.al.|[2406.20041](http://arxiv.org/abs/2406.20041)|null|
+|**2024-06-28**|**LEMoE: Advanced Mixture of Experts Adaptor for Lifelong Model Editing of Large Language Models**|Renzhi Wang et.al.|[2406.20030](http://arxiv.org/abs/2406.20030)|null|
+|**2024-06-28**|**ToolBeHonest: A Multi-level Hallucination Diagnostic Benchmark for Tool-Augmented Large Language Models**|Yuxiang Zhang et.al.|[2406.20015](http://arxiv.org/abs/2406.20015)|**[link](https://github.com/toolbehonest/toolbehonest)**|
 |**2024-06-27**|**ReXTime: A Benchmark Suite for Reasoning-Across-Time in Videos**|Jr-Jen Chen et.al.|[2406.19392](http://arxiv.org/abs/2406.19392)|**[link](https://github.com/rextime/rextime)**|
 |**2024-06-27**|**The Remarkable Robustness of LLMs: Stages of Inference?**|Vedang Lad et.al.|[2406.19384](http://arxiv.org/abs/2406.19384)|**[link](https://github.com/vdlad/remarkable-robustness-of-llms)**|
 |**2024-06-27**|**Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model**|Haobo Yuan et.al.|[2406.19369](http://arxiv.org/abs/2406.19369)|null|
