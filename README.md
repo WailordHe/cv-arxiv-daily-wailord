@@ -118,6 +118,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-05**|**Me, Myself, and AI: The Situational Awareness Dataset (SAD) for LLMs**|Rudolf Laine et.al.|[2407.04694](http://arxiv.org/abs/2407.04694)|null|
+|**2024-07-05**|**ANAH-v2: Scaling Analytical Hallucination Annotation of Large Language Models**|Yuzhe Gu et.al.|[2407.04693](http://arxiv.org/abs/2407.04693)|null|
+|**2024-07-05**|**Rethinking Visual Prompting for Multimodal Large Language Models with External Knowledge**|Yuanze Lin et.al.|[2407.04681](http://arxiv.org/abs/2407.04681)|null|
+|**2024-07-05**|**Seed-ASR: Understanding Diverse Speech and Contexts with LLM-based Speech Recognition**|Ye Bai et.al.|[2407.04675](http://arxiv.org/abs/2407.04675)|null|
+|**2024-07-05**|**Lazarus: Resilient and Elastic Training of Mixture-of-Experts Models with Adaptive Expert Placement**|Yongji Wu et.al.|[2407.04656](http://arxiv.org/abs/2407.04656)|null|
+|**2024-07-05**|**Entity Decomposition with Filtering: A Zero-Shot Clinical Named Entity Recognition Framework**|Reza Averly et.al.|[2407.04629](http://arxiv.org/abs/2407.04629)|null|
+|**2024-07-05**|**On scalable oversight with weak LLMs judging strong LLMs**|Zachary Kenton et.al.|[2407.04622](http://arxiv.org/abs/2407.04622)|null|
+|**2024-07-05**|**Leveraging Large Language Models for Integrated Satellite-Aerial-Terrestrial Networks: Recent Advances and Future Directions**|Shumaila Javaid et.al.|[2407.04581](http://arxiv.org/abs/2407.04581)|null|
+|**2024-07-05**|**VRSD: Rethinking Similarity and Diversity for Retrieval in Large Language Models**|Hang Gao et.al.|[2407.04573](http://arxiv.org/abs/2407.04573)|null|
+|**2024-07-05**|**PoPreRo: A New Dataset for Popularity Prediction of Romanian Reddit Posts**|Ana-Cristina Rogoz et.al.|[2407.04541](http://arxiv.org/abs/2407.04541)|**[link](https://github.com/ana-rogoz/poprero)**|
 |**2024-07-03**|**Universal Length Generalization with Turing Programs**|Kaiying Hou et.al.|[2407.03310](http://arxiv.org/abs/2407.03310)|null|
 |**2024-07-03**|**Large Language Models for JSON Schema Discovery**|Michael J. Mior et.al.|[2407.03286](http://arxiv.org/abs/2407.03286)|null|
 |**2024-07-03**|**LLM Internal States Reveal Hallucination Risk Faced With a Query**|Ziwei Ji et.al.|[2407.03282](http://arxiv.org/abs/2407.03282)|null|
