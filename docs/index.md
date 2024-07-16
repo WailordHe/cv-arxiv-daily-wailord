@@ -117,6 +117,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-15**|**VGBench: Evaluating Large Language Models on Vector Graphics Understanding and Generation**|Bocheng Zou et.al.|[2407.10972](http://arxiv.org/abs/2407.10972)|**[link](https://github.com/vgbench/VGBench)**|
+|**2024-07-15**|**Q-Sparse: All Large Language Models can be Fully Sparsely-Activated**|Hongyu Wang et.al.|[2407.10969](http://arxiv.org/abs/2407.10969)|null|
+|**2024-07-15**|**Fast Matrix Multiplications for Lookup Table-Quantized LLMs**|Han Guo et.al.|[2407.10960](http://arxiv.org/abs/2407.10960)|null|
+|**2024-07-15**|**MMM: Multilingual Mutual Reinforcement Effect Mix Datasets & Test with Open-domain Information Extraction Large Language Models**|Chengguang Gan et.al.|[2407.10953](http://arxiv.org/abs/2407.10953)|null|
+|**2024-07-15**|**Can Textual Semantics Mitigate Sounding Object Segmentation Preference?**|Yaoting Wang et.al.|[2407.10947](http://arxiv.org/abs/2407.10947)|**[link](https://github.com/gewu-lab/sounding-object-segmentation-preference)**|
+|**2024-07-15**|**GRUtopia: Dream General Robots in a City at Scale**|Hanqing Wang et.al.|[2407.10943](http://arxiv.org/abs/2407.10943)|**[link](https://github.com/openrobotlab/grutopia)**|
+|**2024-07-15**|**OPa-Ma: Text Guided Mamba for 360-degree Image Out-painting**|Penglei Gao et.al.|[2407.10923](http://arxiv.org/abs/2407.10923)|null|
+|**2024-07-15**|**FinDKG: Dynamic Knowledge Graphs with Large Language Models for Detecting Global Trends in Financial Markets**|Xiaohui Victor Li et.al.|[2407.10909](http://arxiv.org/abs/2407.10909)|null|
+|**2024-07-15**|**Hey, That's My Model! Introducing Chain & Hash, An LLM Fingerprinting Technique**|Mark Russinovich et.al.|[2407.10887](http://arxiv.org/abs/2407.10887)|null|
+|**2024-07-15**|**SLIP: Securing LLMs IP Using Weights Decomposition**|Yehonathan Refael et.al.|[2407.10886](http://arxiv.org/abs/2407.10886)|null|
 |**2024-07-12**|**FairyLandAI: Personalized Fairy Tales utilizing ChatGPT and DALLE-3**|Georgios Makridis et.al.|[2407.09467](http://arxiv.org/abs/2407.09467)|null|
 |**2024-07-12**|**Human-like Episodic Memory for Infinite Context LLMs**|Zafeirios Fountas et.al.|[2407.09450](http://arxiv.org/abs/2407.09450)|null|
 |**2024-07-12**|**ASTPrompter: Weakly Supervised Automated Language Model Red-Teaming to Identify Likely Toxic Prompts**|Amelia F. Hardy et.al.|[2407.09447](http://arxiv.org/abs/2407.09447)|null|
