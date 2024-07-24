@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-23**|**QPT V2: Masked Image Modeling Advances Visual Scoring**|Qizhi Xie et.al.|[2407.16541](http://arxiv.org/abs/2407.16541)|**[link](https://github.com/keichitse/qpt-v2)**|
 |**2024-07-22**|**Towards Latent Masked Image Modeling for Self-Supervised Visual Representation Learning**|Yibing Wei et.al.|[2407.15837](http://arxiv.org/abs/2407.15837)|**[link](https://github.com/yibingwei-1/latentmim)**|
 |**2024-07-20**|**Self-supervised transformer-based pre-training method with General Plant Infection dataset**|Zhengle Wang et.al.|[2407.14911](http://arxiv.org/abs/2407.14911)|null|
 |**2024-07-20**|**Universal Medical Imaging Model for Domain Generalization with Data Privacy**|Ahmed Radwan et.al.|[2407.14719](http://arxiv.org/abs/2407.14719)|null|
@@ -131,6 +132,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-23**|**Can Large Language Models Automatically Jailbreak GPT-4V?**|Yuanwei Wu et.al.|[2407.16686](http://arxiv.org/abs/2407.16686)|null|
+|**2024-07-23**|**RedAgent: Red Teaming Large Language Models with Context-aware Autonomous Language Agent**|Huiyu Xu et.al.|[2407.16667](http://arxiv.org/abs/2407.16667)|null|
+|**2024-07-23**|**Course-Correction: Safety Alignment Using Synthetic Preferences**|Rongwu Xu et.al.|[2407.16637](http://arxiv.org/abs/2407.16637)|null|
+|**2024-07-23**|**Lawma: The Power of Specialization for Legal Tasks**|Ricardo Dominguez-Olmedo et.al.|[2407.16615](http://arxiv.org/abs/2407.16615)|null|
+|**2024-07-23**|**Shared Imagination: LLMs Hallucinate Alike**|Yilun Zhou et.al.|[2407.16604](http://arxiv.org/abs/2407.16604)|null|
+|**2024-07-23**|**Exploring Automatic Cryptographic API Misuse Detection in the Era of LLMs**|Yifan Xia et.al.|[2407.16576](http://arxiv.org/abs/2407.16576)|null|
+|**2024-07-23**|**Retrieve, Generate, Evaluate: A Case Study for Medical Paraphrases Generation with Small Language Models**|Ioana Buhnila et.al.|[2407.16565](http://arxiv.org/abs/2407.16565)|null|
+|**2024-07-23**|**Patched RTC: evaluating LLMs for diverse software development tasks**|Asankhaya Sharma et.al.|[2407.16557](http://arxiv.org/abs/2407.16557)|null|
+|**2024-07-23**|**MicroEmo: Time-Sensitive Multimodal Emotion Recognition with Micro-Expression Dynamics in Video Dialogues**|Liyun Zhang et.al.|[2407.16552](http://arxiv.org/abs/2407.16552)|null|
+|**2024-07-23**|**HAPFI: History-Aware Planning based on Fused Information**|Sujin Jeon et.al.|[2407.16533](http://arxiv.org/abs/2407.16533)|null|
 |**2024-07-22**|**AutoAD-Zero: A Training-Free Framework for Zero-Shot Audio Description**|Junyu Xie et.al.|[2407.15850](http://arxiv.org/abs/2407.15850)|**[link](https://github.com/Jyxarthur/AutoAD-Zero)**|
 |**2024-07-22**|**LLMmap: Fingerprinting For Large Language Models**|Dario Pasquini et.al.|[2407.15847](http://arxiv.org/abs/2407.15847)|null|
 |**2024-07-22**|**SlowFast-LLaVA: A Strong Training-Free Baseline for Video Large Language Models**|Mingze Xu et.al.|[2407.15841](http://arxiv.org/abs/2407.15841)|null|
