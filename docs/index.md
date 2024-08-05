@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.04
+## Updated on 2024.08.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -16,7 +16,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-08-01**|**AMAES: Augmented Masked Autoencoder Pretraining on Public Brain MRI Data for 3D-Native Segmentation**|Asbjørn Munk et.al.|[2408.00640](http://arxiv.org/abs/2408.00640)|null|
 |**2024-07-29**|**Short-Term Forecasting of Photovoltaic Power Generation Based on Entropy during the Foggy Winter**|Xuan Yang et.al.|[2407.19663](http://arxiv.org/abs/2407.19663)|null|
-|**2024-07-28**|**XLIP: Cross-modal Attention Masked Modelling for Medical Language-Image Pre-Training**|Biao Wu et.al.|[2407.19546](http://arxiv.org/abs/2407.19546)|**[link](https://github.com/white65534/xlip)**|
+|**2024-08-02**|**XLIP: Cross-modal Attention Masked Modelling for Medical Language-Image Pre-Training**|Biao Wu et.al.|[2407.19546](http://arxiv.org/abs/2407.19546)|**[link](https://github.com/white65534/xlip)**|
 |**2024-07-23**|**QPT V2: Masked Image Modeling Advances Visual Scoring**|Qizhi Xie et.al.|[2407.16541](http://arxiv.org/abs/2407.16541)|**[link](https://github.com/keichitse/qpt-v2)**|
 |**2024-07-22**|**Towards Latent Masked Image Modeling for Self-Supervised Visual Representation Learning**|Yibing Wei et.al.|[2407.15837](http://arxiv.org/abs/2407.15837)|**[link](https://github.com/yibingwei-1/latentmim)**|
 |**2024-07-20**|**Self-supervised transformer-based pre-training method with General Plant Infection dataset**|Zhengle Wang et.al.|[2407.14911](http://arxiv.org/abs/2407.14911)|null|
@@ -135,7 +135,7 @@ layout: default
 |**2024-08-01**|**Improving Retrieval-Augmented Generation in Medicine with Iterative Follow-up Questions**|Guangzhi Xiong et.al.|[2408.00727](http://arxiv.org/abs/2408.00727)|null|
 |**2024-08-01**|**An Empirical Analysis of Compute-Optimal Inference for Problem-Solving with Language Models**|Yangzhen Wu et.al.|[2408.00724](http://arxiv.org/abs/2408.00724)|null|
 |**2024-08-01**|**Pathway to Secure and Trustworthy 6G for LLMs: Attacks, Defense, and Opportunities**|Sunder Ali Khowaja et.al.|[2408.00722](http://arxiv.org/abs/2408.00722)|null|
-|**2024-08-01**|**Improving Text Embeddings for Smaller Language Models Using Contrastive Fine-tuning**|Trapoom Ukarapol et.al.|[2408.00690](http://arxiv.org/abs/2408.00690)|null|
+|**2024-08-02**|**Improving Text Embeddings for Smaller Language Models Using Contrastive Fine-tuning**|Trapoom Ukarapol et.al.|[2408.00690](http://arxiv.org/abs/2408.00690)|null|
 |**2024-08-01**|**Can Developers Prompt? A Controlled Experiment for Code Documentation Generation**|Hans-Alexander Kruse et.al.|[2408.00686](http://arxiv.org/abs/2408.00686)|null|
 |**2024-08-01**|**AutoM3L: An Automated Multimodal Machine Learning Framework with Large Language Models**|Daqin Luo et.al.|[2408.00665](http://arxiv.org/abs/2408.00665)|null|
 |**2024-08-01**|**Disentangling Dense Embeddings with Sparse Autoencoders**|Charles O'Neill et.al.|[2408.00657](http://arxiv.org/abs/2408.00657)|null|
