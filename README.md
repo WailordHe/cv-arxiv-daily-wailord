@@ -135,6 +135,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-08**|**Better Alignment with Instruction Back-and-Forth Translation**|Thao Nguyen et.al.|[2408.04614](http://arxiv.org/abs/2408.04614)|null|
+|**2024-08-08**|**Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**|Qirui Jiao et.al.|[2408.04594](http://arxiv.org/abs/2408.04594)|**[link](https://github.com/modelscope/data-juicer)**|
+|**2024-08-08**|**Towards Resilient and Efficient LLMs: A Comparative Study of Efficiency, Performance, and Adversarial Robustness**|Xiaojing Fan et.al.|[2408.04585](http://arxiv.org/abs/2408.04585)|null|
+|**2024-08-08**|**SCENE: Evaluating Explainable AI Techniques Using Soft Counterfactuals**|Haoran Zheng et.al.|[2408.04575](http://arxiv.org/abs/2408.04575)|null|
+|**2024-08-08**|**Learning Fine-Grained Grounded Citations for Attributed Large Language Models**|Lei Huang et.al.|[2408.04568](http://arxiv.org/abs/2408.04568)|**[link](https://github.com/luckyyysta/fine-grained-attribution)**|
+|**2024-08-08**|**Bias-Aware Low-Rank Adaptation: Mitigating Catastrophic Inheritance of Large Language Models**|Yupeng Chang et.al.|[2408.04556](http://arxiv.org/abs/2408.04556)|**[link](https://github.com/cyp-jlu-ai/ba-lora)**|
+|**2024-08-08**|**Compromesso! Italian Many-Shot Jailbreaks Undermine the Safety of Large Language Models**|Fabio Pernisi et.al.|[2408.04522](http://arxiv.org/abs/2408.04522)|null|
+|**2024-08-08**|**What You Need is What You Get: Theory of Mind for an LLM-Based Code Understanding Assistant**|Jonan Richards et.al.|[2408.04477](http://arxiv.org/abs/2408.04477)|null|
+|**2024-08-08**|**Can LLMs Beat Humans in Debating? A Dynamic Multi-agent Framework for Competitive Debate**|Yiqun Zhang et.al.|[2408.04472](http://arxiv.org/abs/2408.04472)|**[link](https://github.com/zhangyiqun018/agent-for-debate)**|
+|**2024-08-08**|**RiskAwareBench: Towards Evaluating Physical Risk Awareness for High-level Planning of LLM-based Embodied Agents**|Zihao Zhu et.al.|[2408.04449](http://arxiv.org/abs/2408.04449)|null|
 |**2024-08-07**|**How Well Can Vision Language Models See Image Details?**|Chenhui Gou et.al.|[2408.03940](http://arxiv.org/abs/2408.03940)|null|
 |**2024-08-07**|**SLIM-RAFT: A Novel Fine-Tuning Approach to Improve Cross-Linguistic Performance for Mercosur Common Nomenclature**|Vinícius Di Oliveira et.al.|[2408.03936](http://arxiv.org/abs/2408.03936)|null|
 |**2024-08-07**|**CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases**|Xiangyan Liu et.al.|[2408.03910](http://arxiv.org/abs/2408.03910)|**[link](https://github.com/modelscope/modelscope-agent)**|
