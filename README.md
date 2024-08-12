@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.11
+## Updated on 2024.08.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -129,14 +129,14 @@
 |**2023-09-09**|**BiLMa: Bidirectional Local-Matching for Text-based Person Re-identification**|Takuro Fujii et.al.|[2309.04675](http://arxiv.org/abs/2309.04675)|null|
 |**2023-09-08**|**AMLP:Adaptive Masking Lesion Patches for Self-supervised Medical Image Segmentation**|Xiangtao Wang et.al.|[2309.04312](http://arxiv.org/abs/2309.04312)|null|
 
-<p align=right>(<a href=#updated-on-20240811>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240812>back to top</a>)</p>
 
 ## LLM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-08-08**|**Better Alignment with Instruction Back-and-Forth Translation**|Thao Nguyen et.al.|[2408.04614](http://arxiv.org/abs/2408.04614)|null|
-|**2024-08-08**|**Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**|Qirui Jiao et.al.|[2408.04594](http://arxiv.org/abs/2408.04594)|**[link](https://github.com/modelscope/data-juicer)**|
+|**2024-08-09**|**Img-Diff: Contrastive Data Synthesis for Multimodal Large Language Models**|Qirui Jiao et.al.|[2408.04594](http://arxiv.org/abs/2408.04594)|**[link](https://github.com/modelscope/data-juicer)**|
 |**2024-08-08**|**Towards Resilient and Efficient LLMs: A Comparative Study of Efficiency, Performance, and Adversarial Robustness**|Xiaojing Fan et.al.|[2408.04585](http://arxiv.org/abs/2408.04585)|null|
 |**2024-08-08**|**SCENE: Evaluating Explainable AI Techniques Using Soft Counterfactuals**|Haoran Zheng et.al.|[2408.04575](http://arxiv.org/abs/2408.04575)|null|
 |**2024-08-08**|**Learning Fine-Grained Grounded Citations for Attributed Large Language Models**|Lei Huang et.al.|[2408.04568](http://arxiv.org/abs/2408.04568)|**[link](https://github.com/luckyyysta/fine-grained-attribution)**|
@@ -2269,7 +2269,7 @@
 |**2023-09-26**|**Fine-tuning and aligning question answering models for complex information extraction tasks**|Matthias Engelbach et.al.|[2309.14805](http://arxiv.org/abs/2309.14805)|null|
 |**2023-09-26**|**Exploring Small Language Models with Prompt-Learning Paradigm for Efficient Domain-Specific Text Classification**|Hengyu Luo et.al.|[2309.14779](http://arxiv.org/abs/2309.14779)|null|
 
-<p align=right>(<a href=#updated-on-20240811>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240812>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
