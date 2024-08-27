@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-23**|**MICM: Rethinking Unsupervised Pretraining for Enhanced Few-shot Learning**|Zhenyu Zhang et.al.|[2408.13385](http://arxiv.org/abs/2408.13385)|null|
 |**2024-08-23**|**Symmetric masking strategy enhances the performance of Masked Image Modeling**|Khanh-Binh Nguyen et.al.|[2408.12772](http://arxiv.org/abs/2408.12772)|null|
 |**2024-08-13**|**Membership Inference Attack Against Masked Image Modeling**|Zheng Li et.al.|[2408.06825](http://arxiv.org/abs/2408.06825)|null|
 |**2024-08-13**|**Masked Image Modeling: A Survey**|Vlad Hondru et.al.|[2408.06687](http://arxiv.org/abs/2408.06687)|null|
@@ -134,6 +135,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-26**|**Step-by-Step Unmasking for Parameter-Efficient Fine-tuning of Large Language Models**|Aradhye Agarwal et.al.|[2408.14470](http://arxiv.org/abs/2408.14470)|null|
+|**2024-08-26**|**Grounded Multi-Hop VideoQA in Long-Form Egocentric Videos**|Qirui Chen et.al.|[2408.14469](http://arxiv.org/abs/2408.14469)|null|
+|**2024-08-26**|**Explicit Inductive Inference using Large Language Models**|Tianyang Liu et.al.|[2408.14467](http://arxiv.org/abs/2408.14467)|null|
+|**2024-08-26**|**Evaluating Large Language Models on Spatial Tasks: A Multi-Task Benchmarking Study**|Liuchang Xu Shuo Zhao et.al.|[2408.14438](http://arxiv.org/abs/2408.14438)|null|
+|**2024-08-26**|**CHARTOM: A Visual Theory-of-Mind Benchmark for Multimodal Large Language Models**|Shubham Bharti et.al.|[2408.14419](http://arxiv.org/abs/2408.14419)|null|
+|**2024-08-26**|**MEDSAGE: Enhancing Robustness of Medical Dialogue Summarization to ASR Errors with LLM-generated Synthetic Dialogues**|Kuluhan Binici et.al.|[2408.14418](http://arxiv.org/abs/2408.14418)|null|
+|**2024-08-26**|**Language-specific Calibration for Pruning Multilingual Language Models**|Simon Kurz et.al.|[2408.14398](http://arxiv.org/abs/2408.14398)|null|
+|**2024-08-26**|**Reprogramming Foundational Large Language Models(LLMs) for Enterprise Adoption for Spatio-Temporal Forecasting Applications: Unveiling a New Era in Copilot-Guided Cross-Modal Time Series Representation Learning**|Sakhinana Sagar Srinivas et.al.|[2408.14387](http://arxiv.org/abs/2408.14387)|null|
+|**2024-08-26**|**Probing Causality Manipulation of Large Language Models**|Chenyang Zhang et.al.|[2408.14380](http://arxiv.org/abs/2408.14380)|**[link](https://github.com/tongjinlp/llm-causality-probing)**|
+|**2024-08-26**|**SWE-bench-java: A GitHub Issue Resolving Benchmark for Java**|Daoguang Zan et.al.|[2408.14354](http://arxiv.org/abs/2408.14354)|**[link](https://github.com/multi-swe-bench/multi-swe-bench-env)**|
 |**2024-08-23**|**MME-RealWorld: Could Your Multimodal LLM Challenge High-Resolution Real-World Scenarios that are Difficult for Humans?**|Yi-Fan Zhang et.al.|[2408.13257](http://arxiv.org/abs/2408.13257)|null|
 |**2024-08-23**|**Domain-specific long text classification from sparse relevant information**|Célia D'Cruz et.al.|[2408.13253](http://arxiv.org/abs/2408.13253)|null|
 |**2024-08-23**|**Multi-Layer Transformers Gradient Can be Approximated in Almost Linear Time**|Yingyu Liang et.al.|[2408.13233](http://arxiv.org/abs/2408.13233)|null|
