@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.06
+## Updated on 2024.09.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -19,7 +19,7 @@ layout: default
 |**2024-08-21**|**AttDiCNN: Attentive Dilated Convolutional Neural Network for Automatic Sleep Staging using Visibility Graph and Force-directed Layout**|Md Jobayer et.al.|[2409.01962](http://arxiv.org/abs/2409.01962)|null|
 |**2024-09-03**|**Dual Advancement of Representation Learning and Clustering for Sparse and Noisy Images**|Wenlin Li et.al.|[2409.01781](http://arxiv.org/abs/2409.01781)|**[link](https://github.com/zipging/darlc)**|
 |**2024-08-28**|**Online pre-training with long-form videos**|Itsuki Kato et.al.|[2408.15651](http://arxiv.org/abs/2408.15651)|null|
-|**2024-08-23**|**MICM: Rethinking Unsupervised Pretraining for Enhanced Few-shot Learning**|Zhenyu Zhang et.al.|[2408.13385](http://arxiv.org/abs/2408.13385)|null|
+|**2024-08-23**|**MICM: Rethinking Unsupervised Pretraining for Enhanced Few-shot Learning**|Zhenyu Zhang et.al.|[2408.13385](http://arxiv.org/abs/2408.13385)|**[link](https://github.com/icgy96/micm)**|
 |**2024-08-23**|**Symmetric masking strategy enhances the performance of Masked Image Modeling**|Khanh-Binh Nguyen et.al.|[2408.12772](http://arxiv.org/abs/2408.12772)|null|
 |**2024-08-13**|**Membership Inference Attack Against Masked Image Modeling**|Zheng Li et.al.|[2408.06825](http://arxiv.org/abs/2408.06825)|null|
 |**2024-08-13**|**Masked Image Modeling: A Survey**|Vlad Hondru et.al.|[2408.06687](http://arxiv.org/abs/2408.06687)|null|
