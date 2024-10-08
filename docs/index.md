@@ -14,9 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-05**|**RetCompletion:High-Speed Inference Image Completion with Retentive Network**|Yueyang Cang et.al.|[2410.04056](http://arxiv.org/abs/2410.04056)|null|
+|**2024-10-02**|**Denoising with a Joint-Embedding Predictive Architecture**|Dengsheng Chen et.al.|[2410.03755](http://arxiv.org/abs/2410.03755)|null|
 |**2024-10-02**|**Performant, Memory Efficient and Scalable Multi-Agent Reinforcement Learning**|Omayma Mahjoub et.al.|[2410.01706](http://arxiv.org/abs/2410.01706)|null|
 |**2024-09-30**|**MaskMamba: A Hybrid Mamba-Transformer Model for Masked Image Generation**|Wenchao Chen et.al.|[2409.19937](http://arxiv.org/abs/2409.19937)|null|
-|**2024-09-28**|**Restore Anything with Masks: Leveraging Mask Image Modeling for Blind All-in-One Image Restoration**|Chu-Jie Qin et.al.|[2409.19403](http://arxiv.org/abs/2409.19403)|null|
+|**2024-09-28**|**Restore Anything with Masks: Leveraging Mask Image Modeling for Blind All-in-One Image Restoration**|Chu-Jie Qin et.al.|[2409.19403](http://arxiv.org/abs/2409.19403)|**[link](https://github.com/dragonisss/ram)**|
 |**2024-09-30**|**UniEmoX: Cross-modal Semantic-Guided Large-Scale Pretraining for Universal Scene Emotion Perception**|Chuang Chen et.al.|[2409.18877](http://arxiv.org/abs/2409.18877)|**[link](https://github.com/chincharles/u-emo)**|
 |**2024-09-26**|**Self-supervised Pretraining for Cardiovascular Magnetic Resonance Cine Segmentation**|Rob A. J. de Mooij et.al.|[2409.18100](http://arxiv.org/abs/2409.18100)|**[link](https://github.com/q-cardia/ssp-cmr-cine-segmentation)**|
 |**2024-09-20**|**Leveraging Text Localization for Scene Text Removal via Text-aware Masked Image Modeling**|Zixiao Wang et.al.|[2409.13431](http://arxiv.org/abs/2409.13431)|**[link](https://github.com/wzx99/tmim)**|
@@ -148,6 +150,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-07**|**Data Advisor: Dynamic Data Curation for Safety Alignment of Large Language Models**|Fei Wang et.al.|[2410.05269](http://arxiv.org/abs/2410.05269)|null|
+|**2024-10-07**|**PrefixQuant: Static Quantization Beats Dynamic through Prefixed Outliers in LLMs**|Mengzhao Chen et.al.|[2410.05265](http://arxiv.org/abs/2410.05265)|**[link](https://github.com/chenmnz/prefixquant)**|
+|**2024-10-07**|**TurtleBench: Evaluating Top Language Models via Real-World Yes/No Puzzles**|Qingchen Yu et.al.|[2410.05262](http://arxiv.org/abs/2410.05262)|null|
+|**2024-10-07**|**Differential Transformer**|Tianzhu Ye et.al.|[2410.05258](http://arxiv.org/abs/2410.05258)|null|
+|**2024-10-07**|**GLEE: A Unified Framework and Benchmark for Language-based Economic Environments**|Eilam Shapira et.al.|[2410.05254](http://arxiv.org/abs/2410.05254)|null|
+|**2024-10-07**|**Causal Micro-Narratives**|Mourad Heddaya et.al.|[2410.05252](http://arxiv.org/abs/2410.05252)|null|
+|**2024-10-07**|**SFTMix: Elevating Language Model Instruction Tuning with Mixup Recipe**|Yuxin Xiao et.al.|[2410.05248](http://arxiv.org/abs/2410.05248)|null|
+|**2024-10-07**|**Navigating the Digital World as Humans Do: Universal Visual Grounding for GUI Agents**|Boyu Gou et.al.|[2410.05243](http://arxiv.org/abs/2410.05243)|null|
+|**2024-10-07**|**GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models**|Iman Mirzadeh et.al.|[2410.05229](http://arxiv.org/abs/2410.05229)|null|
+|**2024-10-07**|**Cookbook: A framework for improving LLM generative abilities via programmatic data generating templates**|Avanika Narayan et.al.|[2410.05224](http://arxiv.org/abs/2410.05224)|null|
 |**2024-10-04**|**Enhance Reasoning by Learning from Mistakes: Peer-Review Knowledge Distillation from Multiple Large Language Models**|Zhuochun Li et.al.|[2410.03663](http://arxiv.org/abs/2410.03663)|null|
 |**2024-10-04**|**RAFT: Realistic Attacks to Fool Text Detectors**|James Wang et.al.|[2410.03658](http://arxiv.org/abs/2410.03658)|null|
 |**2024-10-04**|**Aligning LLMs with Individual Preferences via Interaction**|Shujin Wu et.al.|[2410.03642](http://arxiv.org/abs/2410.03642)|**[link](https://github.com/shujinwu-0814/aloe)**|
