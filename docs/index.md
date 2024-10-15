@@ -7,14 +7,14 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.14
+## Updated on 2024.10.15
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-10**|**Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis**|Jinbin Bai et.al.|[2410.08261](http://arxiv.org/abs/2410.08261)|null|
+|**2024-10-10**|**Meissonic: Revitalizing Masked Generative Transformers for Efficient High-Resolution Text-to-Image Synthesis**|Jinbin Bai et.al.|[2410.08261](http://arxiv.org/abs/2410.08261)|**[link](https://github.com/viiika/Meissonic)**|
 |**2024-10-10**|**OneRef: Unified One-tower Expression Grounding and Segmentation with Mask Referring Modeling**|Linhui Xiao et.al.|[2410.08021](http://arxiv.org/abs/2410.08021)|**[link](https://github.com/linhuixiao/oneref)**|
 |**2024-10-11**|**Self-Supervised Learning for Real-World Object Detection: a Survey**|Alina Ciocarlan et.al.|[2410.07442](http://arxiv.org/abs/2410.07442)|null|
 |**2024-10-09**|**Robust infrared small target detection using self-supervised and a contrario paradigms**|Alina Ciocarlan et.al.|[2410.07437](http://arxiv.org/abs/2410.07437)|null|
