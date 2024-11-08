@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.07
+## Updated on 2024.11.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -164,7 +164,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-06**|**Medical Adaptation of Large Language and Vision-Language Models: Are We Making Progress?**|Daniel P. Jeong et.al.|[2411.04118](http://arxiv.org/abs/2411.04118)|null|
-|**2024-11-06**|**How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis**|Guan Zhe Hong et.al.|[2411.04105](http://arxiv.org/abs/2411.04105)|null|
+|**2024-11-07**|**How Transformers Solve Propositional Logic Problems: A Mechanistic Analysis**|Guan Zhe Hong et.al.|[2411.04105](http://arxiv.org/abs/2411.04105)|null|
 |**2024-11-06**|**Textual Decomposition Then Sub-motion-space Scattering for Open-Vocabulary Motion Generation**|Ke Fan et.al.|[2411.04079](http://arxiv.org/abs/2411.04079)|null|
 |**2024-11-06**|**Beemo: Benchmark of Expert-edited Machine-generated Outputs**|Ekaterina Artemova et.al.|[2411.04032](http://arxiv.org/abs/2411.04032)|null|
 |**2024-11-06**|**Prompt Engineering Using GPT for Word-Level Code-Mixed Language Identification in Low-Resource Dravidian Languages**|Aniket Deroy et.al.|[2411.04025](http://arxiv.org/abs/2411.04025)|null|
