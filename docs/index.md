@@ -14,6 +14,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**Graph Retention Networks for Dynamic Graphs**|Qian Chang et.al.|[2411.11259](http://arxiv.org/abs/2411.11259)|null|
+|**2024-11-18**|**Relational Contrastive Learning and Masked Image Modeling for Scene Text Recognition**|Tiancheng Lin et.al.|[2411.11219](http://arxiv.org/abs/2411.11219)|**[link](https://github.com/thundervvv/rcmstr)**|
+|**2024-11-16**|**Bag of Design Choices for Inference of High-Resolution Masked Generative Transformer**|Shitong Shao et.al.|[2411.10781](http://arxiv.org/abs/2411.10781)|null|
+|**2024-11-16**|**From Prototypes to General Distributions: An Efficient Curriculum for Masked Image Modeling**|Jinhong Lin et.al.|[2411.10685](http://arxiv.org/abs/2411.10685)|null|
 |**2024-11-14**|**Masked Image Modeling Boosting Semi-Supervised Semantic Segmentation**|Yangyang Li et.al.|[2411.08756](http://arxiv.org/abs/2411.08756)|null|
 |**2024-11-06**|**Retentive Neural Quantum States: Efficient Ansätze for Ab Initio Quantum Chemistry**|Oliver Knitter et.al.|[2411.03900](http://arxiv.org/abs/2411.03900)|null|
 |**2024-10-31**|**Domain-Adaptive Pre-training of Self-Supervised Foundation Models for Medical Image Classification in Gastrointestinal Endoscopy**|Marcel Roth et.al.|[2410.21302](http://arxiv.org/abs/2410.21302)|null|
@@ -164,6 +168,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**Bi-Mamba: Towards Accurate 1-Bit State Space Models**|Shengkun Tang et.al.|[2411.11843](http://arxiv.org/abs/2411.11843)|null|
+|**2024-11-18**|**Tackling prediction tasks in relational databases with LLMs**|Marek Wydmuch et.al.|[2411.11829](http://arxiv.org/abs/2411.11829)|null|
+|**2024-11-18**|**Exploring adversarial robustness of JPEG AI: methodology, comparison and new methods**|Egor Kovalev et.al.|[2411.11795](http://arxiv.org/abs/2411.11795)|null|
+|**2024-11-18**|**LLM-IE: A Python Package for Generative Information Extraction with Large Language Models**|Enshuo Hsu et.al.|[2411.11779](http://arxiv.org/abs/2411.11779)|null|
+|**2024-11-18**|**sMoRe: Enhancing Object Manipulation and Organization in Mixed Reality Spaces with LLMs and Generative AI**|Yunhao Xing et.al.|[2411.11752](http://arxiv.org/abs/2411.11752)|null|
+|**2024-11-18**|**BitMoD: Bit-serial Mixture-of-Datatype LLM Acceleration**|Yuzong Chen et.al.|[2411.11745](http://arxiv.org/abs/2411.11745)|null|
+|**2024-11-18**|**Moral Persuasion in Large Language Models: Evaluating Susceptibility and Ethical Alignment**|Allison Huang et.al.|[2411.11731](http://arxiv.org/abs/2411.11731)|null|
+|**2024-11-18**|**Semantic-Geometric-Physical-Driven Robot Manipulation Skill Transfer via Skill Library and Tactile Representation**|Mingchao Qi et.al.|[2411.11714](http://arxiv.org/abs/2411.11714)|**[link](https://github.com/mingchaoqi/skill_transfer)**|
+|**2024-11-18**|**FedCoLLM: A Parameter-Efficient Federated Co-tuning Framework for Large and Small Language Models**|Tao Fan et.al.|[2411.11707](http://arxiv.org/abs/2411.11707)|null|
+|**2024-11-18**|**LiTformer: Efficient Modeling and Analysis of High-Speed Link Transmitters Using Non-Autoregressive Transformer**|Songyu Sun et.al.|[2411.11699](http://arxiv.org/abs/2411.11699)|null|
 |**2024-11-15**|**Enhancing the Reasoning Ability of Multimodal Large Language Models via Mixed Preference Optimization**|Weiyun Wang et.al.|[2411.10442](http://arxiv.org/abs/2411.10442)|null|
 |**2024-11-15**|**LLaVA-o1: Let Vision Language Models Reason Step-by-Step**|Guowei Xu et.al.|[2411.10440](http://arxiv.org/abs/2411.10440)|null|
 |**2024-11-15**|**MARS: Unleashing the Power of Variance Reduction for Training Large Models**|Huizhuo Yuan et.al.|[2411.10438](http://arxiv.org/abs/2411.10438)|null|
