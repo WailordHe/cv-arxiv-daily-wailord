@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.21
+## Updated on 2024.11.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,7 +20,7 @@
 |---|---|---|---|---|
 |**2024-11-18**|**Graph Retention Networks for Dynamic Graphs**|Qian Chang et.al.|[2411.11259](http://arxiv.org/abs/2411.11259)|null|
 |**2024-11-19**|**Relational Contrastive Learning and Masked Image Modeling for Scene Text Recognition**|Tiancheng Lin et.al.|[2411.11219](http://arxiv.org/abs/2411.11219)|**[link](https://github.com/thundervvv/rcmstr)**|
-|**2024-11-16**|**Bag of Design Choices for Inference of High-Resolution Masked Generative Transformer**|Shitong Shao et.al.|[2411.10781](http://arxiv.org/abs/2411.10781)|null|
+|**2024-11-16**|**Bag of Design Choices for Inference of High-Resolution Masked Generative Transformer**|Shitong Shao et.al.|[2411.10781](http://arxiv.org/abs/2411.10781)|**[link](https://github.com/xie-lab-ml/Meissonic-Inference)**|
 |**2024-11-16**|**From Prototypes to General Distributions: An Efficient Curriculum for Masked Image Modeling**|Jinhong Lin et.al.|[2411.10685](http://arxiv.org/abs/2411.10685)|null|
 |**2024-11-14**|**Masked Image Modeling Boosting Semi-Supervised Semantic Segmentation**|Yangyang Li et.al.|[2411.08756](http://arxiv.org/abs/2411.08756)|null|
 |**2024-11-06**|**Retentive Neural Quantum States: Efficient Ansätze for Ab Initio Quantum Chemistry**|Oliver Knitter et.al.|[2411.03900](http://arxiv.org/abs/2411.03900)|null|
@@ -168,7 +168,7 @@
 |**2023-09-09**|**BiLMa: Bidirectional Local-Matching for Text-based Person Re-identification**|Takuro Fujii et.al.|[2309.04675](http://arxiv.org/abs/2309.04675)|null|
 |**2023-09-08**|**AMLP:Adaptive Masking Lesion Patches for Self-supervised Medical Image Segmentation**|Xiangtao Wang et.al.|[2309.04312](http://arxiv.org/abs/2309.04312)|null|
 
-<p align=right>(<a href=#updated-on-20241121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241122>back to top</a>)</p>
 
 ## LLM
 
@@ -178,7 +178,7 @@
 |**2024-11-20**|**BALROG: Benchmarking Agentic LLM and VLM Reasoning On Games**|Davide Paglieri et.al.|[2411.13543](http://arxiv.org/abs/2411.13543)|null|
 |**2024-11-20**|**Metacognition for Unknown Situations and Environments (MUSE)**|Rodolfo Valiente et.al.|[2411.13537](http://arxiv.org/abs/2411.13537)|null|
 |**2024-11-20**|**Advancing Complex Medical Communication in Arabic with Sporo AraSum: Surpassing Existing Large Language Models**|Chanseo Lee et.al.|[2411.13518](http://arxiv.org/abs/2411.13518)|null|
-|**2024-11-20**|**Disentangling Memory and Reasoning Ability in Large Language Models**|Mingyu Jin et.al.|[2411.13504](http://arxiv.org/abs/2411.13504)|**[link](https://github.com/mingyuj666/disentangling-memory-and-reasoning)**|
+|**2024-11-21**|**Disentangling Memory and Reasoning Ability in Large Language Models**|Mingyu Jin et.al.|[2411.13504](http://arxiv.org/abs/2411.13504)|**[link](https://github.com/mingyuj666/disentangling-memory-and-reasoning)**|
 |**2024-11-20**|**Utilizing Large Language Models to Synthesize Product Desirability Datasets**|John D. Hastings et.al.|[2411.13485](http://arxiv.org/abs/2411.13485)|null|
 |**2024-11-20**|**PatentEdits: Framing Patent Novelty as Textual Entailment**|Ryan Lee et.al.|[2411.13477](http://arxiv.org/abs/2411.13477)|null|
 |**2024-11-20**|**When Precision Meets Position: BFloat16 Breaks Down RoPE in Long-Context Training**|Haonan Wang et.al.|[2411.13476](http://arxiv.org/abs/2411.13476)|**[link](https://github.com/haonan3/anchorcontext)**|
@@ -2968,7 +2968,7 @@
 |**2023-09-26**|**Fine-tuning and aligning question answering models for complex information extraction tasks**|Matthias Engelbach et.al.|[2309.14805](http://arxiv.org/abs/2309.14805)|null|
 |**2023-09-26**|**Exploring Small Language Models with Prompt-Learning Paradigm for Efficient Domain-Specific Text Classification**|Hengyu Luo et.al.|[2309.14779](http://arxiv.org/abs/2309.14779)|null|
 
-<p align=right>(<a href=#updated-on-20241121>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241122>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
