@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.08
+## Updated on 2024.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -172,7 +172,7 @@
 |**2023-09-09**|**BiLMa: Bidirectional Local-Matching for Text-based Person Re-identification**|Takuro Fujii et.al.|[2309.04675](http://arxiv.org/abs/2309.04675)|null|
 |**2023-09-08**|**AMLP:Adaptive Masking Lesion Patches for Self-supervised Medical Image Segmentation**|Xiangtao Wang et.al.|[2309.04312](http://arxiv.org/abs/2309.04312)|null|
 
-<p align=right>(<a href=#updated-on-20241208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241209>back to top</a>)</p>
 
 ## LLM
 
@@ -186,7 +186,7 @@
 |**2024-12-05**|**Grounding Descriptions in Images informs Zero-Shot Visual Recognition**|Shaunak Halbe et.al.|[2412.04429](http://arxiv.org/abs/2412.04429)|**[link](https://github.com/shaunak27/grain-clip)**|
 |**2024-12-05**|**Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion**|Jiuhai Chen et.al.|[2412.04424](http://arxiv.org/abs/2412.04424)|**[link](https://github.com/jiuhaichen/florence-vl)**|
 |**2024-12-05**|**Targeting the Core: A Simple and Effective Method to Attack RAG-based Agents via Direct LLM Manipulation**|Xuying Li et.al.|[2412.04415](http://arxiv.org/abs/2412.04415)|null|
-|**2024-12-05**|**Retrieval-Augmented Machine Translation with Unstructured Knowledge**|Jiaan Wang et.al.|[2412.04342](http://arxiv.org/abs/2412.04342)|null|
+|**2024-12-05**|**Retrieval-Augmented Machine Translation with Unstructured Knowledge**|Jiaan Wang et.al.|[2412.04342](http://arxiv.org/abs/2412.04342)|**[link](https://github.com/krystalan/RAGtrans)**|
 |**2024-12-05**|**Liquid: Language Models are Scalable Multi-modal Generators**|Junfeng Wu et.al.|[2412.04332](http://arxiv.org/abs/2412.04332)|null|
 |**2024-12-04**|**The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control**|Ruili Feng et.al.|[2412.03568](http://arxiv.org/abs/2412.03568)|null|
 |**2024-12-04**|**From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents**|Xinyi Mou et.al.|[2412.03563](http://arxiv.org/abs/2412.03563)|null|
@@ -3062,7 +3062,7 @@
 |**2023-09-26**|**Fine-tuning and aligning question answering models for complex information extraction tasks**|Matthias Engelbach et.al.|[2309.14805](http://arxiv.org/abs/2309.14805)|null|
 |**2023-09-26**|**Exploring Small Language Models with Prompt-Learning Paradigm for Efficient Domain-Specific Text Classification**|Hengyu Luo et.al.|[2309.14779](http://arxiv.org/abs/2309.14779)|null|
 
-<p align=right>(<a href=#updated-on-20241208>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241209>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

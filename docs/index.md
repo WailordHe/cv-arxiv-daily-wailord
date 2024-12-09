@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.08
+## Updated on 2024.12.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -180,7 +180,7 @@ layout: default
 |**2024-12-05**|**Grounding Descriptions in Images informs Zero-Shot Visual Recognition**|Shaunak Halbe et.al.|[2412.04429](http://arxiv.org/abs/2412.04429)|**[link](https://github.com/shaunak27/grain-clip)**|
 |**2024-12-05**|**Florence-VL: Enhancing Vision-Language Models with Generative Vision Encoder and Depth-Breadth Fusion**|Jiuhai Chen et.al.|[2412.04424](http://arxiv.org/abs/2412.04424)|**[link](https://github.com/jiuhaichen/florence-vl)**|
 |**2024-12-05**|**Targeting the Core: A Simple and Effective Method to Attack RAG-based Agents via Direct LLM Manipulation**|Xuying Li et.al.|[2412.04415](http://arxiv.org/abs/2412.04415)|null|
-|**2024-12-05**|**Retrieval-Augmented Machine Translation with Unstructured Knowledge**|Jiaan Wang et.al.|[2412.04342](http://arxiv.org/abs/2412.04342)|null|
+|**2024-12-05**|**Retrieval-Augmented Machine Translation with Unstructured Knowledge**|Jiaan Wang et.al.|[2412.04342](http://arxiv.org/abs/2412.04342)|**[link](https://github.com/krystalan/RAGtrans)**|
 |**2024-12-05**|**Liquid: Language Models are Scalable Multi-modal Generators**|Junfeng Wu et.al.|[2412.04332](http://arxiv.org/abs/2412.04332)|null|
 |**2024-12-04**|**The Matrix: Infinite-Horizon World Generation with Real-Time Moving Control**|Ruili Feng et.al.|[2412.03568](http://arxiv.org/abs/2412.03568)|null|
 |**2024-12-04**|**From Individual to Society: A Survey on Social Simulation Driven by Large Language Model-based Agents**|Xinyi Mou et.al.|[2412.03563](http://arxiv.org/abs/2412.03563)|null|
