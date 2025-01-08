@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.07
+## Updated on 2025.01.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -188,7 +188,7 @@ layout: default
 |**2025-01-06**|**Semantic Captioning: Benchmark Dataset and Graph-Aware Few-Shot In-Context Learning for SQL2Text**|Ali Al-Lawati et.al.|[2501.03166](http://arxiv.org/abs/2501.03166)|**[link](https://github.com/aliwister/ast-icl)**|
 |**2025-01-06**|**Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches**|Alhassan Mumuni et.al.|[2501.03151](http://arxiv.org/abs/2501.03151)|null|
 |**2025-01-06**|**VicSim: Enhancing Victim Simulation with Emotional and Linguistic Fidelity**|Yerong Li et.al.|[2501.03139](http://arxiv.org/abs/2501.03139)|null|
-|**2025-01-06**|**PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models**|Mingyang Song et.al.|[2501.03124](http://arxiv.org/abs/2501.03124)|null|
+|**2025-01-06**|**PRMBench: A Fine-grained and Challenging Benchmark for Process-Level Reward Models**|Mingyang Song et.al.|[2501.03124](http://arxiv.org/abs/2501.03124)|**[link](https://github.com/ssmisya/PRMBench)**|
 |**2025-01-06**|**CAT: Content-Adaptive Image Tokenization**|Junhong Shen et.al.|[2501.03120](http://arxiv.org/abs/2501.03120)|null|
 |**2025-01-06**|**LangFair: A Python Package for Assessing Bias and Fairness in Large Language Model Use Cases**|Dylan Bouchard et.al.|[2501.03112](http://arxiv.org/abs/2501.03112)|**[link](https://github.com/cvs-health/langfair)**|
 |**2025-01-03**|**VITA-1.5: Towards GPT-4o Level Real-Time Vision and Speech Interaction**|Chaoyou Fu et.al.|[2501.01957](http://arxiv.org/abs/2501.01957)|**[link](https://github.com/VITA-MLLM/VITA)**|
