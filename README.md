@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-02-19**|**SegRet: An Efficient Design for Semantic Segmentation with Retentive Network**|Zhiyuan Li et.al.|[2502.14014](http://arxiv.org/abs/2502.14014)|null|
+|**2025-02-19**|**SegRet: An Efficient Design for Semantic Segmentation with Retentive Network**|Zhiyuan Li et.al.|[2502.14014](http://arxiv.org/abs/2502.14014)|**[link](https://github.com/zhiyuanli218/segret)**|
 |**2025-02-17**|**Hyperspherical Energy Transformer with Recurrent Depth**|Yunzhe Hu et.al.|[2502.11646](http://arxiv.org/abs/2502.11646)|null|
 |**2025-02-15**|**Demographic User Modeling for Social Robotics with Multimodal Pre-trained Models**|Hamed Rahimi et.al.|[2502.10642](http://arxiv.org/abs/2502.10642)|null|
 |**2025-02-17**|**Cluster and Predict Latent Patches for Improved Masked Image Modeling**|Timothée Darcet et.al.|[2502.08769](http://arxiv.org/abs/2502.08769)|**[link](https://github.com/facebookresearch/capi)**|
@@ -198,6 +198,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-21**|**Privacy Ripple Effects from Adding or Removing Personal Information in Language Model Training**|Jaydeep Borkar et.al.|[2502.15680](http://arxiv.org/abs/2502.15680)|null|
+|**2025-02-21**|**FLEKE: Federated Locate-then-Edit Knowledge Editing**|Zongkai Zhao et.al.|[2502.15677](http://arxiv.org/abs/2502.15677)|null|
+|**2025-02-21**|**AutoToM: Automated Bayesian Inverse Planning and Model Discovery for Open-ended Theory of Mind**|Zhining Zhang et.al.|[2502.15676](http://arxiv.org/abs/2502.15676)|null|
+|**2025-02-21**|**Almost AI, Almost Human: The Challenge of Detecting AI-Polished Writing**|Shoumik Saha et.al.|[2502.15666](http://arxiv.org/abs/2502.15666)|null|
+|**2025-02-21**|**Machine-generated text detection prevents language model collapse**|George Drayson et.al.|[2502.15654](http://arxiv.org/abs/2502.15654)|null|
+|**2025-02-21**|**Empowering LLMs with Logical Reasoning: A Comprehensive Survey**|Fengxiang Cheng et.al.|[2502.15652](http://arxiv.org/abs/2502.15652)|null|
+|**2025-02-21**|**Steering into New Embedding Spaces: Analyzing Cross-Lingual Alignment Induced by Model Interventions in Multilingual Language Models**|Anirudh Sundar et.al.|[2502.15639](http://arxiv.org/abs/2502.15639)|null|
+|**2025-02-21**|**The Relationship Between Reasoning and Performance in Large Language Models -- o3 (mini) Thinks Harder, Not Longer**|Marthe Ballon et.al.|[2502.15631](http://arxiv.org/abs/2502.15631)|null|
+|**2025-02-21**|**Probe Pruning: Accelerating LLMs through Dynamic Pruning via Model-Probing**|Qi Le et.al.|[2502.15618](http://arxiv.org/abs/2502.15618)|null|
+|**2025-02-21**|**On the Robustness of Transformers against Context Hijacking for Linear Classification**|Tianle Li et.al.|[2502.15609](http://arxiv.org/abs/2502.15609)|null|
 |**2025-02-20**|**LServe: Efficient Long-sequence LLM Serving with Unified Sparse Attention**|Shang Yang et.al.|[2502.14866](http://arxiv.org/abs/2502.14866)|null|
 |**2025-02-20**|**Aligning LLMs to Ask Good Questions A Case Study in Clinical Reasoning**|Shuyue Stella Li et.al.|[2502.14860](http://arxiv.org/abs/2502.14860)|null|
 |**2025-02-20**|**FR-Spec: Accelerating Large-Vocabulary Language Models via Frequency-Ranked Speculative Sampling**|Weilin Zhao et.al.|[2502.14856](http://arxiv.org/abs/2502.14856)|null|
