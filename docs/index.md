@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**MIRAM: Masked Image Reconstruction Across Multiple Scales for Breast Lesion Risk Prediction**|Hung Q. Vo et.al.|[2503.07157](http://arxiv.org/abs/2503.07157)|null|
+|**2025-03-09**|**CLICv2: Image Complexity Representation via Content Invariance Contrastive Learning**|Shipeng Liu et.al.|[2503.06641](http://arxiv.org/abs/2503.06641)|null|
 |**2025-03-06**|**Learning 3D Medical Image Models From Brain Functional Connectivity Network Supervision For Mental Disorder Diagnosis**|Xingcan Hu et.al.|[2503.04205](http://arxiv.org/abs/2503.04205)|null|
 |**2025-03-02**|**Wavelet-Driven Masked Image Modeling: A Path to Efficient Visual Representation**|Wenzhao Xiang et.al.|[2503.00782](http://arxiv.org/abs/2503.00782)|null|
 |**2025-02-27**|**Learning Mask Invariant Mutual Information for Masked Image Modeling**|Tao Huang et.al.|[2502.19718](http://arxiv.org/abs/2502.19718)|null|
@@ -196,6 +198,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**Talking to GDELT Through Knowledge Graphs**|Audun Myers et.al.|[2503.07584](http://arxiv.org/abs/2503.07584)|null|
+|**2025-03-10**|**Junior Software Developers' Perspectives on Adopting LLMs for Software Engineering: a Systematic Literature Review**|Samuel Ferino et.al.|[2503.07556](http://arxiv.org/abs/2503.07556)|null|
+|**2025-03-10**|**KSOD: Knowledge Supplement for LLMs On Demand**|Haoran Li et.al.|[2503.07550](http://arxiv.org/abs/2503.07550)|null|
+|**2025-03-10**|**Bi-Directional Mental Model Reconciliation for Human-Robot Interaction with Large Language Models**|Nina Moorman et.al.|[2503.07547](http://arxiv.org/abs/2503.07547)|null|
+|**2025-03-10**|**Queueing, Predictions, and LLMs: Challenges and Open Problems**|Michael Mitzenmacher et.al.|[2503.07545](http://arxiv.org/abs/2503.07545)|null|
+|**2025-03-10**|**XIFBench: Evaluating Large Language Models on Multilingual Instruction Following**|Zhenyu Li et.al.|[2503.07539](http://arxiv.org/abs/2503.07539)|null|
+|**2025-03-10**|**TokenButler: Token Importance is Predictable**|Yash Akhauri et.al.|[2503.07518](http://arxiv.org/abs/2503.07518)|null|
+|**2025-03-10**|**Language Models Fail to Introspect About Their Knowledge of Language**|Siyuan Song et.al.|[2503.07513](http://arxiv.org/abs/2503.07513)|null|
+|**2025-03-10**|**Plume: Scaffolding Text Composition in Dashboards**|Maxim Lisnic et.al.|[2503.07512](http://arxiv.org/abs/2503.07512)|null|
+|**2025-03-10**|**Sometimes the Model doth Preach: Quantifying Religious Bias in Open LLMs through Demographic Analysis in Asian Nations**|Hari Shankar et.al.|[2503.07510](http://arxiv.org/abs/2503.07510)|null|
 |**2025-03-07**|**Understanding the Limits of Lifelong Knowledge Editing in LLMs**|Lukas Thede et.al.|[2503.05683](http://arxiv.org/abs/2503.05683)|null|
 |**2025-03-07**|**A Survey of Large Language Model Empowered Agents for Recommendation and Search: Towards Next-Generation Information Retrieval**|Yu Zhang et.al.|[2503.05659](http://arxiv.org/abs/2503.05659)|null|
 |**2025-03-07**|**Learning LLM Preference over Intra-Dialogue Pairs: A Framework for Utterance-level Understandings**|Xuanqing Liu et.al.|[2503.05620](http://arxiv.org/abs/2503.05620)|null|
