@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**SelfMedHPM: Self Pre-training With Hard Patches Mining Masked Autoencoders For Medical Image Segmentation**|Yunhao Lv et.al.|[2504.02524](http://arxiv.org/abs/2504.02524)|null|
 |**2025-04-01**|**MergeVQ: A Unified Framework for Visual Generation and Representation with Disentangled Token Merging and Quantization**|Siyuan Li et.al.|[2504.00999](http://arxiv.org/abs/2504.00999)|null|
 |**2025-03-27**|**Harmonizing Visual Representations for Unified Multimodal Understanding and Generation**|Size Wu et.al.|[2503.21979](http://arxiv.org/abs/2503.21979)|**[link](https://github.com/wusize/harmon)**|
 |**2025-03-24**|**Linguistics-aware Masked Image Modeling for Self-supervised Scene Text Recognition**|Yifei Zhang et.al.|[2503.18746](http://arxiv.org/abs/2503.18746)|**[link](https://github.com/zhangyifei01/LMIM)**|
@@ -204,6 +205,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models**|Mateusz Pach et.al.|[2504.02821](http://arxiv.org/abs/2504.02821)|null|
+|**2025-04-03**|**Generative Evaluation of Complex Reasoning in Large Language Models**|Haowei Lin et.al.|[2504.02810](http://arxiv.org/abs/2504.02810)|null|
+|**2025-04-03**|**MegaMath: Pushing the Limits of Open Math Corpora**|Fan Zhou et.al.|[2504.02807](http://arxiv.org/abs/2504.02807)|null|
+|**2025-04-03**|**A Survey of Large Language Models in Mental Health Disorder Detection on Social Media**|Zhuohan Ge et.al.|[2504.02800](http://arxiv.org/abs/2504.02800)|null|
+|**2025-04-03**|**A Framework for Robust Cognitive Evaluation of LLMs**|Karin de Langis et.al.|[2504.02789](http://arxiv.org/abs/2504.02789)|null|
+|**2025-04-03**|**From Consumption to Collaboration: Measuring Interaction Patterns to Augment Human Cognition in Open-Ended Tasks**|Joshua Holstein et.al.|[2504.02780](http://arxiv.org/abs/2504.02780)|null|
+|**2025-04-03**|**BT-ACTION: A Test-Driven Approach for Modular Understanding of User Instruction Leveraging Behaviour Trees and LLMs**|Alexander Leszczynski et.al.|[2504.02779](http://arxiv.org/abs/2504.02779)|null|
+|**2025-04-03**|**How Deep Do Large Language Models Internalize Scientific Literature and Citation Practices?**|Andres Algaba et.al.|[2504.02767](http://arxiv.org/abs/2504.02767)|null|
+|**2025-04-03**|**Enhancing LLM Robustness to Perturbed Instructions: An Empirical Study**|Aryan Agrawal et.al.|[2504.02733](http://arxiv.org/abs/2504.02733)|null|
+|**2025-04-03**|**Why do LLMs attend to the first token?**|Federico Barbero et.al.|[2504.02732](http://arxiv.org/abs/2504.02732)|null|
 |**2025-04-02**|**Towards Unified Referring Expression Segmentation Across Omni-Level Visual Target Granularities**|Jing Liu et.al.|[2504.01954](http://arxiv.org/abs/2504.01954)|null|
 |**2025-04-02**|**The LLM Wears Prada: Analysing Gender Bias and Stereotypes through Online Shopping Data**|Massimiliano Luca et.al.|[2504.01951](http://arxiv.org/abs/2504.01951)|null|
 |**2025-04-02**|**OpenCodeReasoning: Advancing Data Distillation for Competitive Coding**|Wasi Uddin Ahmad et.al.|[2504.01943](http://arxiv.org/abs/2504.01943)|null|
