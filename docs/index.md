@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**MIMRS: A Survey on Masked Image Modeling in Remote Sensing**|Shabnam Choudhury et.al.|[2504.03181](http://arxiv.org/abs/2504.03181)|null|
 |**2025-04-03**|**SelfMedHPM: Self Pre-training With Hard Patches Mining Masked Autoencoders For Medical Image Segmentation**|Yunhao Lv et.al.|[2504.02524](http://arxiv.org/abs/2504.02524)|null|
 |**2025-04-01**|**MergeVQ: A Unified Framework for Visual Generation and Representation with Disentangled Token Merging and Quantization**|Siyuan Li et.al.|[2504.00999](http://arxiv.org/abs/2504.00999)|null|
 |**2025-03-27**|**Harmonizing Visual Representations for Unified Multimodal Understanding and Generation**|Size Wu et.al.|[2503.21979](http://arxiv.org/abs/2503.21979)|**[link](https://github.com/wusize/harmon)**|
@@ -205,6 +206,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-04**|**Do Larger Language Models Imply Better Reasoning? A Pretraining Scaling Law for Reasoning**|Xinyi Wang et.al.|[2504.03635](http://arxiv.org/abs/2504.03635)|null|
+|**2025-04-04**|**Align to Structure: Aligning Large Language Models with Structural Information**|Zae Myung Kim et.al.|[2504.03622](http://arxiv.org/abs/2504.03622)|null|
+|**2025-04-04**|**VISTA-OCR: Towards generative and interactive end to end OCR models**|Laziz Hamdi et.al.|[2504.03621](http://arxiv.org/abs/2504.03621)|null|
+|**2025-04-04**|**Multilingual Retrieval-Augmented Generation for Knowledge-Intensive Task**|Leonardo Ranaldi et.al.|[2504.03616](http://arxiv.org/abs/2504.03616)|null|
+|**2025-04-04**|**AIR: A Systematic Analysis of Annotations, Instructions, and Response Pairs in Preference Dataset**|Bingxiang He et.al.|[2504.03612](http://arxiv.org/abs/2504.03612)|null|
+|**2025-04-04**|**EnrichIndex: Using LLMs to Enrich Retrieval Indices Offline**|Peter Baile Chen et.al.|[2504.03598](http://arxiv.org/abs/2504.03598)|null|
+|**2025-04-04**|**Agentic Knowledgeable Self-awareness**|Shuofei Qiao et.al.|[2504.03553](http://arxiv.org/abs/2504.03553)|null|
+|**2025-04-04**|**Neutralizing the Narrative: AI-Powered Debiasing of Online News Articles**|Chen Wei Kuo et.al.|[2504.03520](http://arxiv.org/abs/2504.03520)|null|
+|**2025-04-04**|**LLMSched: Uncertainty-Aware Workload Scheduling for Compound LLM Applications**|Botao Zhu et.al.|[2504.03444](http://arxiv.org/abs/2504.03444)|null|
+|**2025-04-04**|**Know What You do Not Know: Verbalized Uncertainty Estimation Robustness on Corrupted Images in Vision-Language Models**|Mirko Borszukovszki et.al.|[2504.03440](http://arxiv.org/abs/2504.03440)|null|
 |**2025-04-03**|**Sparse Autoencoders Learn Monosemantic Features in Vision-Language Models**|Mateusz Pach et.al.|[2504.02821](http://arxiv.org/abs/2504.02821)|null|
 |**2025-04-03**|**Generative Evaluation of Complex Reasoning in Large Language Models**|Haowei Lin et.al.|[2504.02810](http://arxiv.org/abs/2504.02810)|null|
 |**2025-04-03**|**MegaMath: Pushing the Limits of Open Math Corpora**|Fan Zhou et.al.|[2504.02807](http://arxiv.org/abs/2504.02807)|null|
