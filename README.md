@@ -216,6 +216,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**IberBench: LLM Evaluation on Iberian Languages**|José Ángel González et.al.|[2504.16921](http://arxiv.org/abs/2504.16921)|null|
+|**2025-04-23**|**Do Large Language Models know who did what to whom?**|Joseph M. Denning et.al.|[2504.16884](http://arxiv.org/abs/2504.16884)|null|
+|**2025-04-23**|**Enhancing Critical Thinking with AI: A Tailored Warning System for RAG Models**|Xuyang Zhu et.al.|[2504.16883](http://arxiv.org/abs/2504.16883)|null|
+|**2025-04-23**|**Context-Enhanced Vulnerability Detection Based on Large Language Model**|Yixin Yang et.al.|[2504.16877](http://arxiv.org/abs/2504.16877)|null|
+|**2025-04-23**|**New Primal-Dual Algorithm for Convex Problems**|Shuning Liu et.al.|[2504.16876](http://arxiv.org/abs/2504.16876)|null|
+|**2025-04-23**|**Exploring How LLMs Capture and Represent Domain-Specific Knowledge**|Mirian Hipolito Garcia et.al.|[2504.16871](http://arxiv.org/abs/2504.16871)|null|
+|**2025-04-23**|**Emo Pillars: Knowledge Distillation to Support Fine-Grained Context-Aware and Context-Less Emotion Classification**|Alexander Shvets et.al.|[2504.16856](http://arxiv.org/abs/2504.16856)|null|
+|**2025-04-23**|**Monte Carlo Planning with Large Language Model for Text-Based Game Agents**|Zijing Shi et.al.|[2504.16855](http://arxiv.org/abs/2504.16855)|null|
+|**2025-04-23**|**Improving Significant Wave Height Prediction Using Chronos Models**|Yilin Zhai et.al.|[2504.16834](http://arxiv.org/abs/2504.16834)|null|
+|**2025-04-23**|**LRASGen: LLM-based RESTful API Specification Generation**|Sida Deng et.al.|[2504.16833](http://arxiv.org/abs/2504.16833)|null|
 |**2025-04-22**|**TTRL: Test-Time Reinforcement Learning**|Yuxin Zuo et.al.|[2504.16084](http://arxiv.org/abs/2504.16084)|null|
 |**2025-04-22**|**From Reflection to Perfection: Scaling Inference-Time Optimization for Text-to-Image Diffusion Models via Reflection Tuning**|Le Zhuo et.al.|[2504.16080](http://arxiv.org/abs/2504.16080)|null|
 |**2025-04-22**|**LLMs are Greedy Agents: Effects of RL Fine-tuning on Decision-Making Abilities**|Thomas Schmied et.al.|[2504.16078](http://arxiv.org/abs/2504.16078)|null|
