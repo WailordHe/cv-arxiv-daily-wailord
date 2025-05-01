@@ -216,6 +216,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-30**|**TRUST: An LLM-Based Dialogue System for Trauma Understanding and Structured Assessments**|Sichang Tu et.al.|[2504.21851](http://arxiv.org/abs/2504.21851)|null|
+|**2025-04-30**|**COMPACT: COMPositional Atomic-to-Complex Visual Capability Tuning**|Xindi Wu et.al.|[2504.21850](http://arxiv.org/abs/2504.21850)|null|
+|**2025-04-30**|**An Empirical Study on the Effectiveness of Large Language Models for Binary Code Understanding**|Xiuwei Shang et.al.|[2504.21803](http://arxiv.org/abs/2504.21803)|null|
+|**2025-04-30**|**DeepSeek-Prover-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition**|Z. Z. Ren et.al.|[2504.21801](http://arxiv.org/abs/2504.21801)|null|
+|**2025-04-30**|**MAC-Tuning: LLM Multi-Compositional Problem Reasoning with Enhanced Knowledge Boundary Awareness**|Junsheng Huang et.al.|[2504.21773](http://arxiv.org/abs/2504.21773)|null|
+|**2025-04-30**|**LASHED: LLMs And Static Hardware Analysis for Early Detection of RTL Bugs**|Baleegh Ahmad et.al.|[2504.21770](http://arxiv.org/abs/2504.21770)|null|
+|**2025-04-30**|**LLM-based Interactive Imitation Learning for Robotic Manipulation**|Jonas Werner et.al.|[2504.21769](http://arxiv.org/abs/2504.21769)|null|
+|**2025-04-30**|**Investigating Literary Motifs in Ancient and Medieval Novels with Large Language Models**|Emelie Hallenberg et.al.|[2504.21742](http://arxiv.org/abs/2504.21742)|null|
+|**2025-04-30**|**TheraQuest: A Gamified, LLM-Powered Simulation for Massage Therapy Training**|Shengqian Wang et.al.|[2504.21735](http://arxiv.org/abs/2504.21735)|null|
+|**2025-04-30**|**VividListener: Expressive and Controllable Listener Dynamics Modeling for Multi-Modal Responsive Interaction**|Shiying Li et.al.|[2504.21718](http://arxiv.org/abs/2504.21718)|null|
 |**2025-04-29**|**Toward Efficient Exploration by Large Language Model Agents**|Dilip Arumugam et.al.|[2504.20997](http://arxiv.org/abs/2504.20997)|null|
 |**2025-04-29**|**X-Fusion: Introducing New Modality to Frozen Large Language Models**|Sicheng Mo et.al.|[2504.20996](http://arxiv.org/abs/2504.20996)|null|
 |**2025-04-29**|**ACE: A Security Architecture for LLM-Integrated App Systems**|Evan Li et.al.|[2504.20984](http://arxiv.org/abs/2504.20984)|null|
