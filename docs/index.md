@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -220,7 +220,7 @@ layout: default
 |**2025-05-09**|**A Scaling Law for Token Efficiency in LLM Fine-Tuning Under Fixed Compute Budgets**|Ryan Lagasse et.al.|[2505.06150](http://arxiv.org/abs/2505.06150)|null|
 |**2025-05-09**|**Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot and Few-shot Study**|Faeze Ghorbanpour et.al.|[2505.06149](http://arxiv.org/abs/2505.06149)|null|
 |**2025-05-09**|**LLMs Get Lost In Multi-Turn Conversation**|Philippe Laban et.al.|[2505.06120](http://arxiv.org/abs/2505.06120)|**[link](https://github.com/microsoft/lost_in_conversation)**|
-|**2025-05-09**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108](http://arxiv.org/abs/2505.06108)|null|
+|**2025-05-12**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108](http://arxiv.org/abs/2505.06108)|null|
 |**2025-05-09**|**Free and Fair Hardware: A Pathway to Copyright Infringement-Free Verilog Generation using LLMs**|Sam Bush et.al.|[2505.06096](http://arxiv.org/abs/2505.06096)|null|
 |**2025-05-09**|**Assessing Tenstorrent's RISC-V MatMul Acceleration Capabilities**|Hiari Pizzini Cavagna et.al.|[2505.06085](http://arxiv.org/abs/2505.06085)|null|
 |**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469](http://arxiv.org/abs/2505.05469)|**[link](https://github.com/AvaLovelace1/LegoGPT)**|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.12
+## Updated on 2025.05.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -213,7 +213,7 @@
 |**2023-09-09**|**BiLMa: Bidirectional Local-Matching for Text-based Person Re-identification**|Takuro Fujii et.al.|[2309.04675](http://arxiv.org/abs/2309.04675)|null|
 |**2023-09-08**|**AMLP:Adaptive Masking Lesion Patches for Self-supervised Medical Image Segmentation**|Xiangtao Wang et.al.|[2309.04312](http://arxiv.org/abs/2309.04312)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 ## LLM
 
@@ -226,7 +226,7 @@
 |**2025-05-09**|**A Scaling Law for Token Efficiency in LLM Fine-Tuning Under Fixed Compute Budgets**|Ryan Lagasse et.al.|[2505.06150](http://arxiv.org/abs/2505.06150)|null|
 |**2025-05-09**|**Can Prompting LLMs Unlock Hate Speech Detection across Languages? A Zero-shot and Few-shot Study**|Faeze Ghorbanpour et.al.|[2505.06149](http://arxiv.org/abs/2505.06149)|null|
 |**2025-05-09**|**LLMs Get Lost In Multi-Turn Conversation**|Philippe Laban et.al.|[2505.06120](http://arxiv.org/abs/2505.06120)|**[link](https://github.com/microsoft/lost_in_conversation)**|
-|**2025-05-09**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108](http://arxiv.org/abs/2505.06108)|null|
+|**2025-05-12**|**LLMs Outperform Experts on Challenging Biology Benchmarks**|Lennart Justen et.al.|[2505.06108](http://arxiv.org/abs/2505.06108)|null|
 |**2025-05-09**|**Free and Fair Hardware: A Pathway to Copyright Infringement-Free Verilog Generation using LLMs**|Sam Bush et.al.|[2505.06096](http://arxiv.org/abs/2505.06096)|null|
 |**2025-05-09**|**Assessing Tenstorrent's RISC-V MatMul Acceleration Capabilities**|Hiari Pizzini Cavagna et.al.|[2505.06085](http://arxiv.org/abs/2505.06085)|null|
 |**2025-05-08**|**Generating Physically Stable and Buildable LEGO Designs from Text**|Ava Pun et.al.|[2505.05469](http://arxiv.org/abs/2505.05469)|**[link](https://github.com/AvaLovelace1/LegoGPT)**|
@@ -4143,7 +4143,7 @@
 |**2023-09-26**|**Fine-tuning and aligning question answering models for complex information extraction tasks**|Matthias Engelbach et.al.|[2309.14805](http://arxiv.org/abs/2309.14805)|null|
 |**2023-09-26**|**Exploring Small Language Models with Prompt-Learning Paradigm for Efficient Domain-Specific Text Classification**|Hengyu Luo et.al.|[2309.14779](http://arxiv.org/abs/2309.14779)|null|
 
-<p align=right>(<a href=#updated-on-20250512>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250513>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
