@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Self-Organizing Visual Prototypes for Non-Parametric Representation Learning**|Thalles Silva et.al.|[2505.21533](http://arxiv.org/abs/2505.21533)|null|
 |**2025-05-22**|**REOBench: Benchmarking Robustness of Earth Observation Foundation Models**|Xiang Li et.al.|[2505.16793](http://arxiv.org/abs/2505.16793)|**[link](https://github.com/lx709/reobench)**|
 |**2025-05-22**|**Temporal and Spatial Feature Fusion Framework for Dynamic Micro Expression Recognition**|Feng Liu et.al.|[2505.16372](http://arxiv.org/abs/2505.16372)|null|
 |**2025-05-15**|**A Unified and Scalable Membership Inference Method for Visual Self-supervised Encoder via Part-aware Capability**|Jie Zhu et.al.|[2505.10351](http://arxiv.org/abs/2505.10351)|**[link](https://github.com/jiepku/partcrop)**|
@@ -219,6 +220,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-28**|**Zero-Shot Vision Encoder Grafting via LLM Surrogates**|Kaiyu Yue et.al.|[2505.22664](http://arxiv.org/abs/2505.22664)|**[link](https://github.com/facebookresearch/zero)**|
+|**2025-05-28**|**AutoL2S: Auto Long-Short Reasoning for Efficient Large Language Models**|Feng Luo et.al.|[2505.22662](http://arxiv.org/abs/2505.22662)|null|
+|**2025-05-28**|**GuessArena: Guess Who I Am? A Self-Adaptive Framework for Evaluating LLMs in Domain-Specific Knowledge and Reasoning**|Qingchen Yu et.al.|[2505.22661](http://arxiv.org/abs/2505.22661)|null|
+|**2025-05-28**|**3DLLM-Mem: Long-Term Spatial-Temporal Memory for Embodied 3D Large Language Model**|Wenbo Hu et.al.|[2505.22657](http://arxiv.org/abs/2505.22657)|null|
+|**2025-05-28**|**Position: Uncertainty Quantification Needs Reassessment for Large-language Model Agents**|Michael Kirchhof et.al.|[2505.22655](http://arxiv.org/abs/2505.22655)|null|
+|**2025-05-28**|**The Climb Carves Wisdom Deeper Than the Summit: On the Noisy Rewards in Learning to Reason**|Ang Lv et.al.|[2505.22653](http://arxiv.org/abs/2505.22653)|null|
+|**2025-05-28**|**Characterizing Bias: Benchmarking Large Language Models in Simplified versus Traditional Chinese**|Hanjia Lyu et.al.|[2505.22645](http://arxiv.org/abs/2505.22645)|null|
+|**2025-05-28**|**Learning Composable Chains-of-Thought**|Fangcong Yin et.al.|[2505.22635](http://arxiv.org/abs/2505.22635)|null|
+|**2025-05-28**|**Spatial Knowledge Graph-Guided Multimodal Synthesis**|Yida Xue et.al.|[2505.22633](http://arxiv.org/abs/2505.22633)|null|
+|**2025-05-28**|**Stochastic Chameleons: Irrelevant Context Hallucinations Reveal Class-Based (Mis)Generalization in LLMs**|Ziling Cheng et.al.|[2505.22630](http://arxiv.org/abs/2505.22630)|null|
 |**2025-05-27**|**Silence is Not Consensus: Disrupting Agreement Bias in Multi-Agent LLMs via Catfish Agent for Clinical Decision Making**|Yihan Wang et.al.|[2505.21503](http://arxiv.org/abs/2505.21503)|null|
 |**2025-05-27**|**Adversarial Attacks against Closed-Source MLLMs via Feature Optimal Alignment**|Xiaojun Jia et.al.|[2505.21494](http://arxiv.org/abs/2505.21494)|null|
 |**2025-05-27**|**Reinforcing General Reasoning without Verifiers**|Xiangxin Zhou et.al.|[2505.21493](http://arxiv.org/abs/2505.21493)|null|
