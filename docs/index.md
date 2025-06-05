@@ -222,6 +222,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Language-Image Alignment with Fixed Text Encoders**|Jingfeng Yang et.al.|[2506.04209](http://arxiv.org/abs/2506.04209)|null|
+|**2025-06-04**|**Advancing Multimodal Reasoning: From Optimized Cold Start to Staged Reinforcement Learning**|Shuang Chen et.al.|[2506.04207](http://arxiv.org/abs/2506.04207)|null|
+|**2025-06-04**|**EPiC: Towards Lossless Speedup for Reasoning Training through Edge-Preserving CoT Condensation**|Jinghan Jia et.al.|[2506.04205](http://arxiv.org/abs/2506.04205)|null|
+|**2025-06-04**|**Cascadia: A Cascade Serving System for Large Language Models**|Youhe Jiang et.al.|[2506.04203](http://arxiv.org/abs/2506.04203)|null|
+|**2025-06-04**|**TracLLM: A Generic Framework for Attributing Long Context LLMs**|Yanting Wang et.al.|[2506.04202](http://arxiv.org/abs/2506.04202)|null|
+|**2025-06-04**|**R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning**|Qingfei Zhao et.al.|[2506.04185](http://arxiv.org/abs/2506.04185)|null|
+|**2025-06-04**|**SuperWriter: Reflection-Driven Long-Form Generation with Large Language Models**|Yuhao Wu et.al.|[2506.04180](http://arxiv.org/abs/2506.04180)|null|
+|**2025-06-04**|**SkipGPT: Dynamic Layer Pruning Reinvented with Token Awareness and Module Decoupling**|Anhao Zhao et.al.|[2506.04179](http://arxiv.org/abs/2506.04179)|null|
+|**2025-06-04**|**Does Prompt Design Impact Quality of Data Imputation by LLMs?**|Shreenidhi Srinivasan et.al.|[2506.04172](http://arxiv.org/abs/2506.04172)|null|
+|**2025-06-04**|**VISCA: Inferring Component Abstractions for Automated End-to-End Testing**|Parsa Alian et.al.|[2506.04161](http://arxiv.org/abs/2506.04161)|null|
 |**2025-06-03**|**Entity-Augmented Neuroscience Knowledge Retrieval Using Ontology and Semantic Understanding Capability of LLM**|Pralaypati Ta et.al.|[2506.03145](http://arxiv.org/abs/2506.03145)|null|
 |**2025-06-03**|**Not All Tokens Are Meant to Be Forgotten**|Xiangyu Zhou et.al.|[2506.03142](http://arxiv.org/abs/2506.03142)|null|
 |**2025-06-03**|**SVGenius: Benchmarking LLMs in SVG Understanding, Editing and Generation**|Siqi Chen et.al.|[2506.03139](http://arxiv.org/abs/2506.03139)|null|
