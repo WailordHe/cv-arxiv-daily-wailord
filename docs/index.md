@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Computer Vision
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-05-31**|**A New Spatiotemporal Correlation Anomaly Detection Method that Integrates Contrastive Learning and Few-Shot Learning in Wireless Sensor Networks**|Miao Ye et.al.|[2506.00420](http://arxiv.org/abs/2506.00420)|null|
-|**2025-05-30**|**Logits-Based Finetuning**|Jingyao Li et.al.|[2505.24461](http://arxiv.org/abs/2505.24461)|null|
+|**2025-05-30**|**Logits-Based Finetuning**|Jingyao Li et.al.|[2505.24461](http://arxiv.org/abs/2505.24461)|**[link](https://github.com/dvlab-research/logits-based-finetuning)**|
 |**2025-05-23**|**Self-Organizing Visual Prototypes for Non-Parametric Representation Learning**|Thalles Silva et.al.|[2505.21533](http://arxiv.org/abs/2505.21533)|null|
 |**2025-05-22**|**REOBench: Benchmarking Robustness of Earth Observation Foundation Models**|Xiang Li et.al.|[2505.16793](http://arxiv.org/abs/2505.16793)|**[link](https://github.com/lx709/reobench)**|
 |**2025-05-22**|**Temporal and Spatial Feature Fusion Framework for Dynamic Micro Expression Recognition**|Feng Liu et.al.|[2505.16372](http://arxiv.org/abs/2505.16372)|null|
@@ -225,7 +225,7 @@ layout: default
 |**2025-06-06**|**Eigenspectrum Analysis of Neural Networks without Aspect Ratio Bias**|Yuanzhe Hu et.al.|[2506.06280](http://arxiv.org/abs/2506.06280)|null|
 |**2025-06-06**|**CoMemo: LVLMs Need Image Context with Image Memory**|Shi Liu et.al.|[2506.06279](http://arxiv.org/abs/2506.06279)|null|
 |**2025-06-06**|**AdvSumm: Adversarial Training for Bias Mitigation in Text Summarization**|Mukur Gupta et.al.|[2506.06273](http://arxiv.org/abs/2506.06273)|null|
-|**2025-06-06**|**Cartridges: Lightweight and general-purpose long context representations via self-study**|Sabri Eyuboglu et.al.|[2506.06266](http://arxiv.org/abs/2506.06266)|null|
+|**2025-06-09**|**Cartridges: Lightweight and general-purpose long context representations via self-study**|Sabri Eyuboglu et.al.|[2506.06266](http://arxiv.org/abs/2506.06266)|null|
 |**2025-06-06**|**PersonaAgent: When Large Language Model Agents Meet Personalization at Test Time**|Weizhi Zhang et.al.|[2506.06254](http://arxiv.org/abs/2506.06254)|null|
 |**2025-06-06**|**DesignBench: A Comprehensive Benchmark for MLLM-based Front-end Code Generation**|Jingyu Xiao et.al.|[2506.06251](http://arxiv.org/abs/2506.06251)|null|
 |**2025-06-06**|**Visual Graph Arena: Evaluating Visual Conceptualization of Vision and Multimodal Large Language Models**|Zahra Babaiee et.al.|[2506.06242](http://arxiv.org/abs/2506.06242)|null|
