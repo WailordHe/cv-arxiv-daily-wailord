@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.16
+## Updated on 2025.06.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-06-11**|**Attention, Please! Revisiting Attentive Probing for Masked Image Modeling**|Bill Psomas et.al.|[2506.10178](http://arxiv.org/abs/2506.10178)|null|
+|**2025-06-11**|**Attention, Please! Revisiting Attentive Probing for Masked Image Modeling**|Bill Psomas et.al.|[2506.10178](http://arxiv.org/abs/2506.10178)|**[link](https://github.com/billpsomas/efficient-probing)**|
 |**2025-06-07**|**A Survey of Retentive Network**|Haiqi Yang et.al.|[2506.06708](http://arxiv.org/abs/2506.06708)|null|
 |**2025-05-31**|**A New Spatiotemporal Correlation Anomaly Detection Method that Integrates Contrastive Learning and Few-Shot Learning in Wireless Sensor Networks**|Miao Ye et.al.|[2506.00420](http://arxiv.org/abs/2506.00420)|null|
 |**2025-05-30**|**Logits-Based Finetuning**|Jingyao Li et.al.|[2505.24461](http://arxiv.org/abs/2505.24461)|**[link](https://github.com/dvlab-research/logits-based-finetuning)**|
@@ -224,7 +224,7 @@
 |**2023-09-09**|**BiLMa: Bidirectional Local-Matching for Text-based Person Re-identification**|Takuro Fujii et.al.|[2309.04675](http://arxiv.org/abs/2309.04675)|null|
 |**2023-09-08**|**AMLP:Adaptive Masking Lesion Patches for Self-supervised Medical Image Segmentation**|Xiangtao Wang et.al.|[2309.04312](http://arxiv.org/abs/2309.04312)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 ## LLM
 
@@ -232,7 +232,7 @@
 |---|---|---|---|---|
 |**2025-06-13**|**code_transformed: The Influence of Large Language Models on Code**|Yuliang Xu et.al.|[2506.12014](http://arxiv.org/abs/2506.12014)|null|
 |**2025-06-13**|**Tracing LLM Reasoning Processes with Strategic Games: A Framework for Planning, Revision, and Resource-Constrained Decision Making**|Xiaopeng Yuan et.al.|[2506.12012](http://arxiv.org/abs/2506.12012)|null|
-|**2025-06-13**|**VGR: Visual Grounded Reasoning**|Jiacong Wang et.al.|[2506.11991](http://arxiv.org/abs/2506.11991)|null|
+|**2025-06-16**|**VGR: Visual Grounded Reasoning**|Jiacong Wang et.al.|[2506.11991](http://arxiv.org/abs/2506.11991)|null|
 |**2025-06-13**|**How Visual Representations Map to Language Feature Space in Multimodal LLMs**|Constantin Venhoff et.al.|[2506.11976](http://arxiv.org/abs/2506.11976)|null|
 |**2025-06-13**|**Improving Large Language Model Safety with Contrastive Representation Learning**|Samuel Simko et.al.|[2506.11938](http://arxiv.org/abs/2506.11938)|null|
 |**2025-06-13**|**LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?**|Zihan Zheng et.al.|[2506.11928](http://arxiv.org/abs/2506.11928)|null|
@@ -4384,7 +4384,7 @@
 |**2023-09-26**|**Fine-tuning and aligning question answering models for complex information extraction tasks**|Matthias Engelbach et.al.|[2309.14805](http://arxiv.org/abs/2309.14805)|null|
 |**2023-09-26**|**Exploring Small Language Models with Prompt-Learning Paradigm for Efficient Domain-Specific Text Classification**|Hengyu Luo et.al.|[2309.14779](http://arxiv.org/abs/2309.14779)|null|
 
-<p align=right>(<a href=#updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250617>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
