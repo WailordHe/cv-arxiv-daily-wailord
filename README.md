@@ -231,6 +231,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-23**|**Vision as a Dialect: Unifying Visual Understanding and Generation via Text-Aligned Representations**|Jiaming Han et.al.|[2506.18898](http://arxiv.org/abs/2506.18898)|null|
+|**2025-06-23**|**ReasonFlux-PRM: Trajectory-Aware PRMs for Long Chain-of-Thought Reasoning in LLMs**|Jiaru Zou et.al.|[2506.18896](http://arxiv.org/abs/2506.18896)|null|
+|**2025-06-23**|**Universal Video Temporal Grounding with Generative Multi-modal Large Language Models**|Zeqian Li et.al.|[2506.18883](http://arxiv.org/abs/2506.18883)|null|
+|**2025-06-23**|**CommVQ: Commutative Vector Quantization for KV Cache Compression**|Junyan Li et.al.|[2506.18879](http://arxiv.org/abs/2506.18879)|null|
+|**2025-06-23**|**TAMMs: Temporal-Aware Multimodal Model for Satellite Image Change Understanding and Forecasting**|Zhongbin Guo et.al.|[2506.18862](http://arxiv.org/abs/2506.18862)|null|
+|**2025-06-23**|**LongWriter-Zero: Mastering Ultra-Long Text Generation via Reinforcement Learning**|Yuhao Wu et.al.|[2506.18841](http://arxiv.org/abs/2506.18841)|null|
+|**2025-06-23**|**STU-PID: Steering Token Usage via PID Controller for Efficient Large Language Model Reasoning**|Aryasomayajula Ram Bharadwaj et.al.|[2506.18831](http://arxiv.org/abs/2506.18831)|null|
+|**2025-06-23**|**Understanding Software Engineering Agents: A Study of Thought-Action-Result Trajectories**|Islem Bouzenia et.al.|[2506.18824](http://arxiv.org/abs/2506.18824)|null|
+|**2025-06-23**|**RWESummary: A Framework and Test for Choosing Large Language Models to Summarize Real-World Evidence (RWE) Studies**|Arjun Mukerji et.al.|[2506.18819](http://arxiv.org/abs/2506.18819)|null|
+|**2025-06-23**|**Context-Aware CodeLLM Eviction for AI-assisted Coding**|Kishanthan Thangarajah et.al.|[2506.18796](http://arxiv.org/abs/2506.18796)|null|
 |**2025-06-20**|**VLN-R1: Vision-Language Navigation via Reinforcement Fine-Tuning**|Zhangyang Qi et.al.|[2506.17221](http://arxiv.org/abs/2506.17221)|null|
 |**2025-06-20**|**No Free Lunch: Rethinking Internal Feedback for LLM Reasoning**|Yanzhi Zhang et.al.|[2506.17219](http://arxiv.org/abs/2506.17219)|null|
 |**2025-06-20**|**Fine-Tuning Lowers Safety and Disrupts Evaluation Consistency**|Kathleen C. Fraser et.al.|[2506.17209](http://arxiv.org/abs/2506.17209)|null|
