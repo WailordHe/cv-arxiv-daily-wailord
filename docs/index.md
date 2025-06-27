@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Boosting Generative Adversarial Transferability with Self-supervised Vision Transformer Features**|Shangbo Wu et.al.|[2506.21046](http://arxiv.org/abs/2506.21046)|null|
 |**2025-06-25**|**AdvMIM: Adversarial Masked Image Modeling for Semi-Supervised Medical Image Segmentation**|Lei Zhu et.al.|[2506.20563](http://arxiv.org/abs/2506.20563)|null|
 |**2025-06-15**|**HyRet-Change: A hybrid retentive network for remote sensing change detection**|Mustansar Fiaz et.al.|[2506.12836](http://arxiv.org/abs/2506.12836)|null|
 |**2025-06-11**|**Attention, Please! Revisiting Attentive Probing for Masked Image Modeling**|Bill Psomas et.al.|[2506.10178](http://arxiv.org/abs/2506.10178)|**[link](https://github.com/billpsomas/efficient-probing)**|
@@ -226,6 +227,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-26**|**Where to find Grokking in LLM Pretraining? Monitor Memorization-to-Generalization without Test**|Ziyue Li et.al.|[2506.21551](http://arxiv.org/abs/2506.21551)|null|
+|**2025-06-26**|**mTSBench: Benchmarking Multivariate Time Series Anomaly Detection and Model Selection at Scale**|Xiaona Zhou et.al.|[2506.21550](http://arxiv.org/abs/2506.21550)|null|
+|**2025-06-26**|**StruMamba3D: Exploring Structural Mamba for Self-supervised Point Cloud Representation Learning**|Chuxin Wang et.al.|[2506.21541](http://arxiv.org/abs/2506.21541)|null|
+|**2025-06-26**|**PsyLite Technical Report**|Fangjun Ding et.al.|[2506.21536](http://arxiv.org/abs/2506.21536)|null|
+|**2025-06-26**|**Exploring the Design Space of 3D MLLMs for CT Report Generation**|Mohammed Baharoon et.al.|[2506.21535](http://arxiv.org/abs/2506.21535)|null|
+|**2025-06-26**|**"What's Up, Doc?": Analyzing How Users Seek Health Information in Large-Scale Conversational AI Datasets**|Akshay Paruchuri et.al.|[2506.21532](http://arxiv.org/abs/2506.21532)|null|
+|**2025-06-26**|**Potemkin Understanding in Large Language Models**|Marina Mancoridis et.al.|[2506.21521](http://arxiv.org/abs/2506.21521)|null|
+|**2025-06-26**|**Mind2Web 2: Evaluating Agentic Search with Agent-as-a-Judge**|Boyu Gou et.al.|[2506.21506](http://arxiv.org/abs/2506.21506)|null|
+|**2025-06-26**|**Bridging Offline and Online Reinforcement Learning for LLMs**|Jack Lanchantin et.al.|[2506.21495](http://arxiv.org/abs/2506.21495)|null|
+|**2025-06-26**|**Efficient and Reuseable Cloud Configuration Search Using Discovery Spaces**|Michael Johnston et.al.|[2506.21467](http://arxiv.org/abs/2506.21467)|null|
 |**2025-06-25**|**The Decrypto Benchmark for Multi-Agent Reasoning and Theory of Mind**|Andrei Lupu et.al.|[2506.20664](http://arxiv.org/abs/2506.20664)|null|
 |**2025-06-25**|**Memento: Note-Taking for Your Future Self**|Chao Wan et.al.|[2506.20642](http://arxiv.org/abs/2506.20642)|null|
 |**2025-06-25**|**Towards Community-Driven Agents for Machine Learning Engineering**|Sijie Li et.al.|[2506.20640](http://arxiv.org/abs/2506.20640)|null|
