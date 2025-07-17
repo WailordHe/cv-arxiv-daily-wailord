@@ -14,6 +14,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Dataset Ownership Verification for Pre-trained Masked Models**|Yuechen Xie et.al.|[2507.12022](http://arxiv.org/abs/2507.12022)|null|
+|**2025-07-16**|**Dual form Complementary Masking for Domain-Adaptive Image Segmentation**|Jiawen Wang et.al.|[2507.12008](http://arxiv.org/abs/2507.12008)|null|
 |**2025-07-13**|**HMID-Net: An Exploration of Masked Image Modeling and Knowledge Distillation in Hyperbolic Space**|Changli Wang et.al.|[2507.09487](http://arxiv.org/abs/2507.09487)|null|
 |**2025-06-26**|**Boosting Generative Adversarial Transferability with Self-supervised Vision Transformer Features**|Shangbo Wu et.al.|[2506.21046](http://arxiv.org/abs/2506.21046)|null|
 |**2025-06-25**|**AdvMIM: Adversarial Masked Image Modeling for Semi-Supervised Medical Image Segmentation**|Lei Zhu et.al.|[2506.20563](http://arxiv.org/abs/2506.20563)|null|
@@ -228,6 +230,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Mitigating Object Hallucinations via Sentence-Level Early Intervention**|Shangpin Peng et.al.|[2507.12455](http://arxiv.org/abs/2507.12455)|null|
+|**2025-07-16**|**Can We Predict Alignment Before Models Finish Thinking? Towards Monitoring Misaligned Reasoning Models**|Yik Siu Chan et.al.|[2507.12428](http://arxiv.org/abs/2507.12428)|null|
+|**2025-07-16**|**Advancing Retrieval-Augmented Generation for Structured Enterprise and Internal Data**|Chandana Cheerla et.al.|[2507.12425](http://arxiv.org/abs/2507.12425)|null|
+|**2025-07-16**|**SWE-Perf: Can Language Models Optimize Code Performance on Real-World Repositories?**|Xinyi He et.al.|[2507.12415](http://arxiv.org/abs/2507.12415)|null|
+|**2025-07-16**|**Assessing the Value of Visual Input: A Benchmark of Multimodal Large Language Models for Robotic Path Planning**|Jacinto Colan et.al.|[2507.12391](http://arxiv.org/abs/2507.12391)|null|
+|**2025-07-16**|**Web-Browsing LLMs Can Access Social Media Profiles and Infer User Demographics**|Meysam Alizadeh et.al.|[2507.12372](http://arxiv.org/abs/2507.12372)|null|
+|**2025-07-16**|**Beyond Single Models: Enhancing LLM Detection of Ambiguity in Requests through Debate**|Ana Davila et.al.|[2507.12370](http://arxiv.org/abs/2507.12370)|null|
+|**2025-07-16**|**GitChameleon: Evaluating AI Code Generation Against Python Library Version Incompatibilities**|Diganta Misra et.al.|[2507.12367](http://arxiv.org/abs/2507.12367)|null|
+|**2025-07-16**|**Thought Purity: Defense Paradigm For Chain-of-Thought Attack**|Zihao Xue et.al.|[2507.12314](http://arxiv.org/abs/2507.12314)|null|
+|**2025-07-16**|**Chain-of-Descriptions: Improving Code LLMs for VHDL Code Generation and Summarization**|Prashanth Vijayaraghavan et.al.|[2507.12308](http://arxiv.org/abs/2507.12308)|null|
 |**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
 |**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|
 |**2025-07-15**|**LLM-based ambiguity detection in natural language instructions for collaborative surgical robots**|Ana Davila et.al.|[2507.11525](http://arxiv.org/abs/2507.11525)|null|
