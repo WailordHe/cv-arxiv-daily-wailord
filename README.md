@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Improving Joint Embedding Predictive Architecture with Diffusion Noise**|Yuping Qiu et.al.|[2507.15216](http://arxiv.org/abs/2507.15216)|null|
 |**2025-07-16**|**Dataset Ownership Verification for Pre-trained Masked Models**|Yuechen Xie et.al.|[2507.12022](http://arxiv.org/abs/2507.12022)|null|
 |**2025-07-16**|**Dual form Complementary Masking for Domain-Adaptive Image Segmentation**|Jiawen Wang et.al.|[2507.12008](http://arxiv.org/abs/2507.12008)|null|
 |**2025-07-20**|**HMID-Net: An Exploration of Masked Image Modeling and Knowledge Distillation in Hyperbolic Space**|Changli Wang et.al.|[2507.09487](http://arxiv.org/abs/2507.09487)|null|
@@ -236,6 +237,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Diffusion Beats Autoregressive in Data-Constrained Settings**|Mihir Prabhudesai et.al.|[2507.15857](http://arxiv.org/abs/2507.15857)|null|
+|**2025-07-21**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855](http://arxiv.org/abs/2507.15855)|null|
+|**2025-07-21**|**The Other Mind: How Language Models Exhibit Human Temporal Cognition**|Lingyu Li et.al.|[2507.15851](http://arxiv.org/abs/2507.15851)|null|
+|**2025-07-21**|**3LM: Bridging Arabic, STEM, and Code through Benchmarking**|Basma El Amel Boussaha et.al.|[2507.15850](http://arxiv.org/abs/2507.15850)|null|
+|**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li et.al.|[2507.15849](http://arxiv.org/abs/2507.15849)|null|
+|**2025-07-21**|**FASTGEN: Fast and Cost-Effective Synthetic Tabular Data Generation with LLMs**|Anh Nguyen et.al.|[2507.15839](http://arxiv.org/abs/2507.15839)|null|
+|**2025-07-21**|**Just Ask for Music (JAM): Multimodal and Personalized Natural Language Music Recommendation**|Alessandro B. Melchiorre et.al.|[2507.15826](http://arxiv.org/abs/2507.15826)|null|
+|**2025-07-21**|**ACS: An interactive framework for conformal selection**|Yu Gui et.al.|[2507.15825](http://arxiv.org/abs/2507.15825)|null|
+|**2025-07-21**|**Do AI models help produce verified bug fixes?**|Li Huang et.al.|[2507.15822](http://arxiv.org/abs/2507.15822)|null|
+|**2025-07-21**|**LLM Economist: Large Population Models and Mechanism Design in Multi-Agent Generative Simulacra**|Seth Karten et.al.|[2507.15815](http://arxiv.org/abs/2507.15815)|null|
 |**2025-07-21**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111](http://arxiv.org/abs/2507.14111)|null|
 |**2025-07-18**|**Automated Interpretation of Non-Destructive Evaluation Contour Maps Using Large Language Models for Bridge Condition Assessment**|Viraj Nishesh Darji et.al.|[2507.14107](http://arxiv.org/abs/2507.14107)|null|
 |**2025-07-18**|**Generative AI-Driven High-Fidelity Human Motion Simulation**|Hari Iyer et.al.|[2507.14097](http://arxiv.org/abs/2507.14097)|null|
